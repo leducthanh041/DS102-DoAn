@@ -13,7 +13,7 @@
   },
   {
     "review": "Một trường quốc tế nổi tiếng ở TPHCM đột ngột thông báo đóng cửa — Do vướng phải khó khăn, sau 15 năm hoạt động, Trường Quốc tế Sài Gòn Pearl (TPHCM) sẽ đóng cửa khi kết thúc năm học 2024-2025 này.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Học viện Ngân hàng dự kiến giảm xét tuyển bằng điểm thi tốt nghiệp — Học viện Ngân hàng dự kiến năm 2025 chỉ dành 45% chỉ tiêu xét tuyển bằng điểm thi tốt nghiệp THPT, giảm 5% so với năm ngoái.",
@@ -73,7 +73,7 @@
   },
   {
     "review": "Bộ Công an sắp xếp tổ chức bộ máy theo ba cấp để phục vụ nhân dân tốt hơn — Thực hiện Kết luận số 121-KL/TW ngày 24/01/2025 của Ban Chấp hành Trung ương, Bộ Công an khẩn trương thực hiện sắp xếp mô hình Công an từ 4 cấp thành 3 cấp, tiếp nhận 5 nhiệm vụ mới từ các bộ, ngành.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Công bố quyết định kiểm tra của Bộ Chính trị với Quân ủy Trung ương — Chiều 18-2, tại Hà Nội, đoàn kiểm tra số 1913 của Bộ Chính trị tổ chức Hội nghị công bố Quyết định kiểm tra của Bộ Chính trị năm 2025 đối với Quân ủy Trung ương",
@@ -213,7 +213,7 @@
   },
   {
     "review": "Gia đình ở Trà Vinh có 4 thành viên trùng tên, người mẹ kể 'sự cố' hài hước — Chị Nguyên kể, con trai đầu tên Kim Song Nguyên, thường xuyên bị nhầm là người Hàn Quốc. Mỗi khi đưa con đi tiêm phòng, đến bệnh viện hay làm thủ tục giấy tờ... chị đều phải giải đáp các câu hỏi liên quan đến cái tên đặc biệt.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "King Coffee tại Hạ Long: Cảm nhận trọn vẹn tinh thần di sản — Hạ Long, với vẻ đẹp thiên nhiên kỳ vĩ và sức hút du lịch mạnh mẽ, là điểm đến lý tưởng để King Coffee khai trương cửa hàng mới và lan toả văn hóa cà phê Việt Nam.",
@@ -437,7 +437,7 @@
   },
   {
     "review": "Nhà Trắng giải thích về vết bầm tím lớn trên tay ông Trump — Hình ảnh ông Trump với vết bầm tím lớn trên tay phải khi gặp Tổng thống Pháp Emmanuel Macron hồi đầu tuần này đã làm dấy lên nhiều đồn đoán trên mạng xã hội về sức khỏe của ông.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Malaysia khôi phục việc tìm kiếm máy bay MH370 mất tích bí ẩn sau 11 năm — Malaysia đã thuê một công ty thám hiểm hàng hải Anh khôi phục việc tìm kiếm máy bay chở khách MH370 của hãng hàng không Malaysia Airlines mất tích bí ẩn cách đây 11 năm.",
@@ -473,11 +473,11 @@
   },
   {
     "review": "Bộ Tư pháp Mỹ cảnh báo chính quyền các bang cần tuân thủ sắc lệnh của ông Trump — Bộ Tư pháp Mỹ hôm 25/2 đã yêu cầu chính quyền ba bang Maine, California và Minnesota cần tuân thủ theo sắc lệnh được Tổng thống Mỹ Donald Trump ký đầu tháng này.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Ukraine đạt thỏa thuận khoáng sản với Mỹ, UAV Nga tập kích vào Kiev — Truyền thông Ukraine đưa tin, chính quyền nước này ngày 25/2 đã đồng ý với những điều khoản trong thỏa thuận khoáng sản với Mỹ.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Lo Mỹ - Israel hợp lực tấn công, Iran tăng cường phòng thủ quanh cơ sở hạt nhân — Iran đã đặt hệ thống phòng thủ xung quanh các địa điểm hạt nhân và tên lửa quan trọng vào tình trạng báo động cao, giữa mối lo Mỹ và Israel hợp lực tấn công.",
@@ -489,7 +489,7 @@
   },
   {
     "review": "MU ‘cướp’ viên ngọc Asencio của Real Madrid — MU được loan tin tiếp cận “viên ngọc” Raul Asencio của Real Madrid, hậu vệ đa năng thi đấu nổi bật thời gian gần đây.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Tin tức về chuyển nhượng 27/2: MU mua Kounde, Man City ký Leao — Tin tức về chuyển nhượng 27/2: MU đàm phán mua Jules Kounde, Man City muốn ký Rafael Leao, PSG liên hệ thủ môn Tây Ban Nha.",
@@ -581,7 +581,7 @@
   },
   {
     "review": "UBND TPHCM chỉ đạo mới gỡ vướng dự án chống ngập 10.000 tỷ đồng — Lãnh đạo TPHCM vừa có những chỉ đạo mới đến các sở, ngành liên quan để tháo gỡ vướng mắc tại dự án chống ngập 10.000 tỷ đồng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hòa Bình, Sơn La giải thể công an cấp huyện — Công an tỉnh Hòa Bình và Sơn La thực hiện quyết định giải thể công an cấp huyện, sắp xếp lại nhân sự để tinh gọn bộ máy, nâng cao hiệu quả quản lý an ninh, trật tự.",
@@ -589,7 +589,7 @@
   },
   {
     "review": "2 tháng áp dụng Nghị định 168: Phạt hơn 105 nghìn trường hợp vi phạm nồng độ cồn — Đại diện của Cục CSGT (Bộ Công an) cho biết, sau 2 tháng áp dụng Nghị định 168, lực lượng CSGT toàn quốc đã xử phạt hơn 105 nghìn trường hợp vi phạm nồng độ cồn, vi phạm này đã giảm gần 1 nửa.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Hà Nội tiếp tục tăng nhiệt đến 28 độ, rồi lại đón không khí lạnh mạnh — Miền Bắc tiếp tục có nắng và tăng nhiệt nhanh cho đến đầu tuần tới (3/3), với mức cao nhất ở Hà Nội là 28 độ; sau đó lại đón không khí lạnh mạnh vào khoảng 4-5/3, gây mưa 2-3 ngày và trời rét kéo dài.",
@@ -605,7 +605,7 @@
   },
   {
     "review": "Ký ức không quên của nữ cựu tù bị địch bắt, tù đày — Bị địch bắt, nữ chiến sĩ không lo sợ trước những trận tra tấn dã man của địch. Ngược lại, bà động viên, dặn gia đình không mềm yếu, sợ hãi trước kẻ thù.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Thót tim cảnh nhấc xe bán tải cứu bé trai bị kẹt dưới gầm — Trong lúc đi học về, xe đạp do em N.H.N (11 tuổi) điều khiển va chạm với xe bán tải. Lực lượng chức năng phải điều xe cẩu đến hiện trường để giải cứu cháu bé lọt dưới gầm xe.",
@@ -661,7 +661,7 @@
   },
   {
     "review": "Đắk Lắk phấn đấu quy mô kinh tế số đạt tối thiểu 30% GRDP của tỉnh vào năm 2030 — Ban Thường vụ Tỉnh ủy vừa ban hành Chương trình số 61-CTr/TU, ngày 25/2/2025 thực hiện Nghị quyết số 57-NQ/TW của Bộ Chính trị về “Đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia” trên địa bàn tỉnh Đắk Lắk.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Trao quyết định bổ nhiệm 2 Thứ trưởng Bộ KH&CN Phạm Đức Long, Bùi Hoàng Phương — Với việc Thủ tướng điều động, bổ nhiệm các ông Phạm Đức Long và Bùi Hoàng Phương làm Thứ trưởng Bộ KH&CN, bộ máy giúp việc cho Bộ trưởng Nguyễn Mạnh Hùng hiện có 5 thứ trưởng.",
@@ -729,7 +729,7 @@
   },
   {
     "review": "Nữ diễn viên 41 tuổi mặc váy xuyên thấu gây sốc lên thảm đỏ — MỸ - Nữ diễn viên Olivia Wilde gây sốc khi xuất hiện tại tiệc hậu lễ trao giải Oscar trong chiếc váy ren xuyên thấu mỏng dính của Chloé, để lộ nội y và gần như toàn bộ cơ thể.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "‘Khát vọng non sông’ - hoạt hình lịch sử lan tỏa tình yêu lịch sử Việt Nam — Sau hơn một thập kỷ đồng hành cùng khán giả, series hoạt hình lịch sử “Khát vọng non sông” phát sóng trên VTV1 đã khép lại với hơn 2.500 tập phim, mang đến một bộ \"sử ký” hình ảnh, góp phần lan tỏa tình yêu lịch sử.",
@@ -741,7 +741,7 @@
   },
   {
     "review": "Diễn viên Salim xúc động trong lễ ăn hỏi với chồng doanh nhân — Diễn viên Salim phim \"Thiên thần hộ mệnh\" - cùng ông xã doanh nhân xúc động nghẹn ngào trong lễ ăn hỏi với sự góp mặt của con gái - bé Pam.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Cú sốc lớn nhất ở Oscar 2025 — Lễ trao giải Oscar 2025 vừa kết thúc tại Los Angeles, Mỹ. Bất ngờ khi giải thưởng cao nhất ở hạng mục ''Nữ diễn viên chính xuất sắc nhất'' được trao cho mỹ nhân sinh năm 1999.",
@@ -753,7 +753,7 @@
   },
   {
     "review": "NSND Phạm Phương Thảo làm lễ ăn hỏi ở tuổi 43 với bạn trai doanh nhân — Lễ ăn hỏi của NSND Phạm Phương Thảo và bạn trai doanh nhân diễn ra hôm 2/3 tại Nghệ An.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "'Nhà gia tiên' đạt doanh thu 'khủng', đè bẹp phim 'Anh trai say hi' — Cuối tuần qua, \"Nhà gia tiên\" tiếp tục dẫn đầu doanh thu phòng vé với con số cách biệt so với á quân ''Anh trai say hi: Kẻ phản diện tạo nên người hùng''.",
@@ -769,19 +769,19 @@
   },
   {
     "review": "Bài mẫu viết thư UPU lần thứ 54 năm 2025: Đại dương 'ngạt thở' với rác thải y tế — Chủ đề cuộc thi viết thư UPU lần thứ 54 được đánh giá khá thú vị khi người viết tưởng tượng mình là đại dương. VietNamNet xin giới thiệu bài mẫu, độc giả có thể tham khảo.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "4 năm khuyết nhiều vị trí lãnh đạo, ĐH Sư phạm kỹ thuật TPHCM có hiệu trưởng mới — PGS.TS Lê Hiếu Giang, 53 tuổi, được công nhận làm Hiệu trưởng Trường Đại học Sư phạm kỹ thuật TPHCM sau 4 năm trường khuyết nhiều vị trí lãnh đạo quan trọng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Trường Đại học Hùng Vương TP.HCM có 3 chương trình đạt kiểm định chất lượng — Chiều 28/2, Trường Đại học Hùng Vương TP.HCM (DHV) tổ chức Lễ công bố quyết định và trao giấy chứng nhận kiểm định chất lượng cho 3 chương trình đào tạo: ngành Luật, ngành Marketing trình độ đại học và ngành Quản trị Kinh doanh trình độ Thạc sĩ.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Nhiều phụ huynh cho con luyện cách sử dụng AI từ sớm — Khi AI ngày càng phổ biến, một số người đang cho con cái tiếp xúc với công cụ như ChatGPT, Dall-E để học hỏi và gắn kết.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hà Nội có thêm 1 trường năng khiếu cấp 2 — UBND quận Cầu Giấy vừa có quyết định cho phép thành lập Trường THCS Năng khiếu Đại học Sư phạm trực thuộc Trường Đại học Sư phạm Hà Nội.",
@@ -917,7 +917,7 @@
   },
   {
     "review": "Quản lý nhà nước về báo chí, không phải để cấm mà để kiến tạo cho sự phát triển — Sáng 7.3, Ủy viên Ban Chấp hành Trung ương Đảng, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch (VHTTDL) Nguyễn Văn Hùng đã chủ trì buổi làm việc với Cục Báo chí, Bộ VHTTDL.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hai Thủ tướng Việt Nam và Kyrgzystan thăm Nhà sàn, Ao cá Bác Hồ, uống cà phê — Sáng 7/3, trong khuôn khổ chuyến thăm chính thức Việt Nam của Thủ tướng Kyrgyzstan, tại Khu di tích Phủ Chủ tịch, Thủ tướng Phạm Minh Chính cùng Thủ tướng Adylbek Kasymaliev tham quan Nhà sàn Bác Hồ và thưởng thức cà phê.",
@@ -1009,7 +1009,7 @@
   },
   {
     "review": "Sẽ ra sao nếu giờ này tài khoản ngân hàng chưa xác thực sinh trắc học? — Từ đầu năm nay, chủ tài khoản ngân hàng bắt buộc phải xác thực sinh trắc học và cập nhật giấy tờ tùy thân hợp lệ, nếu không sẽ bị tạm dừng/hạn chế giao dịch trực tuyến.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Thủ tướng yêu cầu rà soát sắc thuế đang áp dụng với Mỹ và các nước — Theo Chỉ thị số 06 ngày 10/3/2025, Thủ tướng Phạm Minh Chính giao Bộ Tài chính rà soát các sắc thuế đang áp dụng với các nước, trong đó có Mỹ trên tinh thần đảm bảo hài hòa, cân bằng lợi ích.",
@@ -1033,7 +1033,7 @@
   },
   {
     "review": "Ngồi từ sáng đến tối được 120.000 đồng, tiểu thương chợ lớn nhất tỉnh buộc 'quay xe' — Nhiều tháng qua, buôn bán ế ẩm, hơn 200 ki-ốt tại chợ lớn nhất tỉnh Hà Tĩnh bỏ trống. Nhiều tiểu thương treo biển cho thuê hoặc \"bán quầy\".",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Thấu chi ứng lương VPBank - hỗ trợ tài chính cấp bách cho người lao động — Thủ tục đơn giản, thời gian phê duyệt nhanh chóng, hạn mức lên tới 80 triệu đồng, sản phẩm Thấu chi ứng lương của Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank) giúp người lao động nhanh chóng giải quyết khó khăn khi có nhu cầu tài chính cấp bách.",
@@ -1161,11 +1161,11 @@
   },
   {
     "review": "Hằng Du Mục, Quang Linh Vlogs bán 100.000 lọ kẹo rau Kera, nguyên liệu mua khắp nơi — Lãnh đạo Công ty Chị Em Rọt cho biết đã bán ra hơn 100.000 hộp kẹo rau Kera và khẳng định 100% đều được sản xuất tại Việt Nam, nguyên liệu thu mua từ nhiều vùng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hằng 'Du Mục' trả lời về nghi vấn kẹo rau củ Kera giống sản phẩm của Trung Quốc — Theo Công ty Chị Em Rọt, kẹo rau củ Kera hoàn toàn sản xuất tại Việt Nam bằng nguồn nguyên liệu thu mua trong cả nước, trải qua quy trình nghiêm ngặt.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Chu Thanh Huyền nhận lỗi về quảng cáo sản phẩm gây hiểu lầm — Theo Chu Thanh Huyền, sản phẩm này cô dùng cho con trai từ hơn 7 tháng, bé hợp và thích hương vị của sữa nên chỉ chia sẻ lại với mọi người.",
@@ -1173,7 +1173,7 @@
   },
   {
     "review": "Hằng 'Du Mục' bật khóc, Quang Linh Vlogs sẽ về châu Phi sau vụ quảng cáo 'lố' kẹo rau — Trong buổi gặp gỡ báo chí chiều 14/3, đại diện Công ty Chị Em Rọt gửi lời xin lỗi \"vì những sai sót không đáng có dẫn đến thông tin sai lệch ảnh hưởng tới mọi người\" và cho rằng \"những vấn đề này đến từ sự non trẻ, thiếu va vấp, ít kinh nghiệm”.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "TPHCM lấy mẫu xét nghiệm kẹo rau Kera được Hằng 'Du Mục' quảng cáo — Sở An toàn thực phẩm TPHCM đã lấy mẫu kẹo rau Kera của Công ty cổ phần Tập đoàn Chị Em Rọt để kiểm nghiệm về thành phần của sản phẩm.",
@@ -1249,7 +1249,7 @@
   },
   {
     "review": "Thân thế ông trùm bất động sản làm trung gian hòa bình giữa Nga và Ukraine — Ông Steve Witkoff ban đầu được chỉ định là phái viên Trung Đông của Tổng thống Mỹ Donald Trump, nhưng hiện đã tham gia các cuộc đàm phán với Nga nhằm chấm dứt xung đột ở Ukraine.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hình ảnh hiếm về sà lan đổ bộ mới của Trung Quốc — Video về sà lan đổ bộ mới của Trung Quốc, được chia sẻ trên mạng xã hội WeChat cho thấy một cầu tàu tạm thời có thể kết nối với các tàu khác thông qua một hoặc nhiều sà lan và các giá đỡ.",
@@ -1269,7 +1269,7 @@
   },
   {
     "review": "Kết quả Ngoại hạng Anh 2024/25 - Vòng 29: MU đại thắng, bất ngờ cầu thủ ghi bàn — Kết quả bóng đá Ngoại hạng Anh mùa giải 2023/2024 vòng 29 được cập nhật liên tục và nhanh nhất tại báo VietNamNet.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "U22 Việt Nam hòa Quảng Ninh, rút cầu thủ Việt kiều chỉ sau 15 phút — U22 Việt Nam hòa đội hạng Nhì Quảng Ninh 1-1 ở trận đấu tập chiều 16/3, trong đó cầu thủ Việt kiều Andrej Nguyễn An Khánh được thay ra chỉ sau 15 phút vào sân.",
@@ -1293,7 +1293,7 @@
   },
   {
     "review": "CĐV Bình Dương đội nắng săn vé xem tuyển Việt Nam đấu Campuchia — CĐV Bình Dương đội nắng săn vé, tìm cơ hội xem tuyển Việt Nam đấu Campuchia trên sân Gò Đậu.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Ba lý do giúp Arsenal có thể thắng Chelsea — Phong độ của Arsenal gần đây không ổn định, nhưng đội quân của Mikel Arteta vẫn có cơ hội thắng Chelsea ở vòng 29 Premier League.",
@@ -1301,7 +1301,7 @@
   },
   {
     "review": "Mbappe đạt 2 cột mốc ghi bàn ấn tượng, Lewandowski lo ngay ngáy — Mbappe đạt 2 cột mốc ghi bàn ấn tượng cùng Real Madrid, Lewandowski lo ngay ngáy mất vị trí dẫn đầu Vua phá lưới La Liga.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Mbappe và Bellingham đổ gục vì kiệt sức, Ancelotti tuyên bố gắt — HLV Carlo Ancelotti đưa ra tuyên bố đanh thép, sau khi các trụ cột như Mbappe, Jude Bellingham,… đều đổ gục xuống sân lúc tan trận Real Madrid 2-1 Villareal.",
@@ -1341,7 +1341,7 @@
   },
   {
     "review": "Duy Mạnh, Hai Long tái hiện những hình ảnh lịch sử bóng đá Việt Nam — Duy Mạnh và Hai Long cùng tái hiện những hình ảnh lịch sử của bóng đá Việt Nam trên sân Mỹ Đình tối 15/3.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Cháy lớn chợ Thanh Đa ở TPHCM — Một dãy ki-ốt bên trong chợ Thanh Đa, quận Bình Thạnh (TPHCM) cháy lớn với biển lửa đỏ rực kèm khói bao trùm.",
@@ -1445,7 +1445,7 @@
   },
   {
     "review": "Google chi 32 tỷ USD 'tiền tươi' mua lại startup an ninh mạng Israel — Thương vụ mua lại hãng bảo mật Wiz – nếu được phê duyệt – sẽ là giao dịch lớn nhất trong lịch sử của Google.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Startup Việt gọi vốn thành công 1 triệu USD để phát triển AI — Filum AI – startup Việt Nam được thành lập từ năm 2020 vừa huy động thành công 1 triệu USD từ nhiều quỹ đầu tư lớn trong khu vực.",
@@ -1453,7 +1453,7 @@
   },
   {
     "review": "Nhà Trắng đã có thể dùng Starlink của Elon Musk — Theo quan chức Chính phủ Mỹ, công ty SpaceX của Elon Musk đã quyên tặng dịch vụ Internet vệ tinh Starlink cho Nhà Trắng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Nguyên Thứ trưởng Bộ KH&CN làm Chủ tịch Hội Thông tin KH&CN Việt Nam — Ông Trần Văn Tùng, nguyên Thứ trưởng Bộ KH&CN vừa được bầu giữ vai trò Chủ tịch Hội Thông tin Khoa học và Công nghệ Việt Nam.",
@@ -1465,7 +1465,7 @@
   },
   {
     "review": "Trung Quốc không cần silicon vẫn có thể chế tạo chip — Nhóm nghiên cứu Trung Quốc đã dùng bismuth – một kim loại yếu, có đặc tính giòn, nặng và kết tinh màu trắng để sản xuất chip thay cho silicon truyền thống.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Huawei tiến gần hơn đến loại bỏ chip Intel, Windows — Huawei tiến thêm một bước trong công cuộc loại bỏ phần cứng, phần mềm phương Tây ra khỏi máy tính cá nhân của mình.",
@@ -1513,7 +1513,7 @@
   },
   {
     "review": "Thí sinh bị bàn tán nhiều nhất ‘Nam vương Campuchia’ từng trầm cảm vì xấu xí — Lai Thai, thí sinh nổi bật tại 'Nam vương Campuchia' từng trầm cảm vì ngoại hình sinh ra đã không được đẹp. Anh tham gia cuộc thi vì mong muốn thể hiện bản thân, truyền động lực đến mọi người.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Hoa hậu Huỳnh Thị Thanh Thủy áp lực khi ngồi 'ghế nóng' — “Tôi có tiêu chí riêng khi đánh giá thí sinh. Tôi không lựa chọn thí sinh có hình mẫu giống mình hay các hoa hậu tiền nhiệm\", Hoa hậu Thanh Thuỷ chia sẻ tại họp báo công bố 41 thí sinh vào vòng chung khảo Hoa hậu Việt Nam 2024.",
@@ -1637,7 +1637,7 @@
   },
   {
     "review": "Hà Nội phải làm rõ việc dân đội mưa đòi nhà; vay vàng mua nhà chao đảo nhìn giá — Bất động sản tuần qua nổi bật với tin tức về dự án liên quan 'ngón trỏ triệu USD' của cựu bí thư Vĩnh Phúc; Bộ Xây dựng yêu cầu Hà Nội làm rõ việc trăm người đội mưa đi đòi nhà ở xã hội; Diễn biến lạ của đất đấu giá ven Hà Nội…",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Ông Nguyễn Trọng Nghĩa phát biểu tại lễ kỷ niệm 50 năm giải phóng tỉnh Quảng Nam — VietNamNet trân trọng giới thiệu toàn văn phát biểu của ông Nguyễn Trọng Nghĩa, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Tuyên giáo và Dân vận Trung ương tại Lễ kỷ niệm 50 năm ngày giải phóng tỉnh Quảng Nam (24/3/1975 - 24/3/2025).",
@@ -1653,7 +1653,7 @@
   },
   {
     "review": "Bộ trưởng Công an: Chính các bạn trẻ phải bảo vệ dữ liệu cá nhân của mình — Bộ trưởng Công an nhắn nhủ đến thế hệ thanh niên: Không ai khác, chính mỗi cá nhân và chính các bạn trẻ phải hướng dẫn, tuyên truyền, vận động để cùng bảo vệ dữ liệu cá nhân của mình.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Kiện toàn nhân sự trưởng đoàn Đại biểu Quốc hội nhiều tỉnh thành — Ngày 24/3, Chủ tịch Quốc hội Trần Thanh Mẫn ký ban hành một số nghị quyết của Ủy ban Thường vụ Quốc hội về công tác cán bộ, phê chuẩn nhân sự 4 địa phương, trong đó có kiện toàn nhân sự trưởng đoàn đại biểu Quốc hội một số tỉnh.",
@@ -1729,7 +1729,7 @@
   },
   {
     "review": "‘Cơn sốt’ thuê robot hình người tại Trung Quốc — Mặc dù chi phí thuê lên đến hàng chục triệu đồng mỗi ngày, robot hình người tại Trung Quốc vẫn trong tình trạng \"cháy hàng\" và kín lịch do nhu cầu tăng vọt.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Công nghệ vũ khí xung điện từ của Trung Quốc phát triển đột phá — Gần đây, các tổ chức nghiên cứu và thiết kế vũ khí của Trung Quốc đặc biệt tập trung vào phát triển vũ khí sử dụng công nghệ xung điện từ và đã đạt được những thành tựu quan trọng.",
@@ -1753,7 +1753,7 @@
   },
   {
     "review": "Đại gia đình ở Hải Dương có gần 500 người, ngày giỗ cụ làm hơn trăm mâm cỗ — Vào dịp giỗ cụ, đại gia đình gần 500 thành viên ở Hải Dương từ già đến trẻ lên kế hoạch bài bản, chi tiết để mọi thứ diễn ra suôn sẻ, ý nghĩa.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "4 lời khuyên quý giá của tỷ phú 97 tuổi dành cho người muốn thành công — TRUNG QUỐC - Đúc kết cuộc đời mình, tỷ phú 97 tuổi Lý Triệu Cơ đã để lại 4 lời khuyên quý giá, dành cho những người muốn có được thành công thật sự.",
@@ -1765,7 +1765,7 @@
   },
   {
     "review": "Người đàn ông 42 tuổi muốn chữa lành 'vết thương lòng' cho mẹ 3 con — Trải qua 3 mối tình không thành, người đàn ông 42 tuổi mong tìm được người phụ nữ tốt bụng, chân thành để tính chuyện tương lai.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Cách nấu canh cá hồi ngon đúng chuẩn — Canh cá hồi là món ăn vừa bổ dưỡng vừa thanh mát, lại dễ ăn. Canh chua cá hồi chế biến khá đơn giản. Hôm nay, VietNamNet sẽ giới thiệu cách nấu canh cá hồi thơm ngon, đúng chuẩn.",
@@ -1797,7 +1797,7 @@
   },
   {
     "review": "Phố cà phê đường tàu Hà Nội ngày vắng, tối đông như chưa hề có lệnh cấm — Sau đợt kiểm tra và xử phạt vào ngày 24/3, phố cà phê đường tàu Hà Nội vắng lặng trong giờ hành chính nhưng đến tối muộn, cảnh đông đúc lại tái diễn.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Quán phở ở Hà Nội có món tái lăn 'bốc lửa', khách ngồi kín trong nhà ngoài cửa — 7h30 sáng, quán phở của bà Phạm Thị Bích Vân (70 tuổi) ở phố Ô Quan Chưởng (Hoàn Kiếm, Hà Nội) tấp nập người ra, người vào. Khách ngồi kín các dãy bàn từ trong nhà ra ngoài cửa.",
@@ -1813,7 +1813,7 @@
   },
   {
     "review": "Hoàn thiện thể chế nhằm bảo đảm ‘lợi ích hài hòa, rủi ro chia sẻ’ trong đầu tư — Những điểm nghẽn, rủi ro trong các lĩnh vực liên quan đến đất đai, tài chính, đầu tư… sẽ được phân tích, thảo luận tại hội thảo quốc tế sắp diễn ra tại Quảng Ninh.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Pin ắc quy Miền Nam bị xử phạt và truy thu thuế hơn 2,2 tỷ đồng — Công ty CP Pin Ắc quy Miền Nam (Pinaco, mã chứng khoán: PAC) vừa công bố quyết định xử phạt vi phạm hành chính về thuế của Chi Cục Thuế khu vực II. Tổng số tiền thuế truy thu, tiền phạt và tiền chậm nộp hơn 2,2 tỷ đồng.",
@@ -1865,11 +1865,11 @@
   },
   {
     "review": "Vé trúng Vietlott hơn 186 tỷ đồng lại được bán ra ở TP Hồ Chí Minh — Tấm vé số trúng giải độc đắc Jackpot 1 ở loại hình xổ số Power 6/55 của Vietlott với giá trị hơn 186 tỷ đồng vào tối 27/3 được bán ra ở một địa phương đã có nhiều người trúng giải.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Điểm kho dự trữ quốc gia ở Hải Phòng xuống cấp, đã dừng hoạt động — Theo Cục Dự trữ Nhà nước (DTNN), điểm kho Hỗ thuộc Chi cục DTNN Kiến An, Cục DTNN khu vực Đông Bắc (nay là Chi cục DTNN khu vực III, Cục DTNN) đã dừng hoạt động, không được sử dụng để bảo quản hàng dự trữ quốc gia từ năm 2022.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Giá vàng hôm nay 28/3/2025: Nhẫn và SJC tăng vùn vụt, sắp cán mốc 101 triệu đồng — Giá vàng hôm nay 28/3/2025 trong nước tăng phi mã gần 2 triệu đồng mỗi lượng, nhẫn trơn và SJC vọt lên 100,7 triệu đồng/lượng. Giá vàng trên thế giới vẫn tăng liên tiếp, xác lập kỷ lục mới cao nhất mọi thời đại.",
@@ -1929,7 +1929,7 @@
   },
   {
     "review": "6 mẫu xe SUV cần tránh mua, nhiều cái tên quen thuộc với khách hàng Việt Nam — Trong 6 chiếc xe SUV cần tránh mua, có mẫu xe vì lo ngại về an toàn, trong khi một số khác có thể khiến chủ xe tốn kém chi phí sửa chữa xe.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Cựu giám đốc Trung tâm Lý lịch tư pháp quốc gia nhận hối lộ hơn 43 tỷ đồng — Các bị can là cựu lãnh đạo Trung tâm Lý lịch tư pháp quốc gia đã lợi dụng thẩm quyền được giao để thỏa thuận nhận hối lộ giải quyết hồ sơ cấp phiếu lý lịch tư pháp trái quy định.",
@@ -1985,7 +1985,7 @@
   },
   {
     "review": "Loài côn trùng bé bằng hạt gạo có độc tính mạnh gấp 12 - 15 lần nọc rắn hổ — Kiến ba khoang có chứa độc tố Pederin, độc tính mạnh gấp 12-15 lần nọc của rắn hổ, tác động trên da như loại axit mạnh có thể khiến vùng da tiếp xúc tổn thương, bỏng rát.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Tử vong thương tâm vì tin ‘bác sĩ’ trên TikTok cam kết chữa khỏi — Bị ung thư gan, anh T. vô cùng lo lắng, hoang mang. Khi gặp một \"thần y\" trên mạng TikTok, cả gia đình hy vọng anh sẽ sống thêm vài năm tuy nhiên, bệnh nhân tử vong sau 3 tuần.",
@@ -1997,7 +1997,7 @@
   },
   {
     "review": "Hàn Quốc sẵn sàng 'phản ứng mạnh mẽ' trước động thái của Triều Tiên — Quyền Tổng thống Hàn Quốc Han Duck-soo nhấn mạnh, quân đội nước này phải lường trước mọi viễn cảnh đụng độ với Triều Tiên và đưa ra phản ứng mạnh mẽ.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Israel không kích ngoại ô thủ đô Lebanon, leo thang căng thẳng với Hezbollah — Lực lượng phòng vệ Israel (IDF) mới đây đã tiến hành chiến dịch không kích nhắm vào một thành viên Hezbollah ở vùng ngoại ô phía nam thủ đô Beirut của Lebanon.",
@@ -2117,7 +2117,7 @@
   },
   {
     "review": "Nhận định CAHN vs PSM Makassar: Quang Hải, Quang Vinh vượt khó — CAHN tự tin có thể giành kết quả tốt nhất trên sân của PSM Makassar, lượt đi bán kết Cúp CLB Đông Nam Á, lúc 19h30 ngày 2/4.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Leverkusen thua sốc đội hạng 3 ở bán kết Cúp quốc gia Đức — Bayer Leverkusen để thua ngược Arminia Bielefeld với tỷ số 1-2, qua đó mất tấm vé vào chung kết Cúp quốc gia Đức 2024/25.",
@@ -2137,7 +2137,7 @@
   },
   {
     "review": "U17 Việt Nam: Chiếc vé World Cup tưởng xa mà lại... gần — U17 Việt Nam chuẩn bị bước vào VCK U17 châu Á 2025 cho giấc mơ dự World Cup. Đâu là cơ sở để đoàn quân của HLV Cristiano Roland hoàn toàn có thể làm được.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Saka tái xuất ghi bàn, Arsenal đánh bại Fulham — Bukayo Saka trở lại sau chấn thương đã lập tức tỏa sáng với bàn thắng giúp Arsenal hạ Fulham 2-1, qua đó rút ngắn khoảng cách với Liverpool xuống còn 9 điểm.",
@@ -2153,7 +2153,7 @@
   },
   {
     "review": "Hải Phòng thân thiện trở thành chủ đề Giải báo chí lần thứ 7 — Giải báo chí “Vì một Hải Phòng phát triển” lần thứ 7 được Sở Văn hóa Thể thao và Du lịch Hải Phòng phát động với chủ đề “Hải Phòng – Thành phố thân thiện”.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Luật sư của bà Trương Mỹ Lan: ‘Có hơn 50.000 tỷ bồi thường cho các trái chủ’ — Bào chữa cho bà Trương Mỹ Lan, luật sư cho rằng với số tiền bà Lan nộp khắc phục cộng các nguồn tiền, tài sản khác là hơn 50.000 tỷ đồng. Số tiền này có thể dùng để trả cho các trái chủ.",
@@ -2233,7 +2233,7 @@
   },
   {
     "review": "Thi hành án vụ Vạn Thịnh Phát khó khăn, 'chưa từng có trong tiền lệ' — Bộ Tư pháp cho biết, 6 tháng qua, cơ quan chức năng đã thi hành xong 2.061 việc với số tiền hơn 9.781 tỷ đồng từ các vụ án tham nhũng, kinh tế. Trong đó, đã rất tích cực thực hiện thi hành án dân sự vụ Vạn Thịnh Phát.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Xôn xao clip bảo vệ bến xe Đồng Nai cầm vật giống súng trong vụ xô xát — Ngày 3/4, Công an phường Bình Đa (TP Biên Hòa, Đồng Nai) làm việc với những người liên quan sau vụ bảo vệ bến xe Đồng Nai cầm vật giống súng trong clip xô xát tại khu vực này.",
@@ -2285,7 +2285,7 @@
   },
   {
     "review": "H'hen Niê bị chồng trêu vẽ thêm râu, Hồng Diễm trẻ trung ở tuổi 42 — H'Hen Niê hài hước với hình ảnh bị chồng vẽ thêm râu. Diễn viên Hồng Diễm trẻ trung ở tuổi 42.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Phim 'Địa đạo' đạt doanh thu không tưởng, vượt xa cơn sốt 'Đào, Phở và Piano' — Dù có hai ngày gián đoạn doanh thu do các rạp chiếu đóng cửa, phim chiến tranh \"Địa đạo\" vẫn nhanh chóng cán mốc doanh thu 50 tỷ ngay ngày đầu tiên.",
@@ -2345,7 +2345,7 @@
   },
   {
     "review": "Học 2 buổi/ngày, phải để phụ huynh thấy con không phải mang bài về nhà làm — Bộ GD-ĐT phải hướng dẫn việc học 2 buổi/ngày là để học sinh có cơ hội học tập và trải nghiệm nhiều hơn, chứ không phải để tăng áp lực học tập. Thậm chí phải để phụ huynh thấy con học 2 buổi thì về cơ bản sẽ không phải mang bài tập về nhà làm.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Tỉnh nào chỉ có 4 huyện nhưng người dân thu nhập cao nhất cả nước? — Người dân tỉnh này có thu nhập bình quân đầu người cao nhất cả nước hiện nay với 8,3 triệu đồng/người/tháng nhưng cả tỉnh chỉ có 4 huyện.",
