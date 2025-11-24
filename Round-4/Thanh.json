@@ -9,7 +9,7 @@
   },
   {
     "review": "Tổng Bí thư: Đưa chủ trương của Đảng thấm sâu vào trái tim, khối óc của mỗi cán bộ, đảng viên và nhân dân — Tổng Bí thư cho rằng cần tiếp tục đổi mới cách thức tổ chức quán triệt nghị quyết để đưa chủ trương, đường lối của Đảng thấm sâu vào trái tim, khối óc của mỗi cán bộ, đảng viên và nhân dân.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Bộ trưởng Tư pháp: Chưa đề xuất tăng mức phạt tối đa với bất kỳ lĩnh vực nào — Theo Bộ trưởng Nguyễn Hải Ninh, dự luật đang trình Quốc hội không đề xuất điều chỉnh tăng mức tiền phạt tối đa đối với bất kỳ lĩnh vực quản lý nhà nước nào của Luật Xử lý vi phạm hành chính hiện hành.",
@@ -25,7 +25,7 @@
   },
   {
     "review": "Thượng tướng Nguyễn Văn Thành: Cần nhận diện thủ đoạn mới của thế lực chống phá — Thượng tướng Nguyễn Văn Thành, Phó Chủ tịch chuyên trách Hội đồng Lý luận Trung ương nhấn mạnh cần chủ động đấu tranh với các quan điểm sai trái, thù địch, bảo vệ nền tảng tư tưởng của Đảng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Khoảng 40.000 người tham dự lễ kỷ niệm 80 năm Quốc khánh 2/9 — Dự kiến khoảng 40.000 người, bao gồm khách mời và các lực lượng quần chúng tham dự lễ kỷ niệm 80 năm Cách mạng Tháng Tám (19/8/1945 - 19/8/2025) và Quốc khánh 2/9 (2/9/1945-2/9/2025).",
@@ -57,7 +57,7 @@
   },
   {
     "review": "Chủ tịch Thượng viện Pháp: Thủ tướng Phạm Minh Chính là người bạn quý của Pháp — Chiều 10/6 (giờ địa phương), tại Paris, Pháp, Thủ tướng Chính phủ Phạm Minh Chính đã có cuộc hội kiến Chủ tịch Thượng viện Gérard Larcher.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Thủ tướng Phạm Minh Chính hội đàm với Thủ tướng Pháp — Ngày 10/6 (giờ địa phương), ngay sau khi kết thúc các hoạt động tại Hội nghị Đại dương Liên Hợp Quốc lần thứ 3 (UNOC 3) và rời Nice tới Paris, Thủ tướng Phạm Minh Chính đã có cuộc hội đàm với Thủ tướng Pháp François Bayrou tại điện Matignon.",
@@ -117,7 +117,7 @@
   },
   {
     "review": "91% lãnh đạo doanh nghiệp Việt đang cân nhắc tuyển những vị trí cụ thể về AI — Theo nghiên cứu mới được Microsoft Việt Nam công bố, có tới 91% lãnh đạo doanh nghiệp Việt Nam được khảo sát cho biết đang xem xét tuyển dụng những vị trí cụ thể về trí tuệ nhân tạo – AI, cao hơn 13% so với toàn cầu.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Khởi nghiệp từ trái cây sấy, sau 2 năm V. KAUS có doanh thu 3,6 triệu USD — Từ một doanh nghiệp gia đình nhỏ chuyên sản xuất trái cây sấy và gia vị V. KAUS đã chuyển đổi mô hình kinh doanh và chỉ trong 2 năm sau khi tham gia, doanh nghiệp đã đạt doanh thu 3,6 triệu USD.",
@@ -129,7 +129,7 @@
   },
   {
     "review": "21,5 triệu tin nhắn cảnh báo gửi cho người dân chịu ảnh hưởng bởi bão Wutip — Bộ Nông nghiệp và Môi trường đã phối hợp với Zalo gửi đi khoảng 21,5 triệu tin nhắn đến người dân ở những địa phương chịu ảnh hưởng bởi bão Wutip.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Người dùng có thể chuyển tiền nhanh bằng AI qua ngân hàng — Chỉ việc dán hình ảnh hoặc tin nhắn có thông tin ngân hàng, số tài khoản… mà không cần nhập tay thủ công, AI sẽ thực hiện chuyển tiền nhanh cho người dùng.",
@@ -149,11 +149,11 @@
   },
   {
     "review": "Pháo phản lực nhiệt áp TOS-1A vừa khuynh đảo Ukraine mạnh cỡ nào? — Hệ thống pháo phản lực nhiệt áp TOS-1A của Nga đã chứng minh sức mạnh đáng sợ trên các chiến trường hiện đại, đặc biệt trong các hoạt động quân sự gần đây tại khu vực Novopavlivka, thuộc vùng Donetsk, Ukraine.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "'Thi thể' trôi trên kênh bất ngờ kêu cứu khiến nhân viên cứu hộ sững sờ — THÁI LAN - Tưởng là thi thể trôi trên kênh, người đàn ông địa phương gọi cứu hộ đến và phát hiện điều không ngờ.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Ngoại tình với anh trai của bạn thân, tôi tự dằn vặt nhưng không thể thoát ra — Yêu một người đã có gia đình vốn đã sai. Đau lòng hơn, người ấy lại chính là anh trai của bạn thân tôi. Tình cảm chôn chặt trong tim, tôi sống từng ngày với nỗi giày vò, dằn vặt, chẳng biết phải làm sao để thoát ra...",
@@ -201,7 +201,7 @@
   },
   {
     "review": "Bộ Tài chính: Có hộ kinh doanh đạt doanh thu gần 560 tỷ đồng/năm — Theo Bộ Tài chính, trong năm 2024, có 5 hộ kinh doanh kê khai doanh thu đạt trên 200 tỷ đồng, trong đó có hộ bán lẻ thủy sản tươi sống có doanh thu đạt gần 560 tỷ đồng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Bộ Công Thương thông tin về thuế quan với Hoa Kỳ tại phiên đàm phán lần 3 — Bộ trưởng Nguyễn Hồng Diên đã có phiên đàm phán lần 3 với Bộ trưởng Bộ Thương mại Hoa Kỳ Howard Lutnick và Đại sứ Jamieson Greer, Trưởng Đại diện Thương mại Hoa Kỳ về các vấn đề liên quan đến thuế quan.",
@@ -221,7 +221,7 @@
   },
   {
     "review": "Cơn sốt vàng của các ngân hàng trung ương: Bước ngoặt trong trật tự tài chính toàn cầu — Tính đến năm 2024, vàng đã chính thức vượt Euro để trở thành tài sản dự trữ lớn thứ hai toàn cầu, chỉ đứng sau đồng USD, theo báo cáo của Ngân hàng Trung ương Châu Âu (ECB).",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "MB tặng app quản lý bán hàng, xuất hóa đơn điện tử cho hộ kinh doanh — Hưởng ứng Nghị định 70 của Chính phủ về tăng cường quản lý thuế với hộ kinh doanh, Ngân hàng MB triển khai chương trình Tặng miễn phí ứng dụng mSeller- hỗ trợ bán hàng và phát hành hóa đơn điện tử cho hộ kinh doanh, tiểu thương, doanh nghiệp siêu nhỏ",
@@ -245,7 +245,7 @@
   },
   {
     "review": "Rao bán khoản nợ của doanh nghiệp sản xuất gas lạnh đầu tiên của Việt Nam — Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Phú Yên (VietinBank Phú Yên) vừa thông báo về việc lựa chọn tổ chức bán đấu giá khoản nợ của CTCP Khí công nghiệp Dầu khí Việt Hàn (PVCK).",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Chỉ một lỗ khoan, quốc gia này có thể mở ra cơn sốt vàng đáng chú ý nhất châu Âu — PHẦN LAN - Một lỗ khoan duy nhất tại khu vực Ukkolanvaara, phía đông Phần Lan, dẫn đến phát hiện một mỏ vàng tiềm năng, làm dấy lên làn sóng quan tâm trong giới khai khoáng toàn cầu.",
@@ -253,11 +253,11 @@
   },
   {
     "review": "Giá vàng hôm nay 15/6/2025 tiến gần mức cao kỷ lục, vàng SJC tăng vọt — Giá vàng hôm nay 15/6/2025 chốt tuần tăng mạnh do căng thẳng leo thang giữa Israel và Iran. Giá vàng trong nước cũng tăng vọt, vượt mốc 120 triệu đồng/lượng.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "5 lý do chơi xe phân khối lớn hoài cổ 'chất lừ' của quý ông trung niên — Gần đây, xe phân khối lớn không còn là thú chơi cá tính của giới trẻ mà trở nên phổ biến cả với tuổi trung niên, đặc biệt là các mẫu xe mang phong cách cổ điển. Các mẫu xe thường có động cơ lớn, thiết kế thanh lịch, sở hữu cảm giác lái ấn tượng.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "6 lầm tưởng tai hại về phanh xe ô tô của nhiều tài xế Việt — Phanh xe ô tô là bộ phận được ít người để ý cho đến khi chúng gặp vấn đề. Đáng tiếc, nhiều điều mà tài xế Việt 'biết' về phanh lại bị sai lệch, có thể gây lãng phí tiền bạc hoặc gây nguy hiểm.",
@@ -325,7 +325,7 @@
   },
   {
     "review": "6 loại nước gần gũi giúp giảm cân nhanh chóng — Bạn có thể giảm cân nhờ vào uống trà xanh, cà phê, nước dừa hoặc đơn giản nhất là nước lọc.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "EU thúc đẩy sử dụng tài sản đóng băng của Nga, Moscow và Kiev trao đổi tù binh — EU muốn chuyển tài sản bị đóng băng của Nga vào các kênh đầu tư rủi ro cao hơn để tăng cường hỗ trợ tài chính cho Ukraine. Moscow và Kiev tiếp tục trạo đổi tù binh.",
@@ -381,7 +381,7 @@
   },
   {
     "review": "Thủ tướng Thái Lan lên tiếng về cuộc điện đàm bị rò rỉ với ông Hun Sen — Thủ tướng Thái Lan Paetongtarn xác nhận cuộc điện đàm với Chủ tịch Thượng viện Campuchia Hun Sen là có thật, nhưng nội dung hoàn toàn mang tính ngoại giao.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Ông Trump nói về khả năng Mỹ tham gia tấn công Iran — Tổng thống Mỹ Donald Trump cho biết, ông vẫn chưa đưa ra quyết định cuối cùng về khả năng Mỹ can dự vào cuộc xung đột Israel và Iran.",
@@ -401,7 +401,7 @@
   },
   {
     "review": "Những manh mối tiết lộ khả năng Mỹ tấn công cơ sở hạt nhân Iran — Mỹ đã tăng cường sự hiện diện quân sự ở Trung Đông từ cuối tuần trước nhưng không tiết lộ dự định cụ thể nào trong khi Tổng thống Donald Trump cân nhắc liệu Mỹ có can thiệp vào cuộc xung đột Israel - Iran không.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "‘Người hùng’ cứu 77 nạn nhân đuối nước trước khi trở thành tổng thống Mỹ — Trước khi trở thành diễn viên Hollywood, thống đốc và tổng thống thứ 40 của nước Mỹ, ông Ronald Reagan đã cứu được 77 người khỏi chết đuối.",
@@ -409,7 +409,7 @@
   },
   {
     "review": "Video FPV cảm tử Nga phá hủy pháo phản lực mini của Ukraine ở tiền tuyến — Thông qua các máy bay không người lái góc nhìn thứ nhất (FPV) cảm tử, quân đội Nga đã vô hiệu hóa cỗ pháo RAK-SA-12 trong biên chế quân Ukraine.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Giải U16 nữ Quốc gia: Hà Nội và Hà Nam bị chia điểm — Hai ứng viên vô địch là Hà Nội và Hà Nam đều chỉ giành được kết quả hòa ở lượt thứ 3 giải bóng đá nữ U16 Quốc gia 2025.",
@@ -417,7 +417,7 @@
   },
   {
     "review": "HLV Ruben Amorim lệnh trục xuất 4 'ông kễnh' MU — Ruben Amorim quyết định loại Garnacho, Rashford, Antony và Jadon Sancho ra khỏi chuyến du đấu trước mùa giải của MU trên đất Mỹ.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Đình Bắc trở lại, U23 Việt Nam quyết bảo vệ ngôi vô địch ĐNA — Sự trở lại của Nguyễn Đình Bắc giúp U23 Việt Nam có lực lượng mạnh nhất chuẩn bị cho giải U23 Đông Nam Á 2025 với mục tiêu bảo vệ ngôi vô địch.",
@@ -453,7 +453,7 @@
   },
   {
     "review": "Kết quả bóng đá hôm nay 20/6: PSG thua sốc tại FIFA Club World Cup — Kết quả bóng đá hôm nay 20/6/2025 - Cập nhật kết quả các trận đấu bóng đá trong nước và quốc tế diễn ra đêm qua và rạng sáng nay.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "HAGL: Vì đâu mà ‘tan đàn xẻ nghé’? — HAGL nhà bầu Đức chuẩn bị nói lời chia tay với hàng loạt trụ cột sau mùa giải 2024/25. Vì đâu đội bóng phố Núi không thể giữ người, dù muốn?",
@@ -517,11 +517,11 @@
   },
   {
     "review": "Tin mới vụ cán bộ huyện, xã nợ nửa tỷ từ lúc mâm cỗ giá chỉ 100 ngàn: Xuất hiện người nhận nợ — Một số cá nhân đang công tác tại các xã thuộc huyện Bảo Yên (Lào Cai) đã chủ động đứng ra chịu trách nhiệm trả nợ cho quán cơm Bình Màu, thị trấn Phố Ràng.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Thái Nguyên huy động hàng trăm cán bộ, chiến sĩ cứu trợ người dân vùng ngập sâu — Khoảng 400 cán bộ, chiến sĩ thuộc các lực lượng công an, quân đội và dân quân tự vệ đã được huy động túc trực 24/24 giờ tại các điểm trọng yếu. Nhiều chốt kiểm soát cũng được lập tại các khu vực ngập sâu.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Kẻ giết nữ chủ tiệm tạp hóa khai gì với cơ quan công an? — Nguyễn Minh Phúc khai nảy sinh ý định cướp tài sản sau khi cãi nhau với vợ. Thấy nữ chủ tiệm tạp hóa ở một mình, hắn giả vờ vào mua hàng rồi cướp tiền, sau đó sát hại nạn nhân.",
@@ -529,7 +529,7 @@
   },
   {
     "review": "Cầu Nhơn Trạch nối TPHCM với Đồng Nai sắp về đích, xe máy có được chạy qua? — Cầu Nhơn Trạch trên tuyến Vành đai 3 kết nối TPHCM với Đồng Nai dự kiến thi công hoàn thành trong tháng 6, khai thác từ tháng 8. Phía chủ đầu tư đang hoàn thiện phương án tổ chức giao thông, an toàn giao thông cho dự án.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Tai nạn liên hoàn giữa 5 xe ô tô trên cao tốc Cao Bồ - Mai Sơn — Đội CSGT đường bộ cao tốc số 3 (Cục CSGT, Bộ Công an) đang phối hợp Công an tỉnh Nam Định để giải quyết vụ tai nạn liên hoàn giữa 5 ô tô trên cao tốc Cao Bồ - Mai Sơn.",
@@ -557,11 +557,11 @@
   },
   {
     "review": "Hình hài hàng rào cứng chia đường ô tô, xe máy đi riêng ở Hà Nội — Thành phố Hà Nội sẽ triển khai thí điểm lắp rào phân làn cứng tách riêng ô tô, xe máy tại một số tuyến đường như Phạm Văn Đồng, Võ Chí Công nhằm giảm ùn tắc, tai nạn.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Người nổi tiếng quảng cáo sản phẩm và ranh giới mong manh trở thành tội phạm — Theo luật sư, nếu những người nổi tiếng biết sản phẩm là giả mà vẫn tham gia quảng cáo thì sẽ bị xử lý hình sự về tội \"Buôn bán hàng giả\" hoặc tội \"Lừa dối khách hàng\".",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Những bài học còn nguyên giá trị — Dư nợ tín dụng/GDP của Việt Nam đến cuối năm 2024 đã đạt 134% thể hiện, nền kinh tế phụ thuộc quá nhiều vào tín dụng ngân hàng và tiềm ẩn rủi ro hệ thống.",
@@ -569,7 +569,7 @@
   },
   {
     "review": "Chỗ dựa cho lao động tự do thất nghiệp — Đã đến lúc cần thiết chế hóa quy định bắt buộc các doanh nghiệp, tổ chức, đặc biệt là nền tảng công nghệ ký hợp đồng lao động (dù ở hình thức linh hoạt) với người lao động thường xuyên, lâu dài.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Diễn viên Việt Anh lên tiếng giữa ồn ào, Chi Pu gợi cảm ở trời Tây — Diễn viên Việt Anh giải thích về động thái khóa trang cá nhân giữa ồn ào liên quan đến hoạt động kinh doanh. Ca sĩ Chi Pu đẹp cuốn hút khi du lịch Italia.",
@@ -581,7 +581,7 @@
   },
   {
     "review": "Nhà thơ Trần Đăng Khoa: 'Những cuốn sách như Papelucho sẽ có ảnh hưởng tích cực' — Ngày 24/6 tại Hà Nội diễn ra lễ ra mắt bộ truyện thiếu nhi nổi tiếng \"Papelucho\" của nhà văn Marcela Paz với sự góp mặt của nhà thơ Trần Đăng Khoa.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Diễn viên Đường Giai rơi lầu tử vong tại chỗ — TRUNG QUỐC - Diễn viên Đường Giai - chồng diễn viên Tuyết Ni - qua đời vì ngã từ lầu cao xuống đất, hưởng thọ 88 tuổi.",
@@ -593,7 +593,7 @@
   },
   {
     "review": "Cơ hội xem miễn phí loạt phim đặc sắc của điện ảnh Nga ngoài rạp — Tuần phim Nga tại Việt Nam năm 2025 sẽ diễn ra từ 26/6-28/6 tại Trung tâm Chiếu phim Quốc gia, Hà Nội. Khán giả yêu phim sẽ được xem miễn phí 5 tác phẩm điện ảnh Nga mới nhất và tiêu biểu nhất.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Nhạc sĩ Huy Tuấn: 'Không chọn thí sinh hot mà phải là nghệ sĩ toàn năng' — \"Chúng tôi chọn những nghệ sĩ toàn năng: có khả năng thanh nhạc, biểu diễn, biết chơi nhạc cụ… Những bạn như vậy có thể bước ra khỏi cuộc thi và làm nghề một cách nghiêm túc, bền vững\", nhạc sĩ Huy Tuấn khẳng định.",
@@ -605,11 +605,11 @@
   },
   {
     "review": "Nữ diễn viên sexy nhất thế giới lại khiến fan không thể rời mắt vì quá gợi cảm — MỸ - Nữ diễn viên sexy nhất thế giới Scarlett Johansson chọn chiếc đầm 2 dây khoe vòng 1 gợi cảm khi dự công chiếu phần mới nhất của \"Thế giới khủng long\" cùng chồng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Brad Pitt lên đồ sành điệu ở tuổi 62, 'tình bể bình' bên bạn gái kém 27 tuổi — Ines de Ramon chỉnh lại trang phục cho bạn trai Brad Pitt khi cùng anh dự sự kiện ra mắt phim \"F1\" ở London, Anh tối 23/6.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "'Dịu dàng màu nắng' tập 16: Nam nổi điên với đồng nghiệp vì nói xấu Xuân Bắc — Trong \"Dịu dàng màu nắng\" tập 16, Nam nghe đồng nghiệp nói không hay về Xuân Bắc nên nổi điên và quyết hỏi cho ra nhẽ.",
@@ -621,15 +621,15 @@
   },
   {
     "review": "Cuộc sống sau bạo bệnh của NSND Thanh Hoa ở tuổi U80 — Sau phẫu thuật một bên ngực, ở tuổi gần 80, NSND Thanh Hoa vẫn đều đặn bước lên sân khấu.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "144 sĩ tử Bắc Giang được ‘hộ tống’ ăn, ở tại điểm thi THPT vì lý do đặc biệt — Gần 30 phụ huynh và giáo viên Trường THPT Sơn Động số 3, Bắc Giang đã cùng nhau “hộ tống” 144 sĩ tử đến điểm thi tại Trường THCS Cẩm Đàn để ăn, ở tập trung trong kỳ thi tốt nghiệp THPT 2025.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Gần 9.800 thí sinh bỏ làm thủ tục dự thi tốt nghiệp THPT năm 2025 — Bộ GD-ĐT vừa có báo cáo về ngày làm thủ tục dự thi tốt nghiệp THPT năm 2025. Theo đó, có gần 9.800 thí sinh không đến thủ tục dự thi tốt nghiệp THPT năm 2025.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Nữ sinh mang 2 dòng máu Việt Nam - Hà Lan tự tin trước thi tốt nghiệp THPT 2025 — Với vẻ ngoài nổi bật cùng hành trình học tập đáng ngưỡng mộ, nữ sinh mang 2 dòng máu Việt Nam - Hà Lan Steeman - Nguyễn Tamara Veronica Selena tự tin bước vào kỳ thi tốt nghiệp THPT trước khi đi du học.",
@@ -673,7 +673,7 @@
   },
   {
     "review": "Những việc phải làm sau khi biết điểm chuẩn lớp 10 TPHCM, tránh mất cơ hội học — Khi biết điểm chuẩn lớp 10 TPHCM năm 2025, học sinh cần làm những việc sau để không mất cơ hội vào học lớp 10.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Bi kịch của 3 nữ sinh phơi bày mặt trái của cuộc đua vào đại học — HÀN QUỐC - Cái chết của 3 nữ sinh trung học ở Busan đã dấy lên hồi chuông báo động về áp lực học tập, hướng nghiệp đè nặng lên giới trẻ. Vụ việc khiến nhiều người đau xót và gây phản ứng mạnh mẽ trong xã hội.",
@@ -701,19 +701,19 @@
   },
   {
     "review": "Giải pháp Phòng tắm đồng bộ Viglacera tại Triển lãm Vietbuild 2025 — Tại Vietbuild TP.HCM 2025 - sự kiện thường niên quy tụ các xu hướng mới trong ngành xây dựng và nhà ở hiện đại, Viglacera trưng bày hệ sinh thái vật liệu xanh; nổi bật trong đó là Giải pháp Phòng tắm đồng bộ.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Thủ Thừa - ‘điểm hẹn’ mới của giới đầu tư bất động sản khu vực phía Nam — Giá bất động sản TP.HCM tăng cao vì khan hiếm quỹ đất và chi phí đầu vào leo thang, khiến nhà đầu tư khu Nam dịch chuyển tìm đến các khu vực có mức giá hợp lý hơn. Trong đó, Thủ Thừa được xem là một trong những tâm điểm sáng giá.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Hơn 2.000 căn Vinhomes Green City có chủ sau 24h ráp căn — Chỉ sau 24 giờ chính thức ráp căn, hơn 2.000 căn, tương đương gần 50% tổng quỹ căn của dự án Vinhomes Green City đã tìm thấy chủ nhân. Dự án vẫn còn hơn 1.500 khách đã booking thiện chí, chờ đợi được chọn căn.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Sun Group khởi công Tổ hợp nghỉ dưỡng khoáng nóng hơn 21.000 tỷ đồng ở Hòa Bình — Chiều 26/6, tại huyện Kim Bôi và Lạc Sơn (tỉnh Hòa Bình), Tập đoàn Sun Group phối hợp cùng chính quyền địa phương tổ chức Lễ khởi công Tổ hợp nghỉ dưỡng khoáng nóng quy mô 584,73 ha, tổng mức đầu tư lên đến hơn 21.000 tỷ đồng.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Vợ chồng trẻ thu nhập 30 triệu đồng, có nên mua căn hộ vùng ven? — Giá bất động sản nội đô liên tục tăng, nhiều vợ chồng trẻ đang buộc phải đưa ra quyết định khó khăn chấp nhận chi trả cao thuê nhà trung tâm hay mua căn hộ vùng ven.",
@@ -725,11 +725,11 @@
   },
   {
     "review": "Mặt bằng trăm triệu/tháng ế khách, giá thuê vẫn cao chót vót — Tại TPHCM, nhiều mặt bằng siêu đẹp ở vị trí góc ngã tư hoặc mặt tiền các tuyến phố sầm uất đang treo kín biển cho thuê.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Cú sốc đầu đời của thanh niên vay ngân hàng 500 triệu mua nhà — Vay ngân hàng 500 triệu đồng để mua căn hộ, Lâm Tuấn - một người trẻ thuộc thế hệ 9X sinh sống và làm việc tại Hà Nội, 'đứng ngồi không yên' khi thời hạn vay ưu đãi đã hết. Nhờ biết quản trị rủi ro, anh đã vượt qua cú sốc này.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Cán bộ phải xóa bỏ 'lối mòn truyền thống', tư tưởng 'sáng cắp ô đi, chiều cắp ô về' — Trưởng Ban Nội chính Trung ương Phan Đình Trạc lưu ý, lãnh đạo, cán bộ, công chức phải đổi mới mạnh mẽ tư duy, cách làm, xóa bỏ những “lối mòn truyền thống”, tư tưởng “sáng cắp ô đi, chiều cắp ô về”.",
@@ -757,7 +757,7 @@
   },
   {
     "review": "Đảng Cộng sản Việt Nam chúc mừng 74 năm Ngày thành lập Đảng Nhân dân Campuchia — Đảng Cộng sản Việt Nam, Nhà nước và nhân dân Việt Nam sẽ làm hết sức mình cùng Đảng Nhân dân Campuchia, Nhà nước và nhân dân Campuchia bảo vệ, giữ gìn và vun đắp mối quan hệ.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Bí thư Thành ủy TPHCM đặt niềm tin vào thế hệ kế cận sau sáp nhập — Tại kỳ họp HĐND cuối cùng trước thời điểm TPHCM sáp nhập với Bình Dương, Bà Rịa-Vũng Tàu, Bí thư Thành ủy TPHCM Nguyễn Văn Nên đã có những trải lòng khi nhìn lại chặng đường 4 năm qua và khẳng định đặt niềm tin vào thế hệ kế cận sau sáp nhập.",
@@ -789,7 +789,7 @@
   },
   {
     "review": "Ra mắt bản thiết kế chip ADC tốc độ lấy mẫu 200 MSPS đầu tiên của Việt Nam — Con chip ADC do Diginal thiết kế có tên CTDA200M, độ phân giải 12 bit và tốc độ lấy mẫu lên tới 200 MSPS.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "5 lý do iPhone sạc không vào và cách khắc phục — Việc hiểu rõ các nguyên nhân iPhone sạc không vào sẽ giúp người dùng tránh những phiền toái không đáng có khi iPhone hết pin vào những lúc cần thiết nhất.",
