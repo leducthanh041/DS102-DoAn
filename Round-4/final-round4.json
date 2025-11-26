@@ -113,7 +113,7 @@
   },
   {
     "review": "AI đóng góp 5.000 tỷ USD kinh tế toàn cầu, Việt Nam không đứng ngoài cuộc chơi — Ông Vũ Quốc Huy nhấn mạnh, trí tuệ nhân tạo có thể đóng góp tới 5.000 tỷ USD cho kinh tế toàn cầu vào năm 2030 và Việt Nam cần tận dụng cơ hội lịch sử để xác lập vị thế vững chắc trong lĩnh vực này.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "91% lãnh đạo doanh nghiệp Việt đang cân nhắc tuyển những vị trí cụ thể về AI — Theo nghiên cứu mới được Microsoft Việt Nam công bố, có tới 91% lãnh đạo doanh nghiệp Việt Nam được khảo sát cho biết đang xem xét tuyển dụng những vị trí cụ thể về trí tuệ nhân tạo – AI, cao hơn 13% so với toàn cầu.",
@@ -125,7 +125,7 @@
   },
   {
     "review": "Tập đoàn Pháp muốn được tham gia dự án phóng vệ tinh VINASAT-3 — Tập đoàn Thales đã đề xuất với Thủ tướng Phạm Minh Chính mong muốn được tham gia dự án phóng vệ tinh VINASAT-3 mà Việt Nam sẽ giao cho VNPT thực hiện trong thời gian tới.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "21,5 triệu tin nhắn cảnh báo gửi cho người dân chịu ảnh hưởng bởi bão Wutip — Bộ Nông nghiệp và Môi trường đã phối hợp với Zalo gửi đi khoảng 21,5 triệu tin nhắn đến người dân ở những địa phương chịu ảnh hưởng bởi bão Wutip.",
@@ -169,7 +169,7 @@
   },
   {
     "review": "Chàng trai khóc bên mộ mẹ sau kỳ thi đại học, phía sau là chuyện rơi nước mắt — TRUNG QUỐC - Hình ảnh nam sinh đeo ảnh mẹ trước ngực khi bước vào phòng thi đại học đã thu hút sự chú ý đặc biệt. Nhưng phải đến khi cậu quỳ xuống trước mộ mẹ, mọi người mới vỡ òa.",
-    "sentiment": "negative"
+    "sentiment": "positive"
   },
   {
     "review": "Chú rể ngất xỉu trong đám cưới vì nhan sắc gây bất ngờ của cô dâu — BRAZIl - Chú rể ngất xỉu vì quá xúc động khi nhìn thấy cô dâu tại lễ đường. May mắn, sau sự cố này, đám cưới vẫn tiếp tục diễn ra và kết thúc trong niềm vui.",
@@ -189,7 +189,7 @@
   },
   {
     "review": "Khu du lịch tuyển 'người rừng' trả lương 1,8 triệu/ngày, hút cả vạn hồ sơ — TRUNG QUỐC - Một khu danh thắng bỗng nhiên nổi tiếng ở tỉnh Hồ Bắc, gần đây thu hút sự chú ý khi đăng tin tuyển dụng diễn viên đóng vai \"người rừng\" để phục vụ du khách.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "5 bãi biển ở miền Bắc cát trắng, nước trong xanh, thích hợp du lịch hè 2025 — Những bãi biển trong xanh, cát trắng trải dài luôn là địa điểm du lịch hè được ưa thích. Dưới đây là gợi ý những bãi biển miền Bắc đẹp, đáng trải nghiệm trong mùa hè này.",
@@ -273,11 +273,11 @@
   },
   {
     "review": "Việt Nam tham vọng thị trường 1 triệu ô tô 5 năm tới: Lãng mạn hay hiện thực? — Trong 5 năm tới, Việt Nam đặt tham vọng tiêu thụ 1-1,1 triệu ô tô trong nước, gấp 2 lần con số hiện nay. Trong khi đó, VinFast bất ngờ đưa ra mục tiêu 1 triệu xe điện cho thị trường toàn cầu. Những con số này liệu có khả thi?",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Đánh lái để tránh bị đâm vào xe đầu kéo: Sai lầm này có thể khiến bạn mất mạng — Việc lái xe đâm trực diện vào phần đuôi của một xe đầu kéo nghe có vẻ phi lý, thậm chí điên rồ. Nhưng các bài kiểm tra va chạm mới đây cho thấy điều này có thể giúp bạn sống sót trong những tình huống không thể tránh khỏi tai nạn.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Ông Trịnh Văn Quyết vắng mặt tại tòa, nguy cơ tử vong rất cao — Tại phiên tòa xét xử lần này, luật sư của bị cáo Trịnh Văn Quyết cho hay, thân chủ của mình trong tình trạng nguy cơ tử vong rất cao, xin được vắng mặt và mong tòa tiếp tục phiên xử.",
@@ -361,7 +361,7 @@
   },
   {
     "review": "Israel sắp cạn tên lửa đánh chặn Iran, liệu Mỹ có 'ra tay' hỗ trợ? — Hệ thống phòng không của Israel được cho chỉ có đủ tên lửa để đánh chặn tên lửa đạn đạo của Iran trong vòng chưa đầy 2 tuần nữa, nếu như không có sự hỗ trợ từ phía Mỹ.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Rộ tin Mỹ có 'hành động quân sự' vào cuối tuần, đài truyền hình Iran bị phá sóng — Hãng Bloomberg đưa tin, các quan chức cấp cao Mỹ đang chuẩn bị cho một cuộc tấn công Iran vào những ngày tới và hành động quân sự trên có thể diễn ra vào cuối tuần.",
@@ -413,11 +413,11 @@
   },
   {
     "review": "Giải U16 nữ Quốc gia: Hà Nội và Hà Nam bị chia điểm — Hai ứng viên vô địch là Hà Nội và Hà Nam đều chỉ giành được kết quả hòa ở lượt thứ 3 giải bóng đá nữ U16 Quốc gia 2025.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "HLV Ruben Amorim lệnh trục xuất 4 'ông kễnh' MU — Ruben Amorim quyết định loại Garnacho, Rashford, Antony và Jadon Sancho ra khỏi chuyến du đấu trước mùa giải của MU trên đất Mỹ.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Đình Bắc trở lại, U23 Việt Nam quyết bảo vệ ngôi vô địch ĐNA — Sự trở lại của Nguyễn Đình Bắc giúp U23 Việt Nam có lực lượng mạnh nhất chuẩn bị cho giải U23 Đông Nam Á 2025 với mục tiêu bảo vệ ngôi vô địch.",
@@ -453,7 +453,7 @@
   },
   {
     "review": "Kết quả bóng đá hôm nay 20/6: PSG thua sốc tại FIFA Club World Cup — Kết quả bóng đá hôm nay 20/6/2025 - Cập nhật kết quả các trận đấu bóng đá trong nước và quốc tế diễn ra đêm qua và rạng sáng nay.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "HAGL: Vì đâu mà ‘tan đàn xẻ nghé’? — HAGL nhà bầu Đức chuẩn bị nói lời chia tay với hàng loạt trụ cột sau mùa giải 2024/25. Vì đâu đội bóng phố Núi không thể giữ người, dù muốn?",
@@ -545,7 +545,7 @@
   },
   {
     "review": "Nguồn thu bền vững của báo chí phải đến từ lòng tin và sự chi trả của bạn đọc — Báo chí không thiếu nội dung để xuất bản mà thiếu sản phẩm thương mại để bán ra thị trường. Do đó, báo chí cần chuyển trọng tâm từ bán quảng cáo - đăng tin sang mô hình xây dựng thương hiệu thông qua truyền thông tích hợp.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Đại tướng Lương Tam Quang: Lớp lớp thế hệ nhà báo đã đấu tranh với giặc nội xâm — Theo Đại tướng Lương Tam Quang - Bộ trưởng Bộ Công an, với vũ khí là cây bút, trang giấy, lớp lớp thế hệ nhà báo đã tiên phong bảo vệ nền tảng tư tưởng của Đảng; đấu tranh không khoan nhượng với giặc nội xâm, tham nhũng, tiêu cực.",
@@ -569,7 +569,7 @@
   },
   {
     "review": "Chỗ dựa cho lao động tự do thất nghiệp — Đã đến lúc cần thiết chế hóa quy định bắt buộc các doanh nghiệp, tổ chức, đặc biệt là nền tảng công nghệ ký hợp đồng lao động (dù ở hình thức linh hoạt) với người lao động thường xuyên, lâu dài.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Diễn viên Việt Anh lên tiếng giữa ồn ào, Chi Pu gợi cảm ở trời Tây — Diễn viên Việt Anh giải thích về động thái khóa trang cá nhân giữa ồn ào liên quan đến hoạt động kinh doanh. Ca sĩ Chi Pu đẹp cuốn hút khi du lịch Italia.",
@@ -605,7 +605,7 @@
   },
   {
     "review": "Nữ diễn viên sexy nhất thế giới lại khiến fan không thể rời mắt vì quá gợi cảm — MỸ - Nữ diễn viên sexy nhất thế giới Scarlett Johansson chọn chiếc đầm 2 dây khoe vòng 1 gợi cảm khi dự công chiếu phần mới nhất của \"Thế giới khủng long\" cùng chồng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Brad Pitt lên đồ sành điệu ở tuổi 62, 'tình bể bình' bên bạn gái kém 27 tuổi — Ines de Ramon chỉnh lại trang phục cho bạn trai Brad Pitt khi cùng anh dự sự kiện ra mắt phim \"F1\" ở London, Anh tối 23/6.",
@@ -625,11 +625,11 @@
   },
   {
     "review": "144 sĩ tử Bắc Giang được ‘hộ tống’ ăn, ở tại điểm thi THPT vì lý do đặc biệt — Gần 30 phụ huynh và giáo viên Trường THPT Sơn Động số 3, Bắc Giang đã cùng nhau “hộ tống” 144 sĩ tử đến điểm thi tại Trường THCS Cẩm Đàn để ăn, ở tập trung trong kỳ thi tốt nghiệp THPT 2025.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Gần 9.800 thí sinh bỏ làm thủ tục dự thi tốt nghiệp THPT năm 2025 — Bộ GD-ĐT vừa có báo cáo về ngày làm thủ tục dự thi tốt nghiệp THPT năm 2025. Theo đó, có gần 9.800 thí sinh không đến thủ tục dự thi tốt nghiệp THPT năm 2025.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Nữ sinh mang 2 dòng máu Việt Nam - Hà Lan tự tin trước thi tốt nghiệp THPT 2025 — Với vẻ ngoài nổi bật cùng hành trình học tập đáng ngưỡng mộ, nữ sinh mang 2 dòng máu Việt Nam - Hà Lan Steeman - Nguyễn Tamara Veronica Selena tự tin bước vào kỳ thi tốt nghiệp THPT trước khi đi du học.",
@@ -709,11 +709,11 @@
   },
   {
     "review": "Hơn 2.000 căn Vinhomes Green City có chủ sau 24h ráp căn — Chỉ sau 24 giờ chính thức ráp căn, hơn 2.000 căn, tương đương gần 50% tổng quỹ căn của dự án Vinhomes Green City đã tìm thấy chủ nhân. Dự án vẫn còn hơn 1.500 khách đã booking thiện chí, chờ đợi được chọn căn.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Sun Group khởi công Tổ hợp nghỉ dưỡng khoáng nóng hơn 21.000 tỷ đồng ở Hòa Bình — Chiều 26/6, tại huyện Kim Bôi và Lạc Sơn (tỉnh Hòa Bình), Tập đoàn Sun Group phối hợp cùng chính quyền địa phương tổ chức Lễ khởi công Tổ hợp nghỉ dưỡng khoáng nóng quy mô 584,73 ha, tổng mức đầu tư lên đến hơn 21.000 tỷ đồng.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Vợ chồng trẻ thu nhập 30 triệu đồng, có nên mua căn hộ vùng ven? — Giá bất động sản nội đô liên tục tăng, nhiều vợ chồng trẻ đang buộc phải đưa ra quyết định khó khăn chấp nhận chi trả cao thuê nhà trung tâm hay mua căn hộ vùng ven.",
@@ -725,7 +725,7 @@
   },
   {
     "review": "Mặt bằng trăm triệu/tháng ế khách, giá thuê vẫn cao chót vót — Tại TPHCM, nhiều mặt bằng siêu đẹp ở vị trí góc ngã tư hoặc mặt tiền các tuyến phố sầm uất đang treo kín biển cho thuê.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Cú sốc đầu đời của thanh niên vay ngân hàng 500 triệu mua nhà — Vay ngân hàng 500 triệu đồng để mua căn hộ, Lâm Tuấn - một người trẻ thuộc thế hệ 9X sinh sống và làm việc tại Hà Nội, 'đứng ngồi không yên' khi thời hạn vay ưu đãi đã hết. Nhờ biết quản trị rủi ro, anh đã vượt qua cú sốc này.",
@@ -733,7 +733,7 @@
   },
   {
     "review": "Cán bộ phải xóa bỏ 'lối mòn truyền thống', tư tưởng 'sáng cắp ô đi, chiều cắp ô về' — Trưởng Ban Nội chính Trung ương Phan Đình Trạc lưu ý, lãnh đạo, cán bộ, công chức phải đổi mới mạnh mẽ tư duy, cách làm, xóa bỏ những “lối mòn truyền thống”, tư tưởng “sáng cắp ô đi, chiều cắp ô về”.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Chủ tịch nước: Bộ máy sau hợp nhất phải hoạt động hiệu quả hơn, thực sự gần dân — Chủ tịch nước đề nghị TPHCM cần tập trung mọi nguồn lực để chính quyền địa phương hai cấp đi vào hoạt động thông suốt, hoạt động tốt, hiệu quả hơn, thực sự là chính quyền cơ sở gần dân.",
@@ -765,7 +765,7 @@
   },
   {
     "review": "'Một số lãnh đạo tiên phong xin nghỉ trước tuổi để thuận tiện cho sắp xếp cán bộ' — Trưởng Ban Tuyên giáo và Dân vận Trung ương Nguyễn Trọng Nghĩa ghi nhận, đánh giá cao một số lãnh đạo Ban tiên phong xin nghỉ hưu trước tuổi để thuận tiện cho công tác sắp xếp cán bộ.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Tây Ninh quyết tâm vận hành thông suốt, hiệu quả chính quyền 2 cấp — Hội nghị BCH Đảng bộ tỉnh Tây Ninh lần thứ 59 đề ra nhiệm vụ 6 tháng cuối năm 2025 là “vận hành thông suốt, hiệu quả chính quyền 2 cấp”, nâng cao hiệu lực quản lý, đảm bảo tăng trưởng và an sinh xã hội.",
@@ -797,6 +797,6 @@
   },
   {
     "review": "Gọi vốn triệu đô vẫn ‘gẫy cánh’, chuyên gia Google nêu 5 điều startup cần nhớ — Không ít startup dù huy động được hàng chục triệu USD đầu tư nhưng cuối cùng vẫn “gẫy cánh”, không thoát khỏi cảnh phá sản. Đâu là giải pháp cho tình trạng này?",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   }
 ]
