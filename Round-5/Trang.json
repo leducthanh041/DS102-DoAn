@@ -1,0 +1,802 @@
+[
+  {
+    "review": "Cán bộ xã đưa trà Phình Hồ lên sàn số giá 'khét lẹt', dân mạng tranh nhau mua — Sùng A Tủa một cán bộ người dân tộc Mông đã biến trà Shan tuyết cổ thụ Phình Hồ thành đặc sản triệu đô. Không chỉ đưa sản phẩm lên sàn số mà còn chinh phục các thị trường khó tính quốc tế, mở ra hướng đi mới cho nông sản vùng cao.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Ukraine tung tên lửa đạn đạo Sapsan mới công nghệ ‘siêu khủng’ xuyên thủng phòng không Nga — Trong bối cảnh xung đột quân sự giữa Ukraine và Nga bước vào giai đoạn khốc liệt, Ukraine tung tên lửa đạn đạo chiến thuật nội địa mới Sapsan, được đánh giá là bước đột phá trong công nghệ quân sự, năng lực răn đe chiến lược và phản công tầm xa.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vé máy bay đắt đỏ, nam du khách trộm 8 chiếc xe ở dọc đường để lái về quê — TRUNG QUỐC - Sau khi tới Hồ Nam du lịch, một người đàn ông ở Liêu Ninh đã quyết định trộm xe ô tô dọc đường để lái về quê vì cho rằng vé máy bay quá đắt đỏ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hành trình kiên cường của cặp vợ chồng ở TPHCM cùng mắc bệnh u não — Liên tục trải qua biến cố, cặp vợ chồng vẫn nắm chặt tay nhau để bảo vệ tổ ấm nhỏ.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Người đẹp Phú Thọ gây ấn tượng ở cuộc thi Hoa Hậu Biển Đảo Việt Nam 2025 — Tham gia cuộc thi Hoa hậu Biển Đảo Việt Nam 2025, Phạm Thị Kim Oanh - cô gái trẻ sinh năm 2001 đến từ Phú Thọ - đã lọt vào Top 10 chung cuộc và xuất sắc giành thêm giải Người đẹp Áo dài.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Con gái vỡ òa báo tin tìm thấy mẹ mất tích khi đạp xe từ Thanh Hóa ra Hà Nội — Nhờ sự lan tỏa của cơ quan truyền thông, mạng xã hội, người mẹ U70 đạp xe từ Thanh Hóa ra Hà Nội tìm con rồi mất tích đã có cuộc đoàn tụ đầy bất ngờ với người thân.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Ngoại tình với người yêu cũ, vợ chết lặng trước thái độ của chồng — Nếu được quay lại khoảnh khắc ấy, tôi ước mình đã không trả lời tin nhắn của người yêu cũ. Nhưng cuộc đời không có nút \"quay lại\" và tôi đã phải trả giá cho hành vi ngoại tình ấy.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Shipper U40 có bằng thạc sĩ, tiến sĩ từ các trường danh giá, gây sốt mạng — SINGAPORE - Không nhiều người có thể tưởng tượng được 1 chàng trai giao đồ ăn lại sở hữu loạt bằng cấp từ cử nhân cho tới thạc sĩ, tiến sĩ của những trường đại học danh giá nhất thế giới.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nhặt được nhẫn kim cương rồi trả lại, nữ giúp việc không ngờ đổi đời — TRUNG QUỐC - Đó là câu chuyện có thật của Lý Ngọc Quyên, một người phụ nữ nghèo sinh ra ở nông thôn, sống với lòng trung thực và sự tử tế khiến người khác khâm phục.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Sự thay đổi ngỡ ngàng của ‘người chồng chuyển giới thành nữ’ sau 8 năm hôn nhân — Từ gương mặt, vóc dáng đến phong thái, cử chỉ... của chị đều toát ra vẻ nữ tính, dịu dàng. Vốn là người duy mỹ, chị luôn xuất hiện với vẻ ngoài chỉn chu, xinh đẹp.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "10 năm thuê nhà Hà Nội, gia đình trẻ tới Nha Trang định cư, cải thiện sức khỏe — Rời căn hộ thuê 3 phòng ngủ ở Hà Nội, vợ chồng chị Hải Yến quyết định đưa các con vào Nha Trang định cư, mua căn nhà riêng nằm trong khu đô thị tiện nghi, thoáng đãng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Tàu lượn siêu tốc cao gần 50m gặp sự cố đứng bất động đúng ngày khai trương — MỸ - Tàu lượn Siren’s Curse, được quảng bá là “tàu lượn cảm giác mạnh nghiêng (tilt coaster) cao nhất và nhanh nhất ở Bắc Mỹ”, đã gặp sự cố ngay ngày đầu tiên đi vào hoạt động.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Khai trương VinWonders Vũ Yên - Công viên giải trí và vườn thú lớn nhất miền Bắc — Công ty Cổ phần Vinpearl khai trương VinWonders Vũ Yên quy mô gần 20ha, mở ra hành trình vui chơi, khám phá bất tận…",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Quán đặc sản Hưng Yên duy nhất được Michelin vinh danh, bà chủ tiết lộ bí quyết — Hồi đầu tháng 6, một quán canh cá rô - đặc sản của vùng đất Hưng Yên ở Hai Bà Trưng, Hà Nội được vinh danh trong danh sách Michelin Selected (Michelin lựa chọn) năm 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Du khách ngồi bè tre mê mẩn ngắm ‘Sa Pa thu nhỏ’ ở Thanh Hóa — Pù Luông (Thanh Hóa) là điểm du lịch cộng đồng mang đến nhiều trải nghiệm thú vị, trong đó dịch vụ ngồi bè tre khám phá suối Chàm được nhiều người yêu thích.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Đà Nẵng chủ động thu hút nhà đầu tư chiến lược, kiến tạo động lực phát triển mới — Đà Nẵng công bố quyết định thành lập Ban Trù bị cơ quan quản lý, điều hành Trung tâm tài chính quốc tế Việt Nam tại Đà Nẵng và cử cán bộ đi đào tạo về trung tâm tài chính tại Singapore.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Bộ Tài chính nói gì khi bị phê bình việc báo cáo vụ Tập đoàn Sơn Hải trượt thầu? — Bộ Tài chính cho biết đã tiếp thu chỉ đạo của Phó Thủ tướng Trần Hồng Hà, sẽ phối hợp Bộ Xây dựng, UBND tỉnh Đồng Nai rà soát nội dung và báo cáo lại Chính phủ đúng quy định.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bảo hiểm nhân thọ FWD tăng quyền lợi theo thời gian để bảo vệ dài hạn — Bảo hiểm nhân thọ FWD Việt Nam mang đến giải pháp giúp khách hàng nâng cao quyền lợi bảo hiểm mỗi năm mà không cần phải điều chỉnh kế hoạch tài chính cá nhân và gia đình thông qua sản phẩm FWD Bảo vệ gia tăng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Tiện ích độc đáo của nhà phố Kim Ngân 2 - đô thị Sun Group Nam Hà Nội — Sở hữu vị trí đắt giá kề cận công viên lễ hội, quảng trường trống Đọi Tam trong đại đô thị Sun Urban City, phân khu Kim Ngân 2 hội tụ hệ tiện ích đẳng cấp, đáp ứng phong cách sống hiện đại, năng động của mọi cư dân.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "MSB chuyển địa điểm hoạt động, đổi tên Phòng giao dịch Đồng Xuân — Ngân hàng TMCP Hàng Hải Việt Nam (MSB) thông báo chuyển địa điểm đặt trụ sở và đổi tên Chi nhánh Hà Nội - Phòng giao dịch Đồng Xuân thành Phòng giao dịch Hàng Lược; dự kiến hoạt động từ 7/7/2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thực phẩm và đồ uống Việt lên kệ hệ thống siêu thị lớn của Nga — Ngày 27/6/2025, Masan phối hợp cùng Tập đoàn Magnit khai trương “Góc Việt Nam” - không gian mua sắm chuyên biệt cho các sản phẩm đến từ Việt Nam tại một trong những đại siêu thị hàng đầu của hệ thống Magnit Extra ở Moscow.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Giải pháp tiếp thị ‘0 đồng’ toàn diện Partnership Marketing — Trong một thị trường mà chi phí quảng cáo không ngừng leo thang, tệp khách hàng ngày càng khó tiếp cận, “Marketing 0 đồng”, một ý tưởng nghe qua tưởng như phi thực tế - đang trở thành một lối đi hiệu quả được nhiều doanh nghiệp lựa chọn.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Trên TikTok, kem trộn được làm trong thau và người bán đeo kim cương — “Tôi bật TikTok thấy họ quảng cáo kem trộn bỏ vào thau trộn. Người bán thì giàu có, họ khoe kim cương, hột xoàn. Xem mà không thể chịu nổi, vậy mà vẫn có người mua hàng”, Giám đốc Sở An toàn thực phẩm TPHCM nói.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "N Spa - massage phong cách Nhật tại trung tâm quận 7 — Tọa lạc tại khu đô thị Phú Mỹ Hưng (quận 7, TP.HCM), N Spa mang đến trải nghiệm massage theo phong cách Nhật Bản giữa lòng thành phố.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Quản trị biến động từ góc nhìn bản thể luận — Bài viết của TS. Nguyễn Thành Hưởng - cán bộ Tập đoàn Petrovietnam - đưa ra góc nhìn từ bản thể luận để lý giải: Biến động là gì và tại sao cần phải quản trị biến động.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Giá xăng ngày mai có khả năng giảm mạnh — Giá xăng trong nước vào ngày mai (3/7) có khả năng giảm mạnh. Nếu không tác động đến Quỹ bình ổn, giá xăng có thể giảm từ 1.230-1.430 đồng/lít còn giá dầu diesel giảm ít hơn.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Phó Thủ tướng phê bình việc báo cáo vụ Tập đoàn Sơn Hải trượt thầu ‘rất chậm' — Liên quan đến việc lựa chọn nhà thầu gói thầu thi công dự án xây dựng đường cao tốc TPHCM - Thủ Dầu Một - Chơn Thành đoạn qua tỉnh Bình Phước, Phó Thủ tướng Trần Hồng Hà yêu cầu Bộ Tài chính hết sức rút kinh nghiệm vì báo cáo rất chậm.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "An cư, lạc nghiệp trên các đồi chè Thái Nguyên bền vững — Nhân dịp tổ chức thí điểm chương trình tập huấn phát triển vùng nguyên liệu chè bền vững tại La Bằng (tỉnh Thái Nguyên), nhãn hàng trà sữa CHAGEE phối hợp cùng chính quyền địa phương hỗ trợ người dân khó khăn xây nhà.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Không gian trưng bày ấn tượng của TASA Group tại Vietbuild 2025 — Suốt 5 ngày triển lãm Vietbuild 2025, gian hàng thương hiệu gạch TASA ghi dấu bởi các sản phẩm mới, đa dạng về kích thước, bề mặt và công nghệ hiện đại, thu hút hàng nghìn lượt tham quan.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "C.P. Việt Nam lên tiếng về 2 mảnh thân thịt heo nghi nhiễm bệnh gửi trên nhóm Zalo — Cùng với thông cáo về nội dung kết quả giải quyết nguồn tin về tội phạm của Công an tỉnh Sóc Trăng (cũ), C.P. Việt Nam cũng chính thức thông tin về 2 mảnh thịt thân heo nghi nhiễm bệnh tại cơ sở giết mổ gia công ở Hậu Giang (cũ).",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "“Nhà nước dám giao - tư nhân dám nhận” và cái kết vượt kỳ vọng — Theo chuyên gia kinh tế Phạm Chi Lan, việc Vingroup “về đích sớm” công trình Trung tâm Triển lãm Việt Nam minh chứng cho tính đúng đắn của Nghị quyết 68 - khi mạnh dạn giao tư nhân những dự án tầm cỡ, từ đó phá bỏ định kiến “tư nhân chưa đủ sức làm”.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Lãi suất ngân hàng hôm nay 2/7/2025: Thêm nhà băng điều chỉnh lãi suất — Lãi suất ngân hàng hôm nay 2/7/2025, tiếp tục có thêm nhà băng thay đổi lãi suất huy động sau khi Techcombank tăng lãi suất vào ngày đầu tiên của tháng 7.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Nóng: C.P. Việt Nam công bố kết quả giải quyết của công an liên quan tố cáo thịt heo — Liên quan đến vụ bị tố bán thịt heo bệnh, sáng 2/7, C.P. Việt Nam phát đi thông cáo về nội dung kết quả giải quyết nguồn tin về tội phạm của Công an tỉnh Sóc Trăng. Theo đó, C.P. Việt Nam không có dấu hiệu vi phạm quy định về an toàn thực phẩm.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Ngân hàng cùng lúc rao bán 28 nhà đất phố cổ Hội An — Một loạt ngôi nhà tại phố cổ Hội An được ngân hàng rao bán để thu hồi nợ xấu của các doanh nghiệp có liên quan với nhau.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Mở quán cà phê lỗ sạch 1,5 tỷ đồng, chủ quán nhận ra điều nhiều người bỏ qua — Sau 2 năm kinh doanh quán cà phê, anh Hùng đã phải đóng cửa với gánh nợ gần 1,5 tỷ đồng. Phân tích nguyên nhân thất bại, anh Hùng phát hiện một sai lầm lớn khiến mọi nỗ lực khác trở nên vô nghĩa.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Giá vàng hôm nay 2/7/2025: SJC lập đỉnh 1 tháng, vàng thế giới tăng sốc — Giá vàng hôm nay 2/7/2025 trên thị trường quốc tế tăng vọt trước những áp lực từ ông Trump và một đồng USD lao dốc. Tuy nhiên, gần đây vàng thường ghi nhận những đợt giảm rất mạnh. Giá vàng miếng SJC và nhẫn trơn sắp tới sẽ ra sao?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Chạy ngược chiều, người đi xe máy nghênh ngang thách thức 'tử thần' — Một người đi xe máy ngang nhiên phóng ngược chiều, lạng lách đánh võng và kết cục phải nằm bất động sau cú tông trực diện với xe tải.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ferrari thừa nhận sai lầm, ‘hồi sinh’ một tính năng trên siêu xe Amalfi — Ferrari đã quyết định quay trở lại sử dụng các nút vật lý trên vô lăng, bắt đầu với mẫu Amalfi mới và sẽ áp dụng cho tất cả các mẫu xe tương lai.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Dân thành phố được hưởng lợi lớn khi mua xe máy mới sau ngày sáp nhập — Kể từ ngày 1/7/2025, người mua xe máy mới ở một số địa phương, đặc biệt là khu vực đô thị được hưởng lợi lớn, có thể lên đến cả chục triệu đồng nhờ những thay đổi trong quy định về lệ phí trước bạ.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "SUV siêu sang Maybach GLS 600 mới giá tăng nhẹ, giới nhà giàu thêm lựa chọn — Maybach GLS 600 Facelift (bản nâng cấp giữa vòng đời) ra mắt thị trường Việt Nam với giá bán 12,379 tỷ đồng. Mẫu xe siêu sang này tăng giá nhẹ so với bản trước.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Có nên lái đi xuyên Việt bằng xe Spark đã hơn 10 năm tuổi? — Vợ chồng tôi cùng con trai 4 tuổi đang có kế hoạch lái xe đi xuyên Việt trong tháng 7 tới. Tôi có nên dùng luôn chiếc Chevrolet Spark đời 2014 của gia đình hay mượn một chiếc xe đời mới, rộng rãi hơn cho yên tâm?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Siêu xe Ferrari bốc cháy ngùn ngụt giữa đường, nữ tài xế vẫn không hề hay biết — TRUNG QUỐC - Siêu xe Ferrari 458 màu vàng bốc cháy từ phần động cơ phía sau nhưng vẫn \"bon bon\" trên đường. Chỉ đến khi được người đi đường nhắc nhở, nữ tài xế mới dừng lại, nhưng đã quá muộn.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Trộm rình trong nhà vệ sinh, kề dao vào cổ, cướp tài sản chủ nhà lúc rạng sáng — Trong lúc thức dậy đi vệ sinh vào rạng sáng, một phụ nữ ở xã Thăng Bình (TP Đà Nẵng) bất ngờ bị một nam thanh niên đeo khẩu trang dùng dao kề cổ, cướp tài sản.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Thuê người đánh giày đóng vai bố vợ, thực hiện cú lừa tiền tỷ — Để thực hiện màn lừa ngoạn mục, chiếm đoạt tiền tỷ của người nhẹ dạ, Nguyễn Đức Thành (SN 1988, ở Hà Nội) đã lên kế hoạch tỉ mỉ, thuê một người đánh giày vào vai bố vợ của mình.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Diễn biến bất ngờ tại phiên xét xử chủ tịch Tập đoàn Phúc Sơn và người liên quan — Sáng nay (4/7), thay vì tuyên án, vị thẩm phán chủ tọa phiên tòa xét xử vụ án xảy ra tại Tập đoàn Phúc Sơn và các đơn vị liên quan thông báo quay lại phần thẩm vấn. Đại diện VKS đề nghị lại mức án đối với bị cáo Nguyễn Văn Hậu và một số bị cáo khác.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vinmec khai trương phòng khám đa khoa quốc tế hiện đại tại Vinhomes Grand Park — Phòng khám Đa khoa Quốc tế Vinmec Grand Park được phát triển theo mô hình phòng khám quản lý sức khoẻ gia đình, cung cấp dịch vụ chăm sóc sức khỏe chất lượng cao ngay trong khu dân cư.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Người phụ nữ phải cấp cứu sau tai nạn hi hữu giữa vườn cao su — Tại vườn cao su, trong lúc bà T. đưa nông cụ lên thì tài xế vô tình điều khiển máy cày tông và cuốn vào khiến nạn nhân bị đa chấn thương nghiêm trọng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Thói quen kỳ lạ lúc buổi sáng khiến người đàn ông cấp cứu với vùng kín đau đớn — Người đàn ông trẻ quê Hà Tĩnh vào cấp cứu với vùng kín đau đớn được bác sĩ chẩn đoán gãy dương vật do thói quen bẻ “cậu nhỏ” vào buổi sáng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bất ngờ phát hiện u quái có chứa da, tóc trong lần kiểm tra sức khỏe tổng quát — Cô gái 21 tuổi vào viện khám vì rối loạn kinh nguyệt, được chỉ định kiểm tra sức khỏe tổng quát. Kết quả khám khiến cô bất ngờ vì phát hiện có khối u quái lớn, chứa dịch, bã nhờn, da, tóc...",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Dr.Papie tặng 100 phần quà cho bệnh nhi Bệnh viện Nhi đồng Thành phố — Ngày 1/7/2025, nhãn hàng Dr.Papie (thuộc CTCP Tập đoàn Dược phẩm STARMED) phối hợp cùng Chương trình Vòng tay ấm trao tặng hơn 100 phần quà gạc răng miệng cho bệnh nhi Khoa ung bướu, Huyết học lâm sàng, Bệnh viện Nhi đồng Thành phố.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nam thanh niên nhập viện cấp cứu vì bị chích điện liên tục — Một nam thanh niên phải nhập viện cấp cứu vì khó thở nghiêm trọng sau khi bị lừa ra nước ngoài qua mạng, nơi anh liên tục chịu tra tấn thể xác, thậm chí bị chích điện.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tai nạn sinh hoạt khiến bé gái cấp cứu với vùng kín đau đớn — Bé gái 12 tuổi tại TPHCM phải đi cấp cứu trong tình trạng chấn thương nặng vùng kín do tai nạn sinh hoạt tại nhà trong lúc chơi đùa.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Đã có thể tiêm vắc xin thế hệ mới phòng bệnh não mô cầu tại VNVC — Từ 5/7, Hệ thống Tiêm chủng VNVC triển khai tiêm vắc xin phòng não mô cầu công nghệ mới MenACYW - công nghệ đột phá, bảo vệ rộng hơn ở cả trẻ nhỏ, người lớn tuổi và có bệnh nền.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Thay khớp gối khôi phục vận động cho người cao tuổi bị thoái hóa khớp — Thay vì phải chịu đau đớn kéo dài, người cao tuổi mắc thoái hóa khớp gối nay đã có thể lựa chọn an toàn hơn nhờ phương pháp thay khớp gối không cắt gân cơ tại BVĐK Hồng Ngọc, giúp giảm đau nhanh, phục hồi vận động sớm.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "3 không khi ăn ngao — Có giá trị dinh dưỡng cao, ngao là lựa chọn tốt cho tim mạch nếu được chế biến đúng cách. Ngoài ra, một số người cũng nên tránh loại hải sản này.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thẻ BHYT chưa điều chỉnh thông tin địa chỉ có còn dùng được không? — Nhiều người dân tham gia BHYT băn khoăn từ ngày 1/7, thông tin địa chỉ, nơi đăng ký ban đầu trên thẻ BHYT chưa điều chỉnh liệu có ảnh hưởng quá trình khám chữa bệnh?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Video nước lũ ở Texas dâng cao hơn 6 mét chỉ trong nửa giờ — Chỉ trong vòng 37 phút, nước lũ ở bang Texas, Mỹ đã dâng hơn 6 mét và nhấn chìm một phần tuyến đường cao tốc 480 ở địa hình cao.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hình ảnh loạt FPV cảm tử của Nga tập kích pháo M777 Ukraine — Thông qua các thiết bị trinh sát, quân đội Nga đã phát hiện hướng hành quân của đơn vị vận chuyển pháo M777 Ukraine và tấn công phá hủy khí tài quân sự này.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Chuyên gia nêu tầm quan trọng của Chasiv Yar, Nga kiểm soát thêm làng ở Kharkiv — Giới chuyên gia quân sự Nga nhận định, thị trấn Chasiv Yar đóng vai trò quan trọng trong tuyến phòng thủ của quân đội Ukraine ở tỉnh miền đông Donetsk.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Người sống sót sau lũ lụt Texas kể tình cảnh 'thiên đường trở thành đống đổ nát' — Lorena Guillen cho hay, thảm họa lũ lụt ở bang Texas, Mỹ đã cuốn đi mọi thứ ở nơi từng là thiên đường đối với cô.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Báo Anh nói Israel che giấu việc bị Iran tấn công 5 căn cứ quân sự — Tờ Telegraph của Anh trích dẫn dữ liệu radar của các nhà nghiên cứu Mỹ hé lộ, các tên lửa của Iran dường như đã bắn trúng 5 cơ sở quân sự của Israel trong cuộc giao tranh kéo dài 12 ngày giữa hai nước.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ông Trump chia sẻ video tóm tắt cuộc đời, thừa nhận thất bại bầu cử 2020 — Tổng thống Mỹ Donald Trump đã công bố một đoạn video trên mạng xã hội Truth Social, phản ánh những cột mốc quan trọng trong cuộc đời của mình và hiếm hoi thừa nhận thất bại trong cuộc bầu cử năm 2020.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Lý do Hàn Quốc đột ngột phát tiền miễn phí cho mọi công dân — Nhà chức trách Hàn Quốc thông báo, nước này sẽ bắt đầu phát tiền mặt miễn phí cho mọi công dân vào ngày 21/7.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Xe tăng Leopard gây tai nạn trong lễ diễu hành ở Singapore — Trong chương trình Giáo dục quốc gia - Diễu hành Ngày Quốc khánh của Singapore, một xe tăng Leopard đã đâm phải cột đèn giao thông ở bên ngoài Tòa nhà Quốc hội và Tòa án tối cao.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Biểu tình chống người di cư bùng phát dữ dội tại nước thành viên EU — Đụng độ dữ dội giữa cảnh sát và người biểu tình phản đối dân di cư đã xảy ra tại Tây Ban Nha sau khi một nam giới gốc Mali bị bắt giữ vì tội cưỡng hiếp một phụ nữ trẻ người địa phương.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Lãnh tụ tối cao Iran lần đầu xuất hiện công khai sau xung đột với Israel — Nhà lãnh đạo tối cao của Iran Ayatollah Ali Khamenei ngày 5/7 lần đầu tiên xuất hiện trước công chúng kể từ khi xung đột giữa Iran và Israel bùng phát hồi tháng trước.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Lũ lụt Texas: 43 người thiệt mạng, 27 nữ sinh vẫn mất tích — Đã có ít nhất 43 người chết vì trận lũ lụt ở bang Texas (Mỹ), trong khi nỗ lực tìm kiếm 27 nữ sinh bị mất tích vẫn đang tiếp tục.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ukraine hoan nghênh động thái của Mỹ, Nga kiểm soát thêm 2 làng ở Donetsk — Tổng thống Ukraine Zelensky ca ngợi cuộc điện đàm với ông Trump. Nga giành quyền kiểm soát 2 khu định cư Zelenyi Kut và Novoukrainka ở vùng Donetsk.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tỷ phú Elon Musk tuyên bố thành lập đảng mới mang tên 'Nước Mỹ' — Sau những bất đồng với Tổng thống Trump về dự luật chi tiêu, tỷ phú Elon Musk đã công bố việc thành lập đảng chính trị mới mang tên \"Nước Mỹ\".",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "UAV 'tàng hình' thế hệ mới, giúp Ukraine biến phòng ngủ thành trung tâm chỉ huy — Không cần phải đến sát tiền tuyến, giờ chỉ cần có internet, những người điều khiển máy bay không người lái (UAV) của Ukraine có thể biến phòng ngủ thành trung tâm chỉ huy một chiến dịch quân sự.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Hé lộ lỗ hổng khiến tiêm kích F-35 của Anh dễ bị tấn công — Các tiêm kích F-35 mới có khả năng mang theo vũ khí hạt nhân của Anh chỉ được bảo vệ bằng hàng rào cao 1,5m và các biển báo cảnh báo, khiến chúng dễ bị tấn công.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Video trực thăng 'Cá sấu' Nga tập kích hàng loạt mục tiêu Ukraine ở tiền tuyến — Quân đội Nga đã triển khai phi đội trực thăng Ka-52 để tấn công hàng loạt mục tiêu bên phía Ukraine đang ngụy trang trong một khu rừng rậm.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Juventus đề nghị mới Jadon Sancho, MU mừng như mở hội — Juventus vừa đưa ra lời đề nghị mới nhất dành cho Jadon Sancho, với điều khoản làm cho các quan chức MU mừng như mở hội.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "PSG đấu Real Madrid: Sự thù địch và tranh cãi Mbappe — PSG từng đối đầu Real Madrid vì Super League và Kylian Mbappe, giờ đây bước vào cuộc chiến được chờ đón nhất FIFA Club World Cup 2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Sau VTV Cup, Thanh Thúy nhận tin cực vui từ Nhật Bản — Chủ công Trần Thị Thanh Thúy chính thức có tên trong danh sách CLB Gunma Bank Green Wings W của giải bóng chuyền VĐQG Nhật Bản.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Real Madrid thưởng lớn dàn sao nếu vô địch FIFA Club World Cup — Real Madrid đưa ra mức thưởng khủng cho dàn sao với những Mbappe, Jude Bellingham, Vinicius,… nếu vô địch FIFA Club World Cup 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Tin tức về chuyển nhượng 7/7: MU đón Calvert-Lewin, Arsenal chốt Madueke — Tin tức về chuyển nhượng 7/7: MU chuẩn bị đón Dominic Calvert-Lewin, Arsenal chốt hợp đồng Noni Madueke, Tottenham liên hệ Ademola Lookman.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Barca hụt Nico Williams: Cái giá của sự ngạo mạn — Barca mua hụt Nico Williams vì cư xử với thái độ ngạo mạn, để rồi bị khiếu nại và nhận án phạt nặng từ UEFA.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Giải U16 nữ Quốc gia: Hà Nội có chiến thắng quan trọng — Chiến thắng 4-0 trước Zantino Vĩnh Phúc mở ra cơ hội lớn để Hà Nội bảo vệ thành công ngôi vô địch ở giải bóng đá nữ vô địch U16 Quốc gia 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "HLV Kim Sang Sik loại 8 cầu thủ ở U23 Việt Nam — HLV Kim Sang Sik rút gọn danh sách đội U23 Việt Nam còn 28 cầu thủ nhằm chuẩn bị bước vào giải vô địch U23 Đông Nam Á 2025 với mục tiêu bảo vệ ngôi vô địch.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Bayern báo tin xấu Musiala, Kompany ôm hận vì FIFA Club World Cup — Bayern Munich xác nhận Jamal Musiala phải lên bàn phẫu thuật và nghỉ dài hạn sau chấn thương kinh hoàng gặp phải ở tứ kết FIFA Club World Cup, thua 0-2 PSG.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vẻ đời thường cực xinh của Hoa khôi bóng chuyền VTV Cup — Hoa khôi bóng chuyền VTV Cup 2025 Leila Jane Cruz (tuyển Philippines) gây thương nhớ bởi vẻ đẹp cuốn hút, thể hình chuẩn như người mẫu.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Lịch thi đấu bóng đá hôm nay 7/7 — Lịch thi đấu bóng đá hôm nay 7/7/2025 - Cung cấp lịch thi đấu bóng đá trong nước và quốc tế hấp dẫn đêm nay, rạng sáng mai.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Vì sao Bích Tuyền, Thanh Thúy không dự giải Thượng Hải? — Bích Tuyền, Thanh Thúy và nhiều trụ cột tuyển bóng chuyền nữ Việt Nam không tham dự giải Thượng Hải Future Stars Cup 2025 sau khi kết thúc VTV Cup.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Alcaraz 'thổi bay' Rublev, đoạt vé tứ kết Wimbledon 2025 — Carlos Alcaraz có màn ngược dòng đánh bại Andrey Rublev sau bốn set để giành quyền vào tứ kết đơn nam Wimbledon 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Lamine Yamal mở đại tiệc toàn khách VIP, Barca lo… hư sớm — Lamine Yamal mở đại tiệc tưng bừng mời toàn khách VIP, Barca lo ‘thần đồng’ bị cuốn vào những cuộc vui mà chểnh mảng luyện tập, đi chệch hướng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Kết quả bóng đá hôm nay 7/7 — Kết quả bóng đá hôm nay 7/7/2025 - Cập nhật kết quả các trận đấu bóng đá trong nước và quốc tế diễn ra đêm qua và rạng sáng nay.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tuyển Việt Nam đặt mục tiêu dự World Cup 2034: Thực tế hay vẫn xa? — Dự World Cup một lần nữa được đặt lên bàn nghị sự, với đích đến 2034. Liệu đây là kế hoạch có lộ trình thực tế, hay vẫn chỉ là giấc mơ xa vời của tuyển Việt Nam?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Giang hồ mạng Tiến ‘bịp’ bị bắt — Nguyễn Thành Long (tức Tiến \"bịp\") cùng 2 đối tượng khác đã bị Công an TP Hải Phòng bắt giữ để điều tra về hành vi tổ chức sử dụng trái phép chất ma túy.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ba nam sinh sảy chân rơi vào vùng nước sâu, chỉ cứu được 1 em — Ba nam sinh ra khu vực đập nước ở tỉnh Nghệ An để chơi, không may bị sảy chân rơi vào vùng nước sâu, 2 nam sinh tử vong thương tâm.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bún mua về ăn đổi màu đỏ, Đà Nẵng xử lý ra sao? — Người dân phản ánh bún tươi mua tại chợ ở Đà Nẵng chuyển sang màu đỏ. UBND phường Hòa Xuân đã kiểm tra, lấy mẫu đi kiểm nghiệm và yêu cầu cơ sở sản xuất tạm dừng hoạt động.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Giám đốc Công an Đồng Tháp Lâm Phước Nguyên được thăng cấp bậc hàm Thiếu tướng — Giám đốc Công an tỉnh Đồng Tháp Lâm Phước Nguyên vừa được thăng cấp bậc hàm từ Đại tá lên Thiếu tướng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Cựu cán bộ tòa án bị cáo buộc nhận 25 tỷ đồng, hứa giúp nữ đại gia thắng kiện — Cáo trạng xác định, cựu cán bộ TAND Tối cao đã nhận 20 tỷ đồng và được chuyển nhượng 2 thửa đất giá trị 5 tỷ đồng để giúp một nữ đại gia thắng vụ kiện dân sự giữa 2 công ty.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ra giữa đường ray khi gác chắn đã hạ, người đàn ông bị tàu tông tử vong tại chỗ — Đoàn tàu đang chạy trên tuyến đường sắt Bắc - Nam, khi đến đoạn qua tỉnh Lâm Đồng thì tông vào người đàn ông đứng giữa đường ray. Nạn nhân tử vong tại chỗ, đoàn tàu buộc phải dừng khẩn cấp.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cô gái Hà Nội mất 300 triệu vì ‘sập bẫy’ đầu tư vàng quốc tế siêu lợi nhuận — Thấy việc đầu tư có lãi, người phụ nữ ở Hà Nội không mảy may nghi ngờ, tiếp tục nạp thêm ba lần, nâng tổng số tiền lên 300 triệu đồng. Đến khi mất sạch tiền, chị mới trình báo cơ quan công an.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tông xe ô tô vào cán bộ thi hành án, một giám đốc bị tuyên phạt về tội giết người — Không đồng tình với việc thực hiện nhiệm vụ của tổ công tác, ông Giang Công Băng điều khiển chiếc ô tô Mercedes- Benz đâm trực diện vào các cán bộ thi hành án.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tin mới nhất về đợt mưa lớn diện rộng sắp diễn ra ở miền Bắc — Từ đêm 9-10/7, mưa lớn bắt đầu xảy ra ở khu vực vùng núi và trung du Bắc Bộ, sau đó, mở rộng ra toàn miền Bắc và kéo dài hết ngày 12/7; nguy cơ cao xảy ra lũ quét, sạt lở đất ở vùng núi.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vụ cháy chung cư Độc Lập làm 8 người tử vong, xác định nguyên nhân ban đầu — Cơ quan điều tra Công an TPHCM vừa thông tin nguyên nhân ban đầu vụ cháy tại chung cư Độc Lập làm 8 người chết do bị chạm chập điện.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Loạt xe điện du lịch và 1 ô tô bốc cháy ngùn ngụt tại khu du lịch — Nhà để xe của một doanh nghiệp tại Khu du lịch chùa Hương Tích bốc cháy ngùn ngụt. Hậu quả, 9 xe điện du lịch và 1 xe ô tô bị lửa thiêu rụi.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cô gái tử vong dưới bánh xe tải, nam thanh niên gục khóc tại hiện trường — Tại vòng xoay ở TPHCM, xảy ra va chạm với xe tải, thiếu nữ ngồi sau xe máy ngã xuống đường và bị cán tử vong. Nam thanh niên cầm lái bị xây xát nhẹ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Động thái mới nhất sau vụ cháy chung cư Độc Lập khiến 8 người tử vong — Sau vụ cháy khiến 8 người tử vong tại chung cư Độc Lập, người dân được yêu cầu tháo các công trình lấn chiếm hành lang, \"chuồng cọp\" gây cản trở, đảm bảo an toàn phòng chống cháy, nổ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cảnh tượng kinh hoàng ở Ninh Bình, nghìn tấn đá ụp xuống sau tiếng nổ như bom — Những tiếng nổ lớn như bom, sau đó hàng nghìn tấn đá từ trên núi sạt lở xuống ầm ầm khiến nhà dân ở phường Tam Chúc (Ninh Bình) rung chuyển, người dân phải di dời khẩn cấp.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tử hình người đàn ông thảm sát cả gia đình ở Hà Nội — Ngày 8/7, TAND TP Hà Nội tuyên án tử hình đối với bị cáo Vũ Văn Vương (SN 1974, ở Hà Nội) về tội “Giết người”. Nạn nhân trong vụ án đau lòng thay lại là mẹ ruột, vợ và 2 con ruột của bị cáo.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Xử phạt người bán trà đá đuổi cô gái đứng trên vỉa hè ở Hà Nội — Sau khi có hành động không đúng mực với một cô gái đang đứng đợi xe trên vỉa hè, người bán trà đá đã tắt điện thoại và về quê. Tuy nhiên, bà K. đã bị công an mời lên làm việc và bị xử phạt hành chính 2,5 triệu đồng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bắt ổ nhóm dàn dựng hình ảnh nhạy cảm của cán bộ, cưỡng đoạt 300 tỷ đồng — Nhóm đối tượng đã thu thập hình ảnh nhạy cảm của các cán bộ, doanh nhân rồi đe doạ cưỡng đoạt tài sản. Công an xác định, 11/20 tài khoản nhận tiền của bị hại có tổng giao dịch gần 300 tỉ đồng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bé gái 1 ngày tuổi bị bỏ rơi ở nhà văn hóa kèm bức thư viết tay — Sáng 8/7, trao đổi với PV VietNamNet, ông Nguyễn Hồng Thao, Phó Chủ tịch UBND xã Hiền Lương (Phú Thọ) cho biết, trên địa bàn vừa phát hiện 1 bé gái sơ sinh bị bỏ rơi.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "TPHCM: Cầu sắt hơn 50 năm tuổi xuống cấp trầm trọng sắp được xây mới 500 tỷ đồng — Cầu Rạch Tôm (xã Nhà Bè, TPHCM) được xây trước 1975, sau hơn nửa thế kỷ hoạt động, nay đã xuống cấp nghiêm trọng, gây khó khăn, mất an toàn cho việc đi lại của người dân.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hổ trắng quý hiếm chết, Thảo Cầm Viên Sài Gòn thông tin nguyên nhân — Sau 10 năm được nuôi dưỡng ở Thảo Cầm Viên Sài Gòn, hổ trắng Bengal quý hiếm với tên gọi Ngộ Không đã chết do bệnh nặng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cảnh hiếm thấy ở đặc khu Phú Quốc sau một tuần vận hành chính quyền 2 cấp — Người dân 8 xã, phường tập trung về một địa điểm giao dịch, lượng hồ sơ tăng đột biến, Chủ tịch UBND đặc khu Phú Quốc kiến nghị tỉnh sớm gỡ vướng trong vận hành chính quyền địa phương 2 cấp.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Lửa bao trùm thiêu rụi 5 phòng trọ sát đường lớn ở TPHCM — Ngọn lửa đỏ rực kèm khói đen bao trùm căn nhà cho thuê trọ ở phường Tân Thới Hiệp TPHCM.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bí thư Hà Nội nêu yêu cầu với mỗi cán bộ khi thực thi chính sách mới — Tại kỳ họp thứ 25, HĐND TP Hà Nội sẽ xem xét mức chi hỗ trợ doanh nghiệp nhỏ và vừa, cơ chế hỗ trợ bữa ăn bán trú cho học sinh tiểu học đồng thời dành thời lượng lớn cho hoạt động chất vấn về an toàn thực phẩm.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Cháy dữ dội tại kho chứa vải bị khóa kín, khói đen bốc cao hàng trăm mét — Kho chứa vải trên đường Nguyễn Đình Tựu, Đà Nẵng cháy dữ dội. Cột khói đen bốc cao hàng trăm mét, đứng từ xa vẫn có thể nhìn thấy.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hà Nội bứt tốc phát triển metro và công nghiệp đường sắt — Hà Nội đang gấp rút hoàn thiện các thủ tục để khởi công 2 tuyến metro trong năm nay đồng thời đề xuất Chính phủ phê duyệt địa điểm, quy mô dự án xây dựng tổ hợp công nghiệp đường sắt.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Lạm phát về đâu? — Lạm phát đã đi đâu trong bối cảnh chính sách tài khóa, tiền tệ đều mở rộng và giá thế giới biến động khó lường?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Đình Tú - Ngọc Huyền tung loạt ảnh cưới đẹp như mơ, tiết lộ ngày kết hôn — Sau khi khoe giấy đăng ký kết hôn, cặp diễn viên nổi tiếng của phim giờ vàng VTV Đình Tú và Nguyễn Hoàng Ngọc Huyền vừa tung loạt ảnh cưới đẹp như mơ và hé lộ ngày trọng đại.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Trấn Thành khóc giữa đêm, Mai Phương Thúy tự tin với mặt mộc — MC Trấn Thành bật khóc giữa đêm khi vô tình nghe tâm sự của vợ. Hoa hậu Mai Phương Thúy tự tin với mặt mộc.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Triển lãm Shades of Lotus tôn vinh sen Việt tại Namia River Retreat — 3 nghệ sĩ đương đại cùng chọn hoa sen - biểu tượng của sự thanh khiết, bình yên, với 3 bộ sưu tập hội họa và thời trang, hòa thành bản giao hưởng đa sắc về sen trong triển lãm nghệ thuật Hoi An Hidden Charm - Shades of Lotus.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nữ MC nổi tiếng 'đau tim' vì con gái 14 tuổi gặp sự cố ở trại hè — MC Anh Thơ nhiều phen \"thót tim\" vì nhận tin con gái liên tục gặp sự cố trong chuyến sang Mỹ tham gia trại hè trải nghiệm.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Phan Hiển đón tin vui với bạn nhảy Thu Hương — Kiện tướng Phan Hiển vừa đón tin vui với bạn nhảy Thu Hương khi xuất sắc giành 3 huy chương Vàng tại giải Vô địch Dancesport Đông Nam Á 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nghệ sĩ Kim Lệ Thủy tuổi 75: 2 lần bị tai biến, chồng bán vé số nuôi mỗi ngày — Từng là đào chánh nổi tiếng một thời, nghệ sĩ Kim Lệ Thủy tuổi xế chiều mắc nhiều bệnh, sống cảnh túng thiếu nhưng vẫn khao khát được trở lại sân khấu.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Thế hệ làm xuất bản quân sự tự hào với gần 7 triệu bản in trong 75 năm — Tính đến nay, Nhà xuất bản Quân đội Nhân dân đã xuất bản hơn 20.000 đầu sách, với gần 70 triệu bản in và hơn 6,5 tỷ trang sách - một minh chứng sống động cho quá trình đóng góp bền bỉ, kiên trì của các thế hệ làm xuất bản quân sự.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "NSƯT Kim Tuyến U40 quyến rũ, tự tin khoe dáng bên đàn em kém chục tuổi — U40, NSƯT Kim Tuyến nhan sắc mặn mà, vóc dáng quyến rũ, nhận lời làm mẫu trình diễn bên cạnh loạt người đẹp cách mình hàng chục tuổi.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Diễn viên Lan Phương: Không có gì phải xấu hổ! — Diễn viên Lan Phương \"Thương ngày nắng về\" bảo vệ quan điểm của mình khi vấp phải một số ý kiến không hay về việc cô chia sẻ ảnh cho con bú trên phim trường.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tự biến mình thành nạn nhân vụ Hồng tỷ chấn động — Từ trào lưu ghép ảnh vi phạm giao thông của Á hậu Miss Fitness Vietnam, mạng xã hội tiếp tục mượn tay AI, tự biến mình thành nạn nhân vụ bê bối \"Hồng tỷ\" ở Trung Quốc.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Mê đắm với 3 giọng ca đỉnh cao opera thế giới — Tối 10/7, hoà nhạc \"The Light of Melody\" kỷ niệm 2 năm ngày thành lập Nhà hát Hồ Gươm là hành trình thăng hoa của nhạc cổ điển, 3 giọng ca đỉnh cao thế giới khiến khán giả mê đắm.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Đường Tăng đầu tiên của Tây Du Ký: Đóng 3 tập đã bỏ vai, giờ là giáo sư — Từng gây ấn tượng mạnh với vai diễn ''Đường Tăng'' chỉ sau 3 tập phim, Uông Việt bất ngờ bỏ vai, nay có cuộc sống kín tiếng ở tuổi 70.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "'Dịu dàng màu nắng' tập 29: Tình cũ tìm đến tận nơi làm việc mới của Lan Anh — Trong \"Dịu dàng màu nắng\" tập 29, gã tình cũ tìm đến tận spa nơi Lan Anh đang làm quản lý giữa lúc cô đang đoàn tụ với chồng con.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ca sĩ khiến Hồ Ngọc Hà phải thốt lên 'Hoàng tử ballad thế hệ mới' là ai? — Minh Khôi - giọng ca hát trực tiếp mà như bản thu âm, khiến Hồ Ngọc Hà phải thốt lên đây là \"Hoàng tử ballad thế hệ mới\".",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Đời nam nghệ sĩ leo rào bệnh viện thăm con, hơn 30 năm xa vợ — Nghệ sĩ Phương Bình \"trốn\" vợ nửa đêm năm 1993, xa gia đình hơn 30 năm theo đuổi nghệ thuật. Từng vá xe mưu sinh, viết thư xin tiền vợ, 51 tuổi mới mua được căn nhà đầu tiên.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ca sĩ Bảo Thy 'không có cửa' để từ chối anh trai chủ tịch — Sau khi kết hôn, lần hiếm hoi ca sĩ Bảo Thy tái xuất. Cô kết hợp với một nam ca sĩ điển trai kém 11 tuổi vì anh trai - Trần Thế Bảo.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Sinh viên Ấn Độ sẽ tới Việt Nam học thạc sĩ Y khoa — Trường ĐH Y Dược - ĐH Quốc gia Hà Nội vừa mở mới 4 chương trình thạc sĩ quốc tế y khoa bằng tiếng Anh dành cho học viên quốc tế từ năm 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Phát biểu lạ về 'Người tiên phong cô độc' của hiệu trưởng đại học nổi tiếng — TRUNG QUỐC - \"Con đường đổi mới ít khi bằng phẳng và người tiên phong thường phải đi qua hoài nghi, cô độc\" - phát biểu của Hiệu trưởng ĐH Thanh Hoa, GS Lý Lộ Minh tại lễ tốt nghiệp năm 2025 để lại dư âm sâu sắc với sinh viên và cộng đồng giáo dục.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Điều đặc biệt ở nữ sinh trượt lớp 10 sau thành á khoa toàn quốc — Thời điểm thi trượt vào lớp 10 công lập, Tú Anh từng buồn bã, thất vọng, tưởng chừng không thể vượt qua. Nhưng nghĩ “nếu không đứng dậy, mình sẽ tiếp tục trượt dài”, nữ sinh vượt qua mặc cảm để vươn lên, 3 năm sau trở thành á khoa toàn quốc.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Sinh viên ngành 'lương khủng' chạy đua vào CLB danh giá, chỉ 10% được chọn — SINGAPORE - Trong bối cảnh cạnh tranh khốc liệt để giành lấy một vị trí trong ngành ngân hàng, sinh viên xem việc gia nhập các câu lạc bộ tài chính ở trường đại học như “tấm vé vàng” giúp họ ghi điểm với nhà tuyển dụng tương lai.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Vị tiến sĩ nào từng 7 lần thi trượt? — Ông không chỉ là nhà thơ lớn mà còn có hành trình khoa cử đầy gian nan, từng thi trượt tới 7 lần trước khi đỗ đạt.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nữ sinh tốt nghiệp xuất sắc, 4 năm qua 3 quốc gia, giành học bổng tiến sĩ Mỹ — Trong 4 năm đại học, Minh Ngọc từng có dịp đi trao đổi ở 3 quốc gia. Dẫu vậy, nữ sinh vẫn duy trì chương trình học trên lớp và tốt nghiệp sớm một kỳ với tấm bằng xuất sắc.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Mẹ già hơn 70 tuổi bán cả gia tài không đủ tiền cứu con trai suy thận — Không may bị tai nạn giao thông, chưa kịp hồi phục thì con trai lại bị suy thận giai đoạn cuối khiến bà Hà, hơn 70 tuổi, phải chạy vạy vay mượn khắp nơi, thậm chí bán cả gia tài cũng không đủ tiền cứu con....",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Anh Sùng A Sá mắc bạo bệnh được bạn đọc giúp đỡ hơn 29 triệu đồng — Để có tiền trang trải chữa bệnh cho chồng, chị Pàng đã bán hết đàn dê, đồng thời vay mượn thêm từ anh em, họ hàng nhưng vẫn không đủ.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Đình chỉ thi công tuyến đường tạm băng ngang sông Quán Trường ở Khánh Hoà — Sở Xây dựng tỉnh Khánh Hòa vừa yêu cầu tạm đình chỉ thi công tuyến đường tạm băng ngang sông Quán Trường ở phường Nam Nha Trang, sau khi người dân phản ánh tình trạng san lấp sông bất thường.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Eurowindow công bố khách hàng trúng thưởng xe máy Honda — Eurowindow vừa tổ chức lễ quay số trúng thưởng chương trình khuyến mãi “Mua cửa trúng xe - Nghỉ dưỡng đón hè” tìm ra khách hàng may mắn sở hữu 3 xe máy: Honda SH; Honda Air Balde và Honda Vision.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Những mảnh ghép kiến tạo chuẩn mực sống đáng mơ ước tại Tây Bắc TP.HCM — Không phải ở ngoại ô xa xôi, cũng chẳng thuộc trung tâm đông đúc, tại “trái tim” của CBD Tây Bắc TP.HCM, Vinhomes Green City đang vươn mình thành biểu tượng không gian sống mới: cân bằng, tiện nghi và đậm chất sống xanh.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Cấp sổ đỏ lần đầu ở xã trong 3 ngày, không cần xác nhận ‘đất không tranh chấp' — Theo quy định tại Nghị định 151/2025, có hiệu lực thi hành từ 1/7, người dân không phải xác nhận đất không tranh chấp khi làm sổ đỏ.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Phân khu Thiên Hà ‘cháy hàng’ ngay ngày đầu ráp căn — Giỏ hàng đợt đầu Phân khu Thiên Hà - Vinhomes Golden City (Vinhomes Dương Kinh) công bố cháy hàng chỉ sau vài giờ mở bán. Trong đó, Five Star Property bứt tốc giao dịch, giúp đông đảo khách hàng “chốt nhanh - chọn chuẩn”.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Phổ Yên hưởng lợi từ trục kết nối mới — Hạ tầng vùng Thủ đô vào giai đoạn nước rút, dòng tiền đầu tư dịch chuyển nhanh về đô thị vệ tinh giáp ranh như Phổ Yên với nhiều tiềm năng tăng trưởng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Sau sáp nhập, có tiền tỷ đầu tư bất động sản cần đặc biệt lưu ý những điều này — Nhà đầu tư có sẵn vài tỷ đồng băn khoăn nên đầu tư bất động sản khu vực nào tiềm năng, phân khúc nào có thể sinh lời. Đặc biệt, cần lưu ý gì để tránh rủi ro khi ‘xuống tiền’?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Chuyển đất vườn, ao sang đất ở, Bộ Tài chính nêu hướng giảm mạnh tiền người dân phải nộp — Trong dự thảo Nghị định sửa đổi, bổ sung Nghị định 103 mới nhất, cơ quan soạn thảo đã đề xuất phương án giảm tiền sử dụng đất đến 70% khi chuyển từ đất nông nghiệp sang đất ở cho hộ gia đình, cá nhân.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Chủ tịch nước: Tạo 'đường băng' để Hải Phòng cất cánh — Chủ tịch nước Lương Cường biểu dương những thành tựu phát triển vượt bậc của Hải Phòng và mong các nhà đầu tư nhìn thấy cơ hội hợp tác đầy triển vọng trong thời gian tới.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Rà soát đội ngũ cán bộ ứng cử các chức danh trong Quốc hội, HĐND — Thủ tướng đề nghị Đảng ủy Quốc hội phối hợp với các bộ, ban, ngành liên quan, trong đó có Chính phủ, để rà soát đội ngũ cán bộ tham gia ứng cử các chức danh, nhất là các chức danh trong Quốc hội, HĐND các cấp.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tổng Bí thư: Người có công là tài sản quý, biểu tượng của ý chí Việt Nam — Tổng Bí thư Tô Lâm đề nghị các cấp ủy Đảng, chính quyền, đoàn thể tỉnh Bắc Ninh tiếp tục quan tâm, chăm lo tốt hơn đời sống vật chất, tinh thần của các thương binh, bệnh binh, người có công.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Thủ tướng: Ngoại giao cần nghiên cứu, phân tích về 'đối tác, đối tượng' — Thủ tướng lưu ý nắm chắc, nghiên cứu, phân tích, tham mưu về \"đối tác, đối tượng\". Bộ Ngoại giao hàng tuần có báo cáo cho Bộ Chính trị, Ban Bí thư và đột xuất thì báo cáo riêng để nắm được tình hình.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Phó Thủ tướng: Cán bộ trong thời kỳ mới phải có 6 loại tư duy cốt lõi — Phó Thủ tướng thường trực Nguyễn Hòa Bình nhấn mạnh cán bộ trong thời kỳ mới phải có 6 loại tư duy cốt lõi: Tư duy phục vụ; tư duy cải cách; tư duy số; tư duy pháp quyền và kỷ cương; tư duy phát triển bền vững, toàn diện; tư duy hội nhập và học hỏi.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Quy định mới về bổ nhiệm chức vụ lãnh đạo, quản lý với viên chức — Nhân sự do cấp có thẩm quyền dự kiến điều động, bổ nhiệm làm viên chức lãnh đạo, quản lý từ nguồn ngoài cơ quan, đơn vị thì cơ quan, bộ phận tham mưu về tổ chức, cán bộ tiến hành các công việc gồm 3 bước.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ông Nguyễn Văn Trường làm Phó chủ tịch HĐND tỉnh Lạng Sơn — Với 100% số phiếu đồng ý của đại biểu, ông Nguyễn Văn Trường được bầu làm Phó chủ tịch HĐND tỉnh Lạng Sơn.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Theo chân bộ đội biên phòng băng rừng, lội suối, vượt dốc, tuần tra vùng biên — Giữa núi rừng Trường Sơn, những người lính Đồn Biên phòng Cửa khẩu quốc tế Nam Giang (TP Đà Nẵng) không chỉ ngày đêm tuần tra bảo vệ biên giới, mà còn sát cánh cùng người dân xây dựng cuộc sống mới ấm no.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Hậu cấm vận, Huawei trở lại mạnh mẽ với công nghệ ‘cây nhà lá vườn’ — Huawei vươn lên vị trí số 1 trên thị trường smartphone Trung Quốc lần đầu tiên trong hơn 4 năm, nhờ các mẫu thiết kế và phần mềm mới thu hút người dùng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Google xác nhận hợp nhất ChromeOS và Android — Sau nhiều năm đồn đoán, Google chính thức xác nhận sẽ kết hợp hai hệ điều hành ChromeOS và Android làm một.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thị trường bộ nhớ 2025: Đà tăng giá lan rộng trên nhiều phân khúc — Trước tình trạng mất cân đối cung - cầu và biến động giá khó lường, các doanh nghiệp công nghệ cần sớm xây dựng chiến lược ứng phó nhằm tránh rơi vào thế bị động.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Lý do giá Bitcoin tăng gấp đôi chỉ trong một năm — Giá Bitcoin (BTC) giao dịch quanh mức 117.000 USD hôm nay, dù giảm nhẹ sau đợt tăng lịch sử đưa đồng tiền số lớn nhất thế giới lần đầu vượt mốc 123.000 USD.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "FPT Telecom về Bộ Công an: Cuộc chơi viễn thông bước sang giai đoạn mới — Việc Bộ Công an tiếp nhận quyền đại diện phần vốn nhà nước tại FPT Telecom đang mở ra một chương mới cho thị trường viễn thông, có thể tạo ra làn sóng chuyển biến trong lĩnh vực dữ liệu, an ninh mạng và cạnh tranh giữa các nhà mạng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "CMC khởi động dự án trung tâm dữ liệu trị giá 250 triệu USD tại TP.HCM — Cuối tháng 6/2025, Ban Quản lý Khu Công nghệ cao TP.HCM (SHTP) đã chấp thuận Tập đoàn Công nghệ CMC đầu tư dự án CMC Hyperscale Data Center trị giá hơn 250 triệu USD.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "‘Siêu Trái Đất’ phát tín hiệu bí ẩn, hành tinh trong thiên hà có thể sinh sống? — NASA vừa phát hiện một hành tinh \"siêu Trái Đất\" bí ẩn, dường như đang phát ra một tín hiệu lặp lại từ khoảng cách 154 năm ánh sáng.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "iPhone gập giá rẻ hơn dự kiến, đối đầu Galaxy Z Fold 7? — Theo phân tích mới từ ngân hàng đầu tư UBS, iPhone Fold – mẫu iPhone gập tin đồn của Apple - sẽ có giá thấp hơn nhiều so với dự kiến, cạnh tranh trực tiếp với Galaxy Z Fold 7 của Samsung.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "5G đã sẵn sàng cho tất cả mọi người: Giá tốt, máy phổ thông, vùng phủ toàn quốc — Sự kiện Samsung lần đầu tiên kết hợp cùng Viettel đưa smartphone 5G giá rẻ về miền Tây, hay Viettel bắt tay Oppo ra mắt dòng điện thoại 5G mới nhất là những tín hiệu cho thấy cuộc đua trên thị trường 5G tại Việt Nam đang tăng tốc.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Đắk Lắk phát động 100 ngày 'Bình dân học vụ số' — UBND tỉnh Đắk Lắk vừa tổ chức lễ phát động 100 ngày \"Bình dân học vụ số\" nhằm mục tiêu xây dựng tỉnh Đắk Lắk phát triển bền vững trong kỷ nguyên số.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Công an Đắk Lắk xây dựng sáng kiến chatbot để cấp hộ chiếu trực tuyến — Nhằm đẩy mạnh cải cách hành chính, ứng dụng công nghệ số phục vụ người dân, Công an tỉnh Đắk Lắk đã xây dựng, triển khai sáng kiến sử dụng trợ lý ảo chatbot ứng dụng trí tuệ nhân tạo (AI) để hỗ trợ cấp hộ chiếu cho công dân trên địa bàn tỉnh.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Sử dụng ChatGPT trong công việc bị ‘kỳ thị’: Vì sao lại thế? — Một nghiên cứu chỉ ra, người dùng các công cụ AI như ChatGPT trong công việc dễ bị đánh giá là lười biếng, kém năng lực – dù kết quả làm việc vẫn tốt.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thiết kế iPhone 17: Apple sẽ thay đổi ra sao? — Những rò rỉ gần đây cho thấy iPhone 17 sẽ có sự thay đổi đáng kể về thiết kế, từ kiểu dáng, chất liệu cho đến cách bố trí camera và các yếu tố nhận diện thương hiệu.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Con người dần nói chuyện như ChatGPT? — Các công cụ AI như ChatGPT đang âm thầm thay đổi cách con người viết và nói, lan tỏa phong cách trau chuốt nhưng làm mờ đi cá tính và sự chân thật trong giao tiếp.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hàn Quốc trình làng tiêm kích nội địa công nghệ ‘siêu khủng’ gắn tên lửa tấn công sâu — Trong bối cảnh Đông Bắc Á đang chứng kiến những chuyển động chiến lược nhanh chóng về quân sự, Hàn Quốc đang nổi lên như một trong những quốc gia châu Á đầu tiên phát triển tiêm kích thế hệ mới KF-21 Boramae có năng lực tấn công sâu.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Bé 2 tháng tuổi bị chấn thương đầu, hé lộ bí mật rúng động trong biệt thự trăm tỷ — MỸ - Cặp vợ chồng sống trong biệt thự trị giá 4,1 triệu USD (hơn 107 tỷ đồng), có tới 21 đứa con nhờ mang thai hộ, thuê bảo mẫu hung dữ quản trẻ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cậu bé từng gây chấn động vì 'một mình trên khinh khí cầu, bay 113km' giờ ra sao — MỸ - 16 năm sau vụ việc, Falcon không còn nhớ rõ vụ việc từng gây chấn động dư luận một thời.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Cô dâu Ê Đê dẫn nhà gái đi đón chú rể Đan Mạch, đám cưới rộn ràng khắp buôn làng — Hình ảnh chú rể Đan Mạch mặc trang phục truyền thống của người Ê Đê cùng cô dâu về nhà khiến người xem thích thú.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Chồng cũ cưới vợ sau 6 tháng ly hôn, tôi đến dự, nói câu khiến anh đau điếng — Sau tất cả, tôi nhận ra ly hôn chính là bước ngoặt của cuộc đời mình. Tôi cần mạnh mẽ, vững vàng hơn vì con, vì tương lai của chính mình.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Người đàn ông bị gai sầu riêng đâm đầy mặt trong vụ tai nạn giao thông hy hữu — THÁI LAN - Người đàn ông bị sầu riêng đâm vào mặt trong vụ tai nạn giao thông hy hữu xảy ra tại tỉnh Buriam.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "2 cách rã đông cá nhanh gọn, hiệu quả, ai cũng có thể làm được — Nhiều người chọn cách ngâm cá trong nước để rã đông, song cách này tốn nhiều thời gian và không hiệu quả. Dưới đây là 2 cách rã đông cá nhanh chóng, giữ nguyên độ tươi ngon mà ai cũng có thể làm được.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Chị em 'chịu chi', mua cành thị lúc lỉu quả về cắm, bừng sáng cả góc phòng — Những cành thị lúc lỉu quả được đưa vào bình, đặt trong phòng khách trở thành tác phẩm nghệ thuật đẹp khiến chị em mê mẩn.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Chiến dịch dọn rác bãi biển của Vingroup xác lập kỷ lục Việt Nam — Quỹ Vì tương lai xanh (Vingroup) được Tổ chức Kỷ lục Việt Nam trao chứng nhận xác lập kỷ lục “Chiến dịch dọn rác tại bãi biển thuộc các tỉnh, thành có biển của Việt Nam trong cùng một ngày, có số lượng cán bộ nhân viên đơn vị tham gia nhiều nhất”.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Mâm cỗ miền Tây bày đủ món nhưng vắng người ngồi, biết lý do ai cũng xúc động — Trong các đám giỗ hay lễ cúng quan trọng, nhiều gia đình ở miền Tây chuẩn bị một mâm cỗ với hàng loạt món ngon, đặt trang trọng trên bàn lớn và bày trước nhà.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Con trai thất lạc 45 năm trở về, hé lộ sự thật bất ngờ về người dưới mộ — Thất lạc suốt 45 năm, từng bị gia đình nghĩ là đã qua đời, người đàn ông bất ngờ trở về trong vòng tay ruột thịt.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Phản ứng của khách Mỹ khi ăn món bị đánh giá 'tệ nhất Việt Nam' — Vị khách Mỹ tên Chad Kubanoff cho biết, lần đầu thưởng thức, anh thấy món ăn này lạ lẫm, các nguyên liệu dường như không liên quan nhau nhưng sau đó lại thấy thèm.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Đắk Lắk - Nơi đại ngàn gặp gỡ biển khơi — Nhắc đến Đắk Lắk, người ta thường hình dung về một vùng đất đại ngàn hùng vĩ. Định nghĩa ấy giờ đã thay đổi. Đắk Lắk của hiện tại là một bức tranh đa sắc, nơi có cả tiếng thì thầm của rừng xanh và lời tự tình của sóng biếc.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Những 'thiên đường' du lịch hóa 'địa ngục' trần gian vì quá tải khách tham quan — CHÂU ÂU - Mùa du lịch cao điểm năm nay, nhiều điểm đến nổi tiếng tại Italia, Tây Ban Nha hay Hy Lạp tiếp tục rơi vào tình trạng quá tải nghiêm trọng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tổng kho bí mật của bộ đội Trường Sơn được tái hiện sống động trong hang 7 tầng — Khu du lịch sinh thái “Đường Trường Sơn huyền thoại - hang chỉ huy” giúp du khách ngược dòng thời gian, sống lại không khí hào hùng thời chiến tranh giữa núi rừng hùng vĩ.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Công nghệ mới Trung Quốc giúp pin xe điện giữ 100% dung lượng sau 350 lần sạc — Các nhà khoa học Trung Quốc đã tạo ra một bước tiến vượt bậc trong công nghệ pin với việc phát triển một chất điện phân tổng hợp mới, hứa hẹn mang lại những viên pin an toàn và siêu bền.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Vinachem kiên định mục tiêu tăng trưởng 8% — Ngày 18/7, tại phường Nha Trang (Khánh Hòa), Tập đoàn Công nghiệp Hóa chất Việt Nam (Vinachem) đã tổ chức Hội nghị sơ kết công tác 6 tháng đầu năm, triển khai nhiệm vụ 6 tháng cuối năm 2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Cadivi ghi dấu ấn tại triển lãm Vietnam ETE & Greenergy Expo 2025 — Tại Vietnam ETE & Greenergy Expo 2025, triển lãm quốc tế về công nghệ và thiết bị điện, tiết kiệm năng lượng và năng lượng xanh, Cadivi trưng bày giải pháp dây cáp điện thân thiện môi trường, tính năng ưu việt cùng trải nghiệm tương tác độc đáo.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Giá vàng hôm nay 19/7/2025: Vàng miếng SJC chốt tuần tăng cao, vượt xa 121 triệu — Giá vàng hôm nay 19/7/2025 trong nước vàng miếng SJC tiếp tục tăng vào phiên cuối tuần, trong khi vàng nhẫn giữ nguyên. Giá vàng thế giới có thời điểm vọt tăng lên gần 3.360 USD/ounce rồi hạ nhiệt.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Giá vàng leo thang, Trung Quốc có thể mạnh tay mua tích trữ — Giá vàng đang trên vùng đỉnh nhưng dường như vẫn không ngăn được 'cá mập' là ngân hàng trung ương các nước mua vàng mỗi khi giá điều chỉnh. Trung Quốc mua mạnh vàng trong 3 năm qua và có thể còn bí mật mua thêm kim loại này.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Kiểm toán doanh nghiệp nhà nước: Lộ diện loạt ‘ông lớn’ thua lỗ chục nghìn tỷ — Theo kết quả kiểm toán doanh nghiệp nhà nước, hàng loạt “ông lớn” bị điểm tên khi có các khoản lỗ lên đến hàng trăm, thậm chí là vài chục nghìn tỷ đồng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Đột phá dinh dưỡng 6 HMO từ Vinamilk Optimum tạo ấn tượng tại sân chơi quốc tế — Tại Hội nghị Phát triển Châu Á 2025 ở Singapore, Vinamilk gây chú ý với công thức “đột phá dinh dưỡng 6 HMO” - sự mô phỏng dưỡng chất quý chỉ có trong sữa mẹ, có vai trò hỗ trợ nuôi dưỡng lợi khuẩn quan trọng trong hệ tiêu hóa trẻ.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Công đoàn EVNGENCO1 thông qua 9 nhiệm vụ trọng tâm 6 tháng cuối năm 2025 — Ngày 16/7/2025, Công đoàn Tổng công ty Phát điện 1 (EVNGENCO1) đã tổ chức Hội nghị Ban Chấp hành nhằm đánh giá kết quả hoạt động 6 tháng đầu năm và triển khai nhiệm vụ trọng tâm trong những tháng cuối năm 2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tỷ phú bất động sản không để lại một xu cho con cái với câu nói để đời — TRUNG QUỐC - Từng bị coi thường vì làm nghề lau chùi nhà vệ sinh thuê, Dư Bành Niên từng bước xây dựng đế chế bất động sản tỷ đô và trở thành một trong những nhà từ thiện nổi bật nhất châu Á.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Thương lái Trung Quốc mua giá 13-14 nghìn/quả, nông dân liền quên lời hứa — Doanh nghiệp thiếu nguồn hàng để cung cấp cho đối tác vì nông dân đã bán nông sản cho thương lái khác với giá cao hơn, bất chấp thoả thuận đã có trước đó.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Kiểm toán Nhà nước: Tuyến BRT chưa ưu điểm hơn so với các tuyến xe buýt khác — Kiểm toán Nhà nước vừa có báo cáo tổng hợp kết quả kiểm toán năm 2024, trong đó có đề cập đến tuyến BRT01 (tuyến buýt nhanh) ở Hà Nội được đầu tư hàng nghìn tỷ đồng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Người dân Hà Nội, TP.HCM, Hưng Yên nô nức đổi xe máy xăng lấy xe máy điện — Người dân tại Hà Nội, TP.HCM và Hưng Yên hào hứng tham gia sự kiện “Đổi xăng lấy điện - Cùng VinFast kiến tạo tương lai xanh”, diễn ra trong 2 ngày cuối tuần 19-20/7.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nóng trên đường: Lái xe kiểu ngang ngược khó hiểu khiến ai cũng 'nhức mắt' — Dừng giữa đường, tạt đầu xe khác, lao ngược chiều..., những pha lái xe ngang ngược, khó hiểu đang ngày càng xuất hiện dày đặc, khiến người đi đường chỉ biết lắc đầu ngao ngán.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tài xế xe cũ nên dùng loại nhiên liệu này để tránh 'đốt tiền' sửa chữa — Chuyên gia ô tô khuyến nghị những người sở hữu xe cũ có thể sẽ tiết kiệm được khoản tiền lớn cho việc sửa chữa nếu thay đổi thói quen đổ xăng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Giữa giông gió ở Hà Nội, tấm tôn rơi trúng, người đi xe máy thoát chết thần kỳ — Giữa cơn giông chiều 19/7, người đàn ông chới với cố bám trụ bên chiếc xe máy khi gió giật quật tới tấp. Bất ngờ, một tấm tôn lớn bay vút qua, lao thẳng vào vị trí anh đứng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Loạt tính năng hiện đại trên ô tô bị người dùng Việt 'ngó lơ' — Trong thời đại công nghệ phát triển, ô tô ngày càng được trang bị nhiều tính năng hiện đại. Tuy nhiên, không phải tính năng nào cũng thực sự hữu ích và được sử dụng thường xuyên.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Loạt xe sang Mercedes-Benz, Porsche, Audi có giá bán bằng... xe phổ thông — ẤN ĐỘ - Một showroom xe sang cũ đã gây bất ngờ khi rao bán hàng loạt xe thể thao và SUV cao cấp với mức giá chỉ tương đương thậm chí thấp hơn so với một chiếc Hyundai Creta mới.",
+    "sentiment": "neutral"
+  }
+]
