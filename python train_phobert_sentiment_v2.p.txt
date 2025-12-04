@@ -28,7 +28,7 @@ python -m torch.distributed.run --nproc_per_node=4 \
 # Test
 python eval_phobert_sentiment.py \
   --model_dir phobert-ft \
-  --eval_json ./Round-3/Thanh.json\
+  --eval_json ./gold-data.json\
   --batch_size 16 \
   --max_length 256 \
   --keep_exclam_question
