@@ -598,5 +598,621 @@
   {
     "review": "Honda Việt Nam góp phần tăng tỷ lệ đội mũ bảo hiểm đạt chuẩn — Chương trình “Trao tặng mũ bảo hiểm cho học sinh lớp Một trên toàn quốc năm học 2024 - 2025” đã trao hơn 1,7 triệu mũ bảo hiểm đạt Quy chuẩn kỹ thuật Quốc gia, góp phần tăng tỷ lệ đội mũ bảo hiểm đạt chuẩn trên toàn quốc.",
     "sentiment": "positive"
+  },
+  {
+    "review": "Bạn mượn Bugatti triệu USD chạy quá tốc độ, cảnh sát tịch thu siêu xe thẳng tay — Chiếc siêu xe Bugatti Chiron trị giá hơn 3 triệu USD bị cảnh sát tịch thu sau khi chạy quá tốc độ cho phép và có thể bị đem ra bán đấu giá.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cuộc đua doanh số của các hãng xe tại Đông Nam Á — Toyota dẫn đầu Đông Nam Á với hơn 923.000 xe, VinFast bứt phá ở Việt Nam với xe điện, trong khi xe Nhật và nội địa Malaysia chiếm ưu thế lớn.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Xe taxi tự lái vi phạm gần 600 lỗi trong một năm — Dù được trang bị nhiều công nghệ để tự vận hành trên đường nhưng các robotaxi của hãng Waymo lại thường xuyên mắc lỗi đỗ xe sai quy định.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "6 mẫu xe SUV cần tránh mua, nhiều cái tên quen thuộc với khách hàng Việt Nam — Trong 6 chiếc xe SUV cần tránh mua, có mẫu xe vì lo ngại về an toàn, trong khi một số khác có thể khiến chủ xe tốn kém chi phí sửa chữa xe.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cựu giám đốc Trung tâm Lý lịch tư pháp quốc gia nhận hối lộ hơn 43 tỷ đồng — Các bị can là cựu lãnh đạo Trung tâm Lý lịch tư pháp quốc gia đã lợi dụng thẩm quyền được giao để thỏa thuận nhận hối lộ giải quyết hồ sơ cấp phiếu lý lịch tư pháp trái quy định.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ghen tuông, 2 thiếu nữ huy động 70 thanh thiếu niên đến hỗn chiến — Do ghen tuông, 2 thiếu nữ gọi đồng bọn gồm 70 thanh thiếu niên chạy xe máy tốc độ cao lạng lách, đánh võng, tìm nhau giải quyết mâu thuẫn. Song, hai nhóm vừa \"chạm mặt\" thì bị công an vây bắt.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Chủ dây hụi online ở Đà Lạt ôm gần 2,6 tỷ đồng bỏ trốn sau khi sinh con — Nguyễn Ngọc Phương Thảo bị khởi tố vì lừa đảo gần 2,6 tỷ đồng qua dây hụi online. Sau khi mất khả năng thanh toán, Thảo khóa mạng xã hội và rời khỏi địa phương.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vụ 3 cuộn vải bạt rơi khỏi ô tô đè chết nam bảo vệ: Khởi tố tài xế — Nam công nhân điều khiển xe kéo chở hàng vào cổng công ty ở Bình Dương nhưng không giảm tốc độ đã làm rơi cuộn vải bạt xuống đất dẫn tới sự cố đè chết bảo vệ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Khởi tố người đàn ông bênh vợ, lái ô tô đuổi chém shipper — Xảy ra mâu thuẫn với người phụ nữ khi giao hàng, nam shipper ở Bình Dương bị chồng của người này rượt đuổi, chém vào đầu.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Luật sư lên tiếng về lùm xùm tình ái của ViruSs — Theo Tiến sĩ Đặng Văn Cường, trường hợp cố tình tạo ra scandal để được nổi tiếng, gây chú ý hoặc để trục lợi là hành vi rất phản cảm, đáng lên án.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vụ hỗn chiến trên quốc lộ: Triệu tập 80 người lấy lời khai, tạm giữ 37 đối tượng — Công an tỉnh Khánh Hòa vừa tạm giữ thêm 16 nghi can liên quan đến vụ hỗn chiến xảy ra trên quốc lộ 1, đoạn qua TP Nha Trang, nâng tổng số người bị tạm giữ lên 37.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Giải pháp toàn diện nâng tầm an toàn người bệnh tại hệ thống y tế Phương Châu — Hệ thống y tế Phương Châu tiên phong áp dụng tiêu chuẩn quốc tế JCI Enterprise - một mô hình kiểm soát chất lượng toàn diện giúp nâng cao mức độ an toàn cho người bệnh, góp phần định hình tương lai y tế hiện đại theo tiêu chuẩn toàn cầu.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Cấp cứu 6 du khách chuyển viện lên TPHCM, nam thanh niên vẫn hôn mê sâu — 6 người đàn ông được đưa vào bệnh viện cấp cứu khi đang trên đường đi du lịch về, trong đó nam thanh niên vẫn còn hôn mê sâu. Những người này được xác định đã uống rượu vào tối hôm trước.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Mổ cấp cứu cho người đàn ông Hà Nội hôn mê, nguy kịch vì đau răng — Người đàn ông ở Hà Nội được đưa vào viện trong tình trạng hôn mê, sốc nhiễm khuẩn, suy đa tạng rất nguy kịch. Bác sĩ nhiều chuyên khoa phải mổ cấp cứu cho bệnh nhân ngay tại buồng bệnh, thay vì lên phòng phẫu thuật.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bộ Y tế chỉ đạo khẩn vụ 37 người vào viện nghi ngộ độc sau khi ăn bánh mì — Cục An toàn thực phẩm (Bộ Y tế) đề nghị TPHCM tạm đình chỉ hoạt động của cơ sở nghi ngờ gây ngộ độc cho 37 người, trong đó có 33 học sinh sau ăn bánh mì.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Loại virus lạ gây sốt cao, ho ra máu ở Nga — NGA - Loại virus chưa xác định đã được ghi nhận tại một số khu vực ở Nga, với các bệnh nhân có triệu chứng sốt cao kéo dài và ho, bao gồm cả ho ra máu.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Giảm 13kg, hạ mỡ máu thần tốc nhờ bỏ 2 món ăn vào buổi tối — TRUNG QUỐC - Người đàn ông đã giảm được 13kg, hạ mỡ máu nhờ thay đổi thói quen ăn uống kết hợp dùng thuốc và thực phẩm chức năng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Loài côn trùng bé bằng hạt gạo có độc tính mạnh gấp 12 - 15 lần nọc rắn hổ — Kiến ba khoang có chứa độc tố Pederin, độc tính mạnh gấp 12-15 lần nọc của rắn hổ, tác động trên da như loại axit mạnh có thể khiến vùng da tiếp xúc tổn thương, bỏng rát.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tử vong thương tâm vì tin ‘bác sĩ’ trên TikTok cam kết chữa khỏi — Bị ung thư gan, anh T. vô cùng lo lắng, hoang mang. Khi gặp một \"thần y\" trên mạng TikTok, cả gia đình hy vọng anh sẽ sống thêm vài năm tuy nhiên, bệnh nhân tử vong sau 3 tuần.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ukraine tố Nga tiếp tục tập kích hạ tầng năng lượng, bác tin chuẩn bị bầu cử — Giới chức Ukraine tố Nga tiếp tục vi phạm thỏa thuận ngừng bắn vào hạ tầng năng lượng, đồng thời khẳng định nước này chưa có kế hoạch tổ chức bầu cử tổng thống mới.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hàn Quốc sẵn sàng 'phản ứng mạnh mẽ' trước động thái của Triều Tiên — Quyền Tổng thống Hàn Quốc Han Duck-soo nhấn mạnh, quân đội nước này phải lường trước mọi viễn cảnh đụng độ với Triều Tiên và đưa ra phản ứng mạnh mẽ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Israel không kích ngoại ô thủ đô Lebanon, leo thang căng thẳng với Hezbollah — Lực lượng phòng vệ Israel (IDF) mới đây đã tiến hành chiến dịch không kích nhắm vào một thành viên Hezbollah ở vùng ngoại ô phía nam thủ đô Beirut của Lebanon.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Iran bàn khả năng tấn công căn cứ Mỹ trước khi ông Trump hành động — Một quan chức Iran tiết lộ, các chỉ huy lực lượng vũ trang của nước này đang thảo luận về khả năng tấn công phủ đầu căn cứ quân sự chung của Mỹ và Anh trước khi Washington có thể dùng nơi này để nhắm vào Iran.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cảnh tượng thảm khốc tại Myanmar sau động đất — Tại Sagaing, tâm chấn của động đất ở Myanmar, lực lượng chức năng đang phải vật lộn để chôn cất hàng nghìn nạn nhân thiệt mạng trong thảm họa ngày 28/3.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Nổ đường ống khí đốt ở Malaysia, hàng trăm người bị ảnh hưởng — Theo thông tin do cảnh sát Malaysia công bố trưa 1/4, vụ nổ đường ống khí đốt ở Putra Heights đã khiến ít nhất 112 người bị ảnh hưởng, trong đó 63 người cần phải nhập viện.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Houthi dùng tên lửa tự chế bắn hạ UAV hơn 30 triệu USD của Mỹ — Phát ngôn viên của nhóm vũ trang Houthi ở Yemen tuyên bố, lực lượng này đã bắn hạ thêm một máy bay không người lái (UAV) MQ-9 Reaper trị giá 33 triệu USD của Mỹ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ngoại trưởng Trung Quốc hoan nghênh Nga và Mỹ bình thường hóa quan hệ — Ngoại trưởng Trung Quốc Vương Nghị tỏ ra lạc quan về việc Nga và Mỹ nỗ lực cải thiện quan hệ. Ông nhấn mạnh đây là yếu tố quan trọng để ổn định tình hình thế giới.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Elon Musk trả 2,5 triệu USD nuôi con thứ 13, dù không chắc mình là cha đứa trẻ — Tỷ phú Mỹ Elon Musk đã trả cho bà Ashley St. Clair 2,5 triệu USD tiền nuôi con và sẽ chu cấp cho đứa trẻ khoảng 500.000 USD/năm dù vẫn còn nghi ngờ liệu đó có phải đứa con thứ 13 của ông hay không.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Số phận chính trị của Tổng thống Hàn Quốc Yoon Suk-yeol sắp được định đoạt — Tòa án Hiến pháp Hàn Quốc hôm nay (1/4) thông báo sẽ ra phán quyết về việc chính thức bãi nhiệm hoặc phục chức cho Tổng thống Yoon Suk-yeol vào 11h ngày 4/4.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ông Trump muốn đấu với ông Obama nếu được tranh cử tổng thống Mỹ nhiệm kỳ 3 — Tổng thống Mỹ Donald Trump bày tỏ hứng thú về kịch bản \"đối đầu\" với cựu lãnh đạo Nhà Trắng Barack Obama trong trường hợp cả hai được phép tranh cử nhiệm kỳ thứ 3.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Nga nói về phản ứng của ông Trump, ra lệnh gọi nhập ngũ lớn nhất trong 14 năm — Moscow đã bình luận về các phản ứng của Tổng thống Mỹ Donald Trump với người đồng cấp Nga Vladimir Putin, đồng thời công bố lệnh gọi nhập ngũ với 160.000 công dân.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ông Trump tiết lộ điểm đến trong chuyến công du nước ngoài đầu tiên — Tổng thống Mỹ Donald Trump cho biết, Ảrập Xêút sẽ là điểm đến trong chuyến công du nước ngoài đầu tiên trong nhiệm kỳ tổng thống thứ 2 của ông.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Video Ukraine không kích các mục tiêu ở vùng biên Belgorod của Nga — Một đoạn video mới được công bố ghi lại hình ảnh Không quân Ukraine tấn công nhiều mục tiêu quân sự nằm ở vùng biên giới Belgorod của Nga.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Iran đáp trả lời đe dọa của ông Trump — Lãnh tụ tối cao Iran Ayatollah Ali Khamenei cảnh báo, Tehran sẽ trả đũa nếu bị tấn công sau lời đe dọa ném bom Iran của Tổng thống Mỹ Donald Trump.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ukraine bắt nhóm chỉ điểm, robot bọc thép của Nga phá hủy loạt công sự ở Donbass — Cơ quan An ninh Ukraine (SBU) đã bắt giữ một nhóm người bị tình nghi hợp tác với tình báo Nga để chỉ điểm các mục tiêu cho Moscow tấn công tên lửa vào Kiev.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Sự kiện khiến Mỹ mất lòng tin vào Ukraine — Mỹ coi việc Ukraine tấn công vùng biên giới Kursk của Nga là vi phạm lòng tin. Song, Washington vẫn hỗ trợ Kiev để ngăn cái chết của hàng nghìn binh sĩ Ukraine đã có mặt trong lãnh thổ Nga.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Vận động viên dù lượn kể chuyện vật lộn với bão ở độ cao 10.000m — Một vận động viên dù lượn người Đức đã sống sót thần kỳ dù bị sét đánh, bị mưa đá vùi dập, chịu rét thấu xương -40 độ C và thiếu oxy sau khi bị một cơn bão cuốn lên độ cao gần 10.000m.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Xung đột ở Ukraine làm 'nóng' cuộc so găng giữa các súng trường Nga và Mỹ — Việc so sánh không hồi kết giữa 2 khẩu súng trường AK-47 của Nga và M4 của Mỹ lại một lần nữa được thổi bùng lên trong bối cảnh quân đội Ukraine phải tập thích nghi với mẫu súng Mỹ trong cuộc xung đột với Nga.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tuyển thủ Thái Lan thi nhau ghi bàn, Buriram rộng cửa vào chung kết Cúp C1 ĐNÁ — ​Buriram United giành chiến thắng 3-1 trước BG Pathum United, qua đó tạo lợi thế lớn trước trận bán kết lượt về Cúp các CLB ASEAN (Shopee Cup) diễn ra vào tối ngày 2/4.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "CAHN thua đáng tiếc trên đất Indonesia — Chơi lấn lướt và tạo ra vô số cơ hội nhưng CAHN vẫn chịu thất bại 0-1 trên sân của PSM Makassar, thuộc lượt đi bán kết ASEAN Club Championship 2024/25.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Link xem trực tiếp bóng đá PSM Makassar vs CAHN, 19h30 hôm nay 2/4 — Cung cấp link xem trực tiếp bóng đá PSM Makassar vs CAHN, ở lượt đi bán kết ASEAN Club Championship 2024/25, 19h30 hôm nay (2/4).",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "MU mua tiền đạo bất ngờ, 5 đội bóng lớn theo đuổi — MU có lợi thế lớn đánh bại Liverpool, Chelsea trong cuộc đua giành chữ ký Liam Delap của Ipswich Town.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Arsenal gặp họa lớn trước đại chiến với Real Madrid — Gabriel và Timber vừa dính chấn thương, khiến Arsenal tổn thất lực lượng nghiêm trọng trước cuộc đấu Real Madrid ở tứ kết Champions League.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tin tức về chuyển nhượng 2/4: MU ký Eberechi Eze, Liverpool lấy Huijsen — Tin tức về chuyển nhượng 2/4: MU đàm phán Eberechi Eze, Liverpool hỏi mua Dean Huijsen, Man City tiếp cận Tijjani Reijnders.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Real Madrid vào chung kết Cúp Nhà vua: Phi thường và điên rồ — Real Madrid rượt đuổi điên rồ để hòa Real Sociedad 4-4 (chung cuộc 5-4 sau 2 lượt trận), giành quyền vào chung kết Cúp Nhà vua 2024/25 nhờ ý chí phi thường.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Trọng tài ngoại bắt trận Hà Nội FC vs Thanh Hóa — Trận cầu 'đinh' Hà Nội FC vs Thanh Hóa tại vòng 17 LPBank V-League 2024/25 được điều hành bởi trọng tài chính và trọng tài VAR người Malaysia.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bất ngờ được AFC nhắc tên, cầu thủ U17 Việt Nam nói gì — Trung vệ Lê Huy Việt Anh của U17 Việt Nam được AFC đánh giá là một trong những cầu thủ đáng xem nhất tại VCK U17 châu Á 2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "U17 Việt Nam luyện 'chiêu tủ' cho giấc mơ World Cup — U17 Việt Nam bước vào những buổi tập cuối cùng chuẩn bị cho VCK U17 châu Á 2025 với mục tiêu săn vé dự World Cup.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nhận định bóng đá Atletico vs Barca: Tranh vé chung kết — Nhận định bóng đá Atletico vs Barca: Atletico Madrid cùng Barca quyết chiến rực lửa để tranh chiếc vé chung kết Cúp Nhà vua 2024/25.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Lịch thi đấu bóng đá hôm nay 2/4 — Lịch thi đấu bóng đá hôm nay 2/4/2025 - Cung cấp lịch thi đấu bóng đá trong nước và quốc tế hấp dẫn đêm nay, rạng sáng mai.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Nhận định CAHN vs PSM Makassar: Quang Hải, Quang Vinh vượt khó — CAHN tự tin có thể giành kết quả tốt nhất trên sân của PSM Makassar, lượt đi bán kết Cúp CLB Đông Nam Á, lúc 19h30 ngày 2/4.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Leverkusen thua sốc đội hạng 3 ở bán kết Cúp quốc gia Đức — Bayer Leverkusen để thua ngược Arminia Bielefeld với tỷ số 1-2, qua đó mất tấm vé vào chung kết Cúp quốc gia Đức 2024/25.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Dembele chói sáng, PSG ngược dòng ngoạn mục vào chung kết — Dembele ghi cú đúp, đem về chiến thắng ngược dòng 4-2 cho PSG trước Dunkerque cùng tấm vé vào chung kết Cúp quốc gia Pháp.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Real Madrid hẹn Barca ở chung kết sau màn rượt đuổi siêu kịch tính — Real Madrid và Real Sociedad đã cống hiến một màn rượt đuổi siêu kịch tính, kết thúc với tỷ số hòa 4-4 sau 120 phút. Kết quả này giúp Los Blancos giành quyền vào chung kết Cúp Nhà vua nhờ chiến thắng 1-0 ở lượt đi.​",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Kết quả bóng đá hôm nay 2/4: CAHN thua đau CLB Indonesia vì phung phí cơ hội — Kết quả bóng đá hôm nay 2/4/2025 - Cập nhật kết quả các trận đấu bóng đá trong nước và quốc tế diễn ra đêm qua và rạng sáng nay.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "U17 Việt Nam: Chiếc vé World Cup tưởng xa mà lại... gần — U17 Việt Nam chuẩn bị bước vào VCK U17 châu Á 2025 cho giấc mơ dự World Cup. Đâu là cơ sở để đoàn quân của HLV Cristiano Roland hoàn toàn có thể làm được.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Saka tái xuất ghi bàn, Arsenal đánh bại Fulham — Bukayo Saka trở lại sau chấn thương đã lập tức tỏa sáng với bàn thắng giúp Arsenal hạ Fulham 2-1, qua đó rút ngắn khoảng cách với Liverpool xuống còn 9 điểm.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "MU thua cay đắng trên sân Nottingham Forest — Áp đảo trong phần lớn thời gian nhưng MU vẫn phải chịu thúc thủ 0-1 trước Nottingham Forest, với pha lập công duy nhất của Elanga, thuộc vòng 30 Ngoại hạng Anh.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hơn 15.500 người thuê trọ ở TPHCM bị ảnh hưởng bởi vi phạm PCCC — TPHCM còn hơn 1.000 cơ sở nhà trọ vi phạm phòng cháy, chữa cháy với 9.570 phòng trọ và 15.549 người thuê bị ảnh hưởng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Hải Phòng thân thiện trở thành chủ đề Giải báo chí lần thứ 7 — Giải báo chí “Vì một Hải Phòng phát triển” lần thứ 7 được Sở Văn hóa Thể thao và Du lịch Hải Phòng phát động với chủ đề “Hải Phòng – Thành phố thân thiện”.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Luật sư của bà Trương Mỹ Lan: ‘Có hơn 50.000 tỷ bồi thường cho các trái chủ’ — Bào chữa cho bà Trương Mỹ Lan, luật sư cho rằng với số tiền bà Lan nộp khắc phục cộng các nguồn tiền, tài sản khác là hơn 50.000 tỷ đồng. Số tiền này có thể dùng để trả cho các trái chủ.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Lời thú nhận của thiếu niên đăng tin 'mẹ sát hại 2 con trục lợi bảo hiểm' — Thiếu niên ở Quảng Nam livestream trên Tiktok để chia sẻ câu chuyện chưa được kiểm chứng về \"nghi án mẹ sát hại 2 con\", bị cơ quan chức năng mời làm việc.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bắt khẩn cấp các đối tượng vụ chặn ô tô, đánh bé trai 2 tuổi phải cấp cứu — Liên quan vụ nhóm đối tượng chặn ô tô, hành hung khiến bé trai 2 tuổi phải nhập viện cấp cứu, công an đã bắt khẩn cấp các nghi phạm.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Đề xuất 2 phương án đặt tên xã, phường sau sắp xếp ở Hà Nội — Dự thảo phương án sắp xếp đơn vị hành chính cấp xã trên địa bàn TP Hà Nội đưa ra 2 cách đặt tên xã, phường mới hình thành sau sắp xếp.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Xôn xao nghi án mẹ sát hại 2 con để trục lợi bảo hiểm: Công an lên tiếng — Thông tin lan truyền trên mạng xã hội về một người mẹ bị cho là ra tay sát hại các con để trục lợi bảo hiểm ở Quảng Nam. Trưa 3/4, lực lượng công an đã đến nhà làm việc với người phụ nữ này và đưa về cơ quan để điều tra, xác minh.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cháy lớn tại cơ sở Bò tơ quán mộc ở Hà Nội — Vụ cháy lớn vừa xảy ra tại cơ sở Bò tơ quán mộc ở đầu phố Lưu Hữu Phước, phường Mỹ Đình 2, quận Nam Từ Liêm, Hà Nội.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Dự kiến Hà Nội giảm 50% phường, xã, thị trấn, còn 263 xã sau sắp xếp — Sau sắp xếp, Hà Nội dự kiến giảm khoảng 50% số phường, xã, thị trấn, còn 263 đơn vị hành chính cấp xã. Đây là thông tin được Giám đốc Sở Nội vụ TP Hà Nội Trần Đình Cảnh đưa ra tại hội nghị giao ban quý 1/2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Khói lửa mù mịt tại cơ sở nha khoa ở TPHCM, nhiều người tháo chạy — Khu vực sân thượng ngôi nhà 5 tầng làm cơ sở nha khoa ở TPHCM xảy ra hỏa hoạn với lửa đỏ rực kèm khói đen nghi ngút khiến nhiều người hoảng loạn tháo chạy.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cây cối chết khô, lá vàng úa quanh xưởng sản xuất 1,4 tấn ma túy ở Nha Trang — Liên quan chuyên án xưởng sản xuất ma túy lớn nhất nước vừa bị triệt phá, đại diện Cục Cảnh sát điều tra tội phạm về ma túy (Bộ Công an) cho biết, do ảnh hưởng của hóa chất được sử dụng để điều chế ketamin, cây cỏ xung quanh xưởng bắt đầu chết khô.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Đề xuất trường hợp ghi âm, ghi hình tại nơi công cộng không cần cá nhân đồng ý — Dự thảo Luật Bảo vệ dữ liệu cá nhân có nội dung quy định về việc xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình tại nơi công cộng.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bất ngờ lý do vượt đèn đỏ của tài xế ô tô biển xanh ở Bình Dương — Ô tô biển xanh ở Bình Dương được xác định vượt đèn đỏ tại giao lộ, tài xế H. thừa nhận hành vi vi phạm và đưa ra lý do bất ngờ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "3 nhân viên nhà xe ở TPHCM bị nhóm đối tượng đánh gục — 3 nhân viên thuộc 2 nhà xe tại quận Bình Thạnh đã bị nhóm người lạ tấn công, hành hung gây thương tích.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Xử phạt tài xế xe tải hạng nặng chạy ngược chiều trên quốc lộ 1 — Tài xế điều khiển xe tải biển số tỉnh Hà Tĩnh chạy ngược chiều trên quốc lộ 1 (đoạn qua huyện Thống Nhất, Đồng Nai) bị người dân ghi hình và phản ánh đến lực lượng công an.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Lấy ý kiến về đề xuất cho máy bay Trung Quốc sản xuất khai thác tại Việt Nam — Bộ Xây dựng đang tiến hành lấy ý kiến về việc sửa Nghị định 92 theo hướng bổ sung thêm các loại máy bay được phép nhập khẩu vào Việt Nam, trong đó có máy bay do Trung Quốc sản xuất.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Cần Thơ dự kiến sắp xếp thành 33 xã, phường — Theo đề xuất, TP Cần Thơ có thể chỉ còn 33 đơn vị hành chính cấp xã thay vì 80 xã, phường, thị trấn như hiện nay.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bà Trương Mỹ Lan: 'Tôi và gia tộc không có tâm địa chiếm đoạt tiền' — Khẳng định không lừa đảo trong việc phát hành trái phiếu, bà Trương Mỹ Lan trần tình: \"Tôi khẳng định bản thân và gia tộc cũng như các bị cáo có mặt tại đây hôm nay không có tâm địa đi chiếm đoạt tiền của họ”.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Clip ô tô bốc cháy dữ dội, trơ khung trên cao tốc — Xe ô tô bán tải đang lưu thông trên cao tốc Phan Thiết - Dầu Giây đoạn qua huyện Hàm Tân (tỉnh Bình Thuận) bất ngờ bốc cháy dữ dội.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Phát hiện thi thể nam thanh niên đang phân hủy trên sân thượng chung cư — Thi thể một nam giới được phát hiện trên sân thượng chung cư ở phường 14 (quận Gò Vấp, TPHCM).",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Công an truy tìm tài xế lái ô tô lạng lách trên phố như phim hành động — Hôm nay (ngày 3/4), Đội CSGT Hàng Xanh thuộc phòng CSGT, Công an TPHCM đang xác minh, tìm tài xế chạy xe tải lạng lách trên phố như phim hành động.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Thi hành án vụ Vạn Thịnh Phát khó khăn, 'chưa từng có trong tiền lệ' — Bộ Tư pháp cho biết, 6 tháng qua, cơ quan chức năng đã thi hành xong 2.061 việc với số tiền hơn 9.781 tỷ đồng từ các vụ án tham nhũng, kinh tế. Trong đó, đã rất tích cực thực hiện thi hành án dân sự vụ Vạn Thịnh Phát.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Xôn xao clip bảo vệ bến xe Đồng Nai cầm vật giống súng trong vụ xô xát — Ngày 3/4, Công an phường Bình Đa (TP Biên Hòa, Đồng Nai) làm việc với những người liên quan sau vụ bảo vệ bến xe Đồng Nai cầm vật giống súng trong clip xô xát tại khu vực này.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Gã xe ôm đưa bé gái ở Hà Nội vào nhà nghỉ để xâm hại tình dục — Viện kiểm sát nhân dân TP Hà Nội vừa hoàn tất cáo trạng truy tố bị can Đặng Tuấn Dũng (SN 1984, ở Long Biên) về tội Hiếp dâm người dưới 16 tuổi.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Mở mới tuyến xe buýt điện Bắc Ninh - Nội Bài, chạy 64 chuyến/ngày — Bộ Xây dựng vừa có văn bản gửi UBND tỉnh Bắc Ninh thống nhất với đề xuất mở mới tuyến xe buýt điện Bắc Ninh - Nội Bài có điểm cuối tại Cảng hàng không quốc tế Nội Bài.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ông Trump có thể giảm thuế nếu Trung Quốc đồng ý bán TikTok — Tổng thống Mỹ Donald Trump cho biết thời điểm công bố thỏa thuận liên quan đến TikTok đang đến rất gần.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "iPhone 17 Pro sẽ cho khả năng chụp chân dung tuyệt đẹp — Apple được cho là đang chuẩn bị một nâng cấp đáng kể cho camera Telephoto trên iPhone 17 Pro, giúp việc chụp chân dung trở nên dễ dàng và hoàn hảo hơn.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Apple 'bốc hơi' 300 tỷ USD chỉ trong một ngày do chính sách thuế của ông Trump — Trong phiên giao dịch chứng khoán tồi tệ nhất 5 năm qua của Mỹ, vốn hóa thị trường của Apple đã 'bốc hơi' 300 tỷ USD, trở thành công ty công nghệ chịu thiệt hại nặng nề nhất.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Elon Musk đăng lại bài viết về Starlink tại Việt Nam — Tỷ phú Elon Musk vừa đăng lại bài viết của một người dùng X, liên quan đến việc SpaceX triển khai Starlink tại Việt Nam, lên trang cá nhân.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Công chức, viên chức nên dùng trợ lý ảo phục vụ công việc thế nào? — Bộ KH&CN vừa có hướng dẫn về một số nguyên tắc chung dành cho công chức, viên chức và người lao động trong các cơ quan nhà nước khi sử dụng trợ lý ảo hỗ trợ công việc.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Cách tra cứu mã số thuế cá nhân nhanh nhất trên điện thoại — Có nhiều cách để tra cứu mã số thuế cá nhân, tuy nhiên cách sau đây vừa chính xác, nhanh và an toàn với thông tin cá nhân trên điện thoại.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Mở ‘đường cao tốc’ truyền dẫn cho hạ tầng 5G Việt Nam — Việc Bộ KH&CN ban hành Thông tư 02 ngày 31/3 là một bước đi quan trọng nhằm hoàn thiện hành lang pháp lý cho việc sử dụng băng tần E, góp phần xây dựng “đường cao tốc” cho hạ tầng 5G Việt Nam.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Apple ‘oằn mình’ trước thuế quan mới của ông Donald Trump — Apple đang phải đối mặt với những tác động mạnh mẽ từ chính sách thuế quan mới của Tổng thống Mỹ Donald Trump, bất chấp nhiều năm cố gắng phòng thủ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cuộc điện đàm của Tổng Bí thư và Tổng thống Hoa Kỳ — Cuộc điện đàm của Tổng Bí thư Tô Lâm và Tổng thống Hoa Kỳ Donald Trump cho thấy sự khởi đầu khá thuận cho đàm phán tới đây.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "H'hen Niê bị chồng trêu vẽ thêm râu, Hồng Diễm trẻ trung ở tuổi 42 — H'Hen Niê hài hước với hình ảnh bị chồng vẽ thêm râu. Diễn viên Hồng Diễm trẻ trung ở tuổi 42.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Phim 'Địa đạo' đạt doanh thu không tưởng, vượt xa cơn sốt 'Đào, Phở và Piano' — Dù có hai ngày gián đoạn doanh thu do các rạp chiếu đóng cửa, phim chiến tranh \"Địa đạo\" vẫn nhanh chóng cán mốc doanh thu 50 tỷ ngay ngày đầu tiên.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Cốt truyện của Nguyễn Huy Thiệp được đưa lên hơn 200 tác phẩm gốm — 41 họa sĩ đã dùng hình tượng và các câu từ trong văn chương Nguyễn Huy Thiệp để vẽ hơn 200 tác phẩm gốm độc đáo, đem trưng bày tại Trung tâm văn hóa nghệ thuật trên phố Hàng Buồm, Hà Nội.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Vướng ồn ào bán kẹo rau với Quang Linh Vlogs, Thùy Tiên có bị tước vương miện? — Vụ bê bối kẹo rau củ và tin hoa hậu Thùy Tiên bị tạm hoãn xuất cảnh đang gây xôn xao Thái Lan - nơi cô đăng quang Miss Grand International 2021.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "NSND Bắc Hải - 'phù thuỷ âm thanh' phim 'Giải phóng Sài Gòn' qua đời — NSND Bành Bắc Hải, người làm âm thanh hiếm hoi được phong danh hiệu NSND qua đời ở tuổi 65 sau thời gian chống chọi với ung thư.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Vợ kém 12 tuổi của diễn viên Anh Đức: Xinh như hoa hậu, ngày càng sexy — Anh Phạm - bà xã diễn viên Anh Đức được khen vóc dáng quyến rũ, thần thái tươi tắn sau nửa năm kết hôn.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Vợ CEO kém 12 tuổi của Tuấn Hưng: 'Chồng tôi giờ đã tu tập' — Hương Baby - bà xã kém 12 tuổi của ca sĩ Tuấn Hưng cho biết năm nay, cả hai kỷ niệm ngày cưới nhẹ nhàng, không náo nhiệt như các năm trước. Cô vui khi chồng quyết định cùng mình tu tập.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Loạt sao quốc tế bị phạt cả chục tỷ vì quảng cáo lừa dối — Kim Kardashian, Paris Hilton, Jessica Alba và một số nghệ sĩ nổi tiếng từng gây tranh cãi, thậm chí nhận phạt nặng vì quảng cáo lừa dối.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Nữ tiếp viên hàng không xinh đẹp, múa giỏi thi Hoa hậu Quốc tế 2025 là ai? — ARGENTINA - Daiana Stefani Pereyra năm nay 26 tuổi, là tiếp viên hàng không và người mẫu chuyên nghiệp. Cô sẽ đại diện Argentina tại Hoa hậu Quốc tế 2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Hệ luỵ khôn lường việc hoa hậu Thuỳ Tiên dính scandal, bị hoãn xuất cảnh — Bộ phim \"Chốt đơn\" do hoa hậu Thuỳ Tiên đóng chính dự kiến ra rạp từ tháng 3 nhưng rời lịch tới cuối tháng 6 đang đối mặt tương lai vô định vì lùm xùm của nàng hậu.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Không nhận ra nam thần lừng lẫy màn ảnh một thời Leonardo DiCaprio ở tuổi 51 — Trở lại màn ảnh rộng sau 2 năm, tài tử Leonardo DiCaprio gây chú ý với tạo hình xấu xí, già nua trong phim \"Hết trận lại chiến\".",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Đề thi thử lớp 10 môn Toán của Trường THPT Chuyên Sư phạm năm 2025 — VietNamNet cập nhật đề thi thử vào lớp 10 môn Toán do Trường THPT Chuyên ĐH Sư phạm Hà Nội xây dựng.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "'Cuộc chơi tất tay' giúp nam sinh giành 2 Huy chương Vàng Olympic Toán — Sau khi chỉ giành Huy chương Đồng Olympic Toán sinh viên, học sinh toàn quốc năm 2024, năm nay Trần Văn Khánh quyết định dự thi cả 2 môn và quyết tâm ấy giúp em mang về 2 Huy chương Vàng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Tháo dỡ trạm biến áp đang xây ra khỏi khuôn viên trường học — Sau khi báo VietNamNet phản ánh việc xây trạm biến áp trong khuôn viên trường học ở Thanh Hóa khiến thầy cô và phụ huynh bất an, đơn vị thi công đã tháo dỡ hết công trình ra khỏi trường.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Lời bào chữa của thiên tài Toán học sa ngã từng 2 lần vô địch thế giới — TRUNG QUỐC - Là một trong những thần đồng Toán học hiếm hoi của Trung Quốc từng 2 lần đạt điểm tuyệt đối Olympic Toán học quốc tế (IMO), song Phó Vân Hạo lại bị gắn mác thiên tài sa ngã vì suýt không thể tốt nghiệp.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Học 2 buổi/ngày, phải để phụ huynh thấy con không phải mang bài về nhà làm — Bộ GD-ĐT phải hướng dẫn việc học 2 buổi/ngày là để học sinh có cơ hội học tập và trải nghiệm nhiều hơn, chứ không phải để tăng áp lực học tập. Thậm chí phải để phụ huynh thấy con học 2 buổi thì về cơ bản sẽ không phải mang bài tập về nhà làm.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tỉnh nào chỉ có 4 huyện nhưng người dân thu nhập cao nhất cả nước? — Người dân tỉnh này có thu nhập bình quân đầu người cao nhất cả nước hiện nay với 8,3 triệu đồng/người/tháng nhưng cả tỉnh chỉ có 4 huyện.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Đưa bố bỏng nặng đi cấp cứu, con trai nghèo chỉ có vài trăm nghìn đồng trong túi — Dùng xăng nhóm bếp, ông Sinh bị bỏng nặng toàn thân. Đưa bố đi cấp cứu nhưng trong túi chỉ có vài trăm nghìn đồng, đến nay chi phí lên tới gần trăm triệu đồng, con trai ông Sinh không biết xoay xở ở đâu để có tiền cứu bố.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Bạn đọc giúp đỡ hơn 51 triệu đồng đến 2 hoàn cảnh khó khăn — Vừa qua, Báo VietNamNet đã trao hơn 51 triệu đồng của bạn đọc giúp đỡ 2 hoàn cảnh khó khăn là anh Phạm Văn Phong bị tai nạn bỏng điện và anh Quàng Văn Khiên bị tai nạn lao động.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Dòng sông lười dài kỷ lục và tiện ích all-in-one của nhà phố biển Sông Town — Dự án nhà phố biển Sông Town sở hữu hồ bơi nối liền dài 423m, vừa tạo không gian tận hưởng riêng tư vừa kết nối cộng đồng, tăng trải nghiệm sinh sống của cư dân và thu hút khách du lịch lưu trú - nghỉ dưỡng.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tây Hồ Tây - ‘tọa độ vàng’ của giới thượng lưu Hà Nội — Giữa những biến động không ngừng của thị trường bất động sản, Tây Hồ Tây vẫn khẳng định vị thế với sức hút bền vững và giá trị vượt thời gian. Vậy điều gì khiến nơi đây trở thành biểu tượng sống đẳng cấp của giới tinh hoa đất Hà thành?",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Dân Đà Nẵng xếp hàng từ 6h sáng chờ làm thủ tục đất đai — Lượng người đến giải quyết hồ sơ thủ tục đất đai tại quận Ngũ Hành Sơn, Đà Nẵng tăng cao vì tâm lý muốn hoàn thành các thủ tục trước khi sáp nhập cấp tỉnh, bỏ cấp quận, huyện.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Đất huyện ở Bắc Giang có giá trúng đấu giá gần 7 tỷ cho lô 154m2 — Phiên đấu giá quyền sử dụng đất tại thị trấn Bắc Lý, huyện Hiệp Hòa (Bắc Giang) thu hút đông đảo nhà đầu tư, lô trúng giá cao nhất hơn 6,9 tỷ đồng, tăng gấp đôi so với giá khởi điểm.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Fresia Riverside - sự lựa chọn của người trẻ có ‘gu’ — Giá trị đặc biệt của dự án Fresia Riverside là 80% căn hộ sở hữu tầm nhìn trực diện sông Đồng Nai, cùng hệ tiện ích nội khu với hơn 20 tiện ích hiện đại như: hồ bơi công nghệ Ozone, phòng Golf 3D, phòng Gym cao cấp, xe điện nội khu kết nối Metro...",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Ninh Bình sẽ đấu giá 261 lô đất trong tháng 4, khởi điểm từ 5,7 triệu đồng/m2 — 261 lô đất tại huyện Yên Khánh và Yên Mô, tỉnh Ninh Bình sẽ được tổ chức đấu giá quyền sử dụng trong tháng 4. Giá khởi điểm thấp nhất 5,7 triệu đồng và cao nhất 13,9 triệu đồng/m2.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bị dụ mua nhà ở xã hội 'suất ngoại giao', khách tá hoả khi đến công ty đối chất — Nhiều người đã bỏ hàng trăm triệu, thậm chí hơn 2 tỷ đồng để cọc mua nhà ở xã hội vì tin lời mời chào 'suất ngoại giao' qua môi giới. Giờ đây, họ chỉ biết gửi đơn tố cáo với hy vọng sự việc được đưa ra ánh sáng và lấy lại được số tiền đã nộp.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Cận cảnh chung cư cao cấp vị trí 'vàng' ở Bắc Ninh xây trên đất công cộng — Là chung cư cao cấp nhưng dự án Dabaco Park View, do Công ty Cổ phần Tập đoàn Dabaco làm chủ đầu tư, đã sử dụng đất sai mục đích, không theo phê duyệt của Thủ tướng Chính phủ.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Thủ tướng: Thành lập đoàn đàm phán thương mại với Mỹ trong ngày 11/4 — Thủ tướng yêu cầu trong ngày mai (11/4) thành lập đoàn đàm phán với Mỹ do Bộ trưởng Công Thương làm trưởng đoàn, đồng thời xây dựng kịch bản, phương án phù hợp.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Đưa hai xe tăng T-54 vào sân vận động Mỹ Đình phục vụ biểu diễn — Hai xe tăng T-54 sẽ được các chiến sĩ lái vào sân vận động quốc gia Mỹ Đình để làm hoạt cảnh cho chương trình nghệ thuật.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thông cáo ngày làm việc thứ nhất Hội nghị Trung ương 11 — Sáng nay (10/4), Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11, khóa XIII khai mạc tại Thủ đô Hà Nội.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Trung ương thảo luận về chủ trương sáp nhập tỉnh, sửa Hiến pháp — Trung ương thảo luận về 8 đề án, báo cáo liên quan việc sắp xếp tổ chức bộ máy và đơn vị hành chính các cấp cũng như việc sửa đổi, bổ sung Hiến pháp.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Người dân TPHCM có thể xem tổng duyệt diễu binh, diễu hành hay không? — Chương trình tổng hợp luyện các khối lực lượng vũ trang lễ kỷ niệm 50 năm Giải phóng miền Nam, thống nhất đất nước sẽ diễn ra trong 2 ngày trên đường Lê Duẩn, quận 1, TPHCM. Người dân có thể dự khán ngoài khu vực luyện tập.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Cách tất cả chức vụ trong Đảng với ông Trương Hòa Bình — Ban Chấp hành Trung ương Đảng đã xem xét, quyết định thi hành kỷ luật ông Trương Hoà Bình bằng hình thức cách chức tất cả các chức vụ trong Đảng.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Ông Nguyễn Hòa Bình làm Trưởng Ban chỉ đạo thu hồi tài sản vụ Vạn Thịnh Phát — Thủ tướng Phạm Minh Chính vừa ký quyết định thành lập Ban Chỉ đạo liên ngành thi hành án, thu hồi tài sản bị chiếm đoạt, thất thoát trong các vụ án liên quan đến Tập đoàn Vạn Thịnh Phát.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Tuyên bố chung về quan hệ Việt Nam - Tây Ban Nha — Báo VietNamNet trân trọng giới thiệu Tuyên bố chung về kết quả chuyến thăm chính thức Việt Nam của Thủ tướng Tây Ban Nha Pedro Sánchez.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thủ tướng: Việt Nam tiếp tục tích cực trao đổi với phía Mỹ về thuế quan — Trong cuộc điện đàm với Thủ tướng New Zealand, Thủ tướng Phạm Minh Chính thông tin về những nỗ lực của Việt Nam trong trao đổi với Mỹ liên quan đến vấn đề thuế đối ứng.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Việt Nam bình luận trước việc Mỹ hoãn áp thuế đối ứng 90 ngày — Chiều nay (10/4), tại họp báo thường kỳ, người phát ngôn Bộ Ngoại giao Phạm Thu Hằng bình luận việc ngày 9/4, Tổng thống Mỹ tuyên bố tạm dừng áp thuế đối ứng trong 90 ngày với hơn 75 quốc gia, trong đó có Việt Nam.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Phó Thủ tướng: Khẩn trương điều tra vụ cháy nhà 4 người tử vong ở Tiền Giang — Trước nỗi đau mất mát do vụ cháy ở số 209/3 đường Nam Kỳ Khởi Nghĩa (phường 4, TP. Mỹ Tho, Tiền Giang), Phó Thủ tướng Thường trực Nguyễn Hòa Bình, đại diện Chính phủ, đã gửi lời thăm hỏi và chia sẻ sâu sắc tới gia đình những người bị nạn.",
+    "sentiment": "negative"
+  },
+  {
+    "review": "Phát biểu khai mạc của Tổng Bí thư Tô Lâm tại Hội nghị Trung ương 11 khóa 13 — Sáng 10/4, Hội nghị lần thứ 11 Ban Chấp hành Trung ương Đảng khóa 13 đã khai mạc trọng thể tại Thủ đô Hà Nội. Tổng Bí thư Tô Lâm phát biểu khai mạc hội nghị. VietNamNet trân trọng giới thiệu toàn văn nội dung phát biểu.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bí thư Lê Tiến Châu: Nghiên cứu phương án tối ưu sáp nhập Hải Dương và Hải Phòng — Bí thư Thành uỷ Hải Phòng yêu cầu Đảng ủy UBND thành phố chủ động, nghiên cứu phương án tối ưu trong việc sáp nhập với Hải Dương.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Tổng Bí thư: Nhân sự Trung ương khóa 14 phù hợp với cơ cấu mô hình tổ chức mới — Bộ Chính trị đã chỉ đạo rà soát, bổ sung dự thảo phương hướng công tác nhân sự Ban Chấp hành Trung ương khóa 14 phù hợp với cơ cấu của mô hình tổ chức mới.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Thuê tổ chức độc lập tuyển dụng công chức sẽ hạn chế tình trạng 'gửi gắm' — Nhiều ý kiến cho rằng, một đơn vị tuyển dụng công chức độc lập sẽ loại bỏ hoặc hạn chế tương đối việc trúng tuyển nhờ “quan hệ”, “gửi gắm”",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Xem xét miễn thị thực cho nghệ sỹ, vận động viên nổi tiếng, tỷ phú vào Việt Nam — Việt Nam xem xét áp dụng chính sách thị thực thuận tiện, linh hoạt, miễn thị thực cho khách du lịch; trong đó xây dựng chính sách ưu đãi thị thực cho các đối tượng đặc thù như nghệ sỹ, vận động viên nổi tiếng, tỷ phú...",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Khai mạc Hội nghị Trung ương, cho ý kiến về đề án sáp nhập tỉnh — Hội nghị lần thứ 11 Ban Chấp hành Trung ương Đảng khóa 13 khai mạc sáng nay, dự kiến diễn ra đến ngày 12/4. Hội nghị cho ý kiến đối với 15 nội dung.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Mỹ nhất trí khởi động đàm phán thuế với Việt Nam — Mỹ nhất trí với Việt Nam về việc khởi động đàm phán về một thỏa thuận thương mại đối ứng, trong đó sẽ bao gồm các thỏa thuận về thuế và đề nghị các cấp kỹ thuật.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Bí mật căn hầm dưới đáy chiếc tủ quần áo của biệt động Sài Gòn — Tìm về các điểm bảo tàng, di tích biệt động Sài Gòn không chỉ là chuyến đi trở lại khứ mà còn là hành trình khám phá đầy tự hào về một giai đoạn lịch sử của dân tộc.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Nữ bác sĩ tham gia diễu binh chia sẻ bí quyết rèn luyện thể lực cho lễ 30/4 — Thiếu úy Nguyễn Thị Kim Ngân vừa là bác sĩ, vừa là chiến sĩ chia sẻ bí quyết giữ sức bền, đảm bảo thể lực chuẩn bị cho lễ diễu binh kỷ niệm 50 năm thống nhất đất nước.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Lo ít có cơ hội 'làm người ở lại', nhiều bí thư, chủ tịch xã xin nghỉ hưu sớm — Dù đang còn 5-10 năm công tác nhưng nhiều bí thư, chủ tịch xã ở Thanh Hóa đã xin nghỉ hưu trước tuổi vì lo ngại ít có cơ hội được tỉnh chọn \"làm người ở lại\".",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "SpaceX sẽ phải lập công ty tại Việt Nam để cung cấp dich vụ Internet vệ tinh — Phó Thủ tướng Hồ Đức Phớc vừa trao quyết định cho phép Tập đoàn SpaceX thí điểm cung cấp dịch vụ Internet vệ tinh tại Việt Nam. Theo quy định, SpaceX sẽ phải thành lập công ty tại Việt Nam để triển khai hoạt động cung cấp dịch vụ này.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Theo chân nhiếp ảnh gia bắt trọn mọi xúc cảm thăng hoa bằng Xiaomi 15 Ultra — Sở hữu chất lượng camera vượt trội cùng khả năng tái hiện khoảnh khắc chân thực, Xiaomi 15 Ultra giúp nhiếp ảnh gia Nguyễn Gia Phong không chỉ ghi lại khoảnh khắc, mà còn mở ra một hành trình thị giác đầy sáng tạo và cảm xúc.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Doanh thu tội phạm mạng kiếm được tương đương nền kinh tế lớn thứ ba thế giới — Một con số đáng chú ý được đại diện NGS Consulting chia sẻ tại sự kiện Gặp mặt hội viên NCA 2025 là doanh thu tội phạm mạng kiếm được trong năm ngoái là 4.500 tỷ USD, tương đương với nền kinh tế lớn thứ ba thế giới.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Jack Ma muốn AI phục vụ, không phải ‘chúa tể’ con người — Đồng sáng lập Alibaba Jack Ma, một người ủng hộ trung thành của AI, cảnh báo AI không nên thay thế mà chỉ nên đáp ứng nhu cầu của con người.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Cách làm hộ chiếu gắn chip điện tử online tại nhà nhanh, đơn giản — Làm hộ chiếu online giúp người dân tiết kiệm đáng kể thời gian và công sức so với cách truyền thống. Không chỉ dễ dàng nộp hồ sơ trực tuyến, người dân còn có thể lựa chọn nhận hộ chiếu tại nhà qua đường bưu điện, thuận tiện và nhanh chóng.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Bộ Công an đề xuất hợp nhất 2 luật lĩnh vực an toàn thông tin, an ninh mạng — Theo Phó Cục trưởng A05 Nguyễn Bá Sơn, Bộ Công an đã đề xuất hợp nhất Luật An toàn thông tin mạng năm 2015 và Luật An ninh mạng năm 2018 thành Luật An ninh mạng năm 2025, dự kiến trình tại kỳ họp Quốc hội tháng 10/2025.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Mừng đại lễ, Viettel ưu đãi lớn dịch vụ Roaming — Nhân dịp 30/4-1/5, từ 11/4-31/5/2025 Viettel triển khai chương trình ưu đãi nhân đôi lưu lượng data Roaming giá không đổi và tặng miễn phí gói cước data tại các nước châu Âu và một số nước châu Á: Hàn Quốc, Trung Quốc, Thái Lan, Malaysia, UAE.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Vận hành nền tảng đào tạo an ninh mạng nCademy từ tháng 5 — Dự kiến hoạt động từ ngày 6/5, nền tảng đào tạo và cấp chứng nhận an ninh mạng nCademy không chỉ hướng tới các nhân sự chuyên trách an ninh mạng, mà còn cung cấp các khóa học nâng cao nhận thức và kỹ năng cho người dùng phổ thông.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "ChatGPT đã có thể ghi nhớ mọi điều người dùng chia sẻ — OpenAI vừa giới thiệu khả năng ghi nhớ mới dành cho ChatGPT. Từ nay, chatbot có thể ghi nhớ mọi chi tiết mà người dùng chia sẻ để trở nên hữu ích hơn.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "MacBook Pro năm sau mới là 'cuộc đại tu thực sự' với siêu chip M6 — Năm 2024, Apple đã đại tu các mẫu MacBook Pro 14 inch và 16 inch, bổ sung chip M4, M4 Pro và M4 Max, cổng Thunderbolt 5... Tuy nhiên, bạn sẽ không phải đợi lâu cho “cuộc đại tu thực sự” với dòng laptop này.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Apple chở 600 tấn iPhone sang Mỹ để tránh thuế — Apple được cho là đã vận chuyển 600 tấn iPhone từ Ấn Độ sang Mỹ nhằm tránh các mức thuế mới. Hiện nay, hãng sản xuất iPhone tại cả Trung Quốc và Ấn Độ.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "DeepSeek len lỏi mọi ngóc ngách của Trung Quốc — DeepSeek đã châm ngòi cho ứng dụng AI ở khắp mọi nơi, từ khu vực công đến khu vực tư nhân, tại Trung Quốc. Song điều này không thể xảy ra nếu vắng mặt sự hỗ trợ của chính phủ.",
+    "sentiment": "neutral"
+  },
+  {
+    "review": "Nga tung át chủ bài công nghệ: USV làm thay đổi cuộc chơi ở Ukraine? — Các công ty đang phát triển và hoàn thiện xuồng không người lái \"Katran\" và đã bắt đầu cung cấp cho hạm đội Biển Đen của Nga những nguyên mẫu đầu tiên kể từ tháng 3/2025.",
+    "sentiment": "positive"
+  },
+  {
+    "review": "Từ cao cấp đến vừa túi tiền, đây là những smartphone tốt nhất năm 2025 — Dù bạn muốn một chiếc điện thoại cao cấp hay một lựa chọn vừa túi tiền, dưới đây là những smartphone tốt nhất từ Apple, Samsung, Google và nhiều hãng khác để lựa chọn.",
+    "sentiment": "neutral"
   }
 ]
