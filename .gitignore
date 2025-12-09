@@ -7,3 +7,5 @@ Paper
 test-raw.json
 train-raw.json
 vietnamese-stopwords.txt
+phobert-ft-final
+phobert-ft
