@@ -268,13 +268,13 @@ def main():
     })
     out_dir = args.model_dir
     os.makedirs(out_dir, exist_ok=True)
-    df_all.to_csv(os.path.join(out_dir, "eval_predictions.csv"), index=False, encoding="utf-8-sig")
+    df_all.to_csv(os.path.join(out_dir, "eval_predictions.csv"), index=False, encoding="utf-8")
 
     df_err = df_all[df_all["gold"] != df_all["pred"]].copy()
-    df_err.to_csv(os.path.join(out_dir, "eval_mispredictions.csv"), index=False, encoding="utf-8-sig")
+    df_err.to_csv(os.path.join(out_dir, "eval_mispredictions.csv"), index=False, encoding="utf-8")
 
     df_uncertain = df_all.sort_values("entropy", ascending=False).head(200).copy()
-    df_uncertain.to_csv(os.path.join(out_dir, "eval_top_uncertain.csv"), index=False, encoding="utf-8-sig")
+    df_uncertain.to_csv(os.path.join(out_dir, "eval_top_uncertain.csv"), index=False, encoding="utf-8")
 
     print("[Eval] Saved:", os.path.join(out_dir, "eval_predictions.csv"))
     print("[Eval] Saved:", os.path.join(out_dir, "eval_mispredictions.csv"))
