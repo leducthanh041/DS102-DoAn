@@ -13,7 +13,7 @@
   },
   {
     "review": "Sức hút của biệt thự hàng hiếm tại Anlac Green Symphony — Sở hữu dòng biệt thự song lập có hầm độc đáo với số lượng giới hạn, Anlac Green Symphony đang là dự án được quan tâm hàng đầu tại phía tây Thủ đô.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Cách xác định nhà cửa, cây trồng, vật nuôi được nhận bồi thường khi thu hồi đất — Luật Đất đai quy định bồi thường thiệt hại về nhà, nhà ở, công trình xây dựng gắn liền với đất khi Nhà nước thu hồi đất.",
@@ -41,7 +41,7 @@
   },
   {
     "review": "Nghe bộ đội Việt Nam và Trung Quốc cùng hát tại Nga — Tranh thủ giờ giải lao, các khối tham gia duyệt binh của đoàn Việt Nam và Lào, Trung Quốc có những phút giao lưu văn nghệ sôi nổi.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Chủ tịch nước Lương Cường bổ nhiệm 3 Phó chủ nhiệm Văn phòng Chủ tịch nước — Chủ tịch nước Lương Cường chiều nay (8/5) chủ trì lễ công bố và trao quyết định bổ nhiệm các Phó chủ nhiệm Văn phòng Chủ tịch nước.",
@@ -53,7 +53,7 @@
   },
   {
     "review": "Sau vụ lòng se điếu, đại biểu đề nghị 'nghề của thanh tra' là phải làm đột xuất — Dẫn vụ việc \"lòng se điếu\", Giám đốc Sở An toàn thực phẩm TPHCM Phạm Khánh Phong Lan cho biết, mới thông tin là sẽ cho kiểm tra thì truyền thông đã đăng tải rất nhiều, \"đi đến đâu cũng thông báo em hết lòng\", như thế sẽ rất khó.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Hơn 125.000 cán bộ kê khai tài sản, kỷ luật 2 người không trung thực — Tổng Thanh tra Chính phủ Đoàn Hồng Phong thông tin, trong 125.002 người thực hiện kê khai tài sản, thu nhập đã xác minh 642 trường hợp và kỷ luật 2 người kê khai không trung thực.",
@@ -89,7 +89,7 @@
   },
   {
     "review": "Việt Nam và Azerbaijan thiết lập quan hệ Đối tác Chiến lược — Tổng Bí thư Tô Lâm và Tổng thống Azerbaijan Ilham Aliyev nhấn mạnh việc hai nước thông qua Tuyên bố chung về thiết lập quan hệ Đối tác Chiến lược có ý nghĩa lịch sử.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Tuyên bố chung về thiết lập quan hệ Đối tác Chiến lược Việt Nam và Azerbaijan — Nhân chuyến thăm cấp Nhà nước của Tổng Bí thư Tô Lâm tới Azerbaijan theo lời mời của Tổng thống Ilham Aliyev, hai nước đã ra Tuyên bố chung về việc thiết lập quan hệ Đối tác Chiến lược giữa Việt Nam - Azerbaijan.",
@@ -109,7 +109,7 @@
   },
   {
     "review": "Panasonic sa thải 10.000 nhân viên trên toàn cầu — Tập đoàn Panasonic sẽ cắt giảm 10.000 nhân viên, tương đương hơn 4% tổng số lao động, nhằm loại bỏ các mảng kinh doanh không tăng trưởng và cải thiện lợi nhuận.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Tỷ phú Elon Musk tiết lộ nơi con người sẽ định cư trước khi Trái Đất bị huỷ diệt — Elon Musk dự đoán con người có thể có nơi định cư ngoài Trái Đất sớm nhất vào năm 2029 để xây dựng một nền văn minh tự duy trì.",
@@ -117,15 +117,15 @@
   },
   {
     "review": "Công đoàn KH&CN phát động thi đua đổi mới sáng tạo và chuyển đổi số — Ngày 9/5, Công đoàn KH&CN Việt Nam đã tổ chức Lễ phát động và hưởng ứng phong trào “Cả nước thi đua đổi mới sáng tạo và chuyển đổi số”.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "12 địa phương có chất lượng dịch vụ công trực tuyến đạt mức tốt — Kết quả đánh giá chất lượng thực hiện thủ tục hành chính, dịch vụ công trực tuyến cho thấy, chỉ 12 địa phương đạt điểm đánh giá tốt, 42 địa phương đạt mức khá và 9 tỉnh có điểm trung bình.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "'Mù công nghệ' cũng có thể trở thành tội phạm mạng — Từ lâu, tội phạm mạng thường được hình dung là những cá nhân xuất chúng trong lĩnh vực công nghệ, sở hữu kỹ năng lập trình điêu luyện và khả năng tấn công mạng vượt trội. Tuy nhiên, định kiến này đang dần trở nên lỗi thời.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Huawei thoát ly hoàn toàn Windows — Huawei vừa giới thiệu mẫu laptop đầu tiên sử dụng hệ điều hành tự phát triển HarmonyOS sau khi giấy phép sử dụng Microsoft Windows cho máy tính cá nhân hết hạn vào tháng 3.",
@@ -133,7 +133,7 @@
   },
   {
     "review": "‘Mổ xẻ’ công nghệ tiêm kích J-10C Pakistan vừa bắn rơi chiến đấu cơ Rafale Ấn Độ — Tiêm kích J-10C là máy bay chiến đấu đa năng thế hệ 4.5, được thiết kế để thực hiện các nhiệm vụ không đối không, không đối đất và tác chiến điện tử. Pakistan là quốc gia nước ngoài đầu tiên vận hành tiêm kích J-10C, do Trung Quốc sản xuất.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Tấn công mạng nhắm vào lĩnh vực chăm sóc sức khỏe, tài chính đang gia tăng mạnh — Các lĩnh vực sản xuất, chăm sóc sức khỏe và dịch vụ tài chính đang tiếp tục chứng kiến ​​sự gia tăng mạnh những cuộc tấn công mạng được thiết kế riêng, với các hoạt động khai thác cụ thể được lên kế hoạch và triển khai chuyên biệt.",
@@ -149,7 +149,7 @@
   },
   {
     "review": "iPhone sắp bị 'xoá sổ' bởi AI? — Công nghệ trí tuệ nhân tạo (AI) đang thúc đẩy sự đổi mới, nhưng cũng làm tăng nguy cơ lỗi thời cho các thiết bị, trong đó có iPhone.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Bill Gates cam kết quyên góp 200 tỷ USD trong 20 năm tới — Tỷ phú Bill Gates thông báo kế hoạch quyên tặng 200 tỷ USD trong hai thập kỷ tới thông qua quỹ thiện nguyện Gates Foundation.",
@@ -157,7 +157,7 @@
   },
   {
     "review": "Top 10 phần mềm trí tuệ nhân tạo hàng đầu năm 2025 — Nếu đang tìm kiếm một trợ thủ trí tuệ nhân tạo (AI) thông minh để nâng cao hiệu suất công việc và học tập, bạn có thể tham khảo top 10 phần mềm dưới đây.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Tiêm kích ‘đồ cổ’ Pakistan bắn hạ chiến đấu cơ hiện đại Ấn Độ có công nghệ gì? — Tiêm kích F-7 là bản sao chép và cải tiến từ tiêm kích MiG-21F-13, vốn là máy bay chiến đấu tầm ngắn nổi bật của Liên Xô trong thập niên 1960, được Trung Quốc phát triển với mã nội địa J-7, và phiên bản xuất khẩu là F-7.",
@@ -177,7 +177,7 @@
   },
   {
     "review": "Chồng bỏ quên vợ, vô tư phóng ô tô đi mất hút — ITALIA - Vì tưởng vợ vẫn nằm ngủ ở ghế sau, người chồng vô tư phóng ô tô đi mất, để quên vợ bên lề đường.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Vật 'lạ' trên xe sang vạch trần bí mật của ông chủ thầu xây dựng — Vật thể 'lạ' trên xe khiến cuộc hôn nhân của tôi rơi vào bế tắc nhưng không ai biết, đó là sản phẩm của bố vợ và cô nhân tình trẻ.",
@@ -201,11 +201,11 @@
   },
   {
     "review": "Du khách gặp cảnh 'dở khóc dở cười' khi đi tàu ra đảo xinh đẹp ở Nha Trang — Mới đây, một video ghi lại hình ảnh đoàn du khách gặp cảnh \"dở khóc dở cười\" khi đi cano ra hòn đảo tại Nha Trang (Khánh Hòa) thu hút sự chú ý của cộng đồng mạng.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Việt Nam có bến du thuyền quốc tế đầu tiên ở Nha Trang — Sau 2 năm thử nghiệm, bến du thuyền ở TP Nha Trang (tỉnh Khánh Hòa) đã được cấp mã cảng quốc tế, trở thành bến du thuyền quốc tế đầu tiên của Việt Nam.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Du khách bị cá sấu tấn công nghiêm trọng vì 'cú nhầm lẫn' tai hại — PHILIPPINES – Một nam du khách 29 tuổi đã bị cá sấu tấn công nghiêm trọng, sau khi trèo vào chuồng để chụp ảnh tự sướng vì nhầm tưởng con vật là bức tượng.",
@@ -225,7 +225,7 @@
   },
   {
     "review": "Mỹ và Trung Quốc đạt thoả thuận thuế: Giá vàng giảm sâu, các thị trường bứt phá — Mỹ và Trung Quốc vừa đạt thỏa thuận tạm hoãn áp mức thuế đối ứng cao ngất ngưởng trong 90 ngày. Thị trường tài chính và hàng hóa toàn cầu phản ứng rất mạnh. Giá vàng lao dốc, đồng USD tăng vọt.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Băn khoăn việc trường học, bệnh viện tự chủ phải chịu thuế thu nhập doanh nghiệp — Nhiều đại biểu Quốc hội kiến nghị nên bỏ khoản thu thuế thu nhập doanh nghiệp với các đơn vị y tế, giáo dục khi tính toán học phí, viện phí.",
@@ -293,7 +293,7 @@
   },
   {
     "review": "6 vụ tai nạn siêu xe đắt đỏ nhất từng khiến thế giới sửng sốt — Không chỉ sở hữu siêu xe hàng triệu USD, nhiều người nổi tiếng còn \"đốt\" cả gia tài vào những pha tai nạn gây choáng váng.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Người phụ nữ phản xạ nhanh như chớp tránh 2 xe tải đâm nhau trên đường — TRUNG QUỐC - Nhìn thấy 2 xe tải đâu nhau trên đường, người phụ nữ nhanh chóng vứt xe máy bỏ chạy, kịp thời tránh một tai nạn nghiêm trọng.",
@@ -301,7 +301,7 @@
   },
   {
     "review": "Cụ ông U90 gây sốt khi sở hữu bộ sưu tập xe hơi đồ sộ trị giá gần 1.400 tỷ đồng — ANH - Cụ ông 87 tuổi ở Kent với 60 năm đam mê sưu tầm đã có trong tay một bộ sưu tập xe đồ sộ với trị giá ước tính trên 40 triệu bảng Anh (gần 1.400 tỷ đồng).",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Thaco Auto xuất khẩu xe buýt cao cấp Mercedes-Benz sang Thái Lan — Ngày 8/5, Thaco Auto phối hợp với Daimler Bus tổ chức chương trình giới thiệu sản phẩm xe buýt cao cấp Mercedes-Benz RS 1936, đồng thời xuất khẩu dòng xe này sang thị trường Thái Lan.",
@@ -317,11 +317,11 @@
   },
   {
     "review": "Thị trường ô tô giảm nhiệt, khách Việt ưa chuộng xe nhập khẩu hơn xe nội — Sau cú bứt tốc về doanh số trong tháng 3, thị trường ô tô Việt Nam đã ghi nhận mức giảm nhẹ 7% trong tháng 4 vừa qua. Người tiêu dùng vẫn ưu tiên lựa chọn xe nhập khẩu thay vì xe lắp ráp trong nước.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "VinFast ra mắt dòng xe chở hàng cỡ nhỏ giá từ 285 triệu đồng — Với tải trọng trên 600 kg cùng kích cỡ gọn gàng, khả năng vận hành linh hoạt, VinFast EC Van là lựa chọn tối ưu cho nhu cầu vận chuyển hàng quãng ngắn của các đơn vị kinh doanh, đồng thời là phương tiện sinh kế phù hợp cho kinh tế hộ gia đình.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "SUV 'hàng độc', đắt hơn cả Land Cruiser bất ngờ xuất hiện trên đường phố Hà Nội — Chiếc SUV off-road hiệu suất cao phiên bản đặc biệt vừa về Việt Nam gây bất ngờ khi có giá sau thuế cao hơn cả một mẫu SUV cỡ lớn vốn được xem là biểu tượng tại thị trường trong nước.",
@@ -333,7 +333,7 @@
   },
   {
     "review": "Loạt xe sedan phổ thông tiếp tục giảm giá 'kịch sàn' trong tháng 5 — Gần như toàn bộ các mẫu xe thuộc phân khúc sedan cỡ B-C tại Việt Nam đang được khuyến mại sâu trong tháng 5. Điều này nhằm tăng tính cạnh tranh và hút khách trong bối cảnh giảm giá chung của thị trường ô tô.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Nhẫn tâm lừa đổi vé số giả trúng thưởng, chiếm đoạt tiền của người khuyết tật — Nguyễn Quốc Đại dùng vé số giả trúng thưởng để lừa đổi lấy 2,2 triệu đồng của người đàn ông khuyết tật bán vé số. Đại từng có hành vi trộm cắp tài sản và đã bị công an xử phạt hành chính.",
@@ -361,7 +361,7 @@
   },
   {
     "review": "Lời khai về việc thực hiện 'luật ngầm' của Chủ tịch Tập đoàn Thuận An — Ở các dự án được trúng thầu, Chủ tịch Tập đoàn Thuận An đều sẵn sàng chi tiền “cơ chế” với mức hàng tỷ đồng. Đây dường như là “luật ngầm” mà doanh nghiệp phải hiểu và thực hiện.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Lỗi che biển số xe máy bị phạt bao nhiêu tiền? — Nhiều người điều khiển xe máy cố tình che, gập hoặc làm mờ biển số để né phạt nguội. Mức phạt lỗi che biển số xe máy đã được quy định rõ trong Nghị định 168/2024.",
@@ -373,7 +373,7 @@
   },
   {
     "review": "Ngày Dinh dưỡng cộng đồng Việt Nam lần 4: Chung tay vì Việt Nam khỏe mạnh — Herbalife Việt Nam đồng hành cùng Báo Sức khỏe và Đời sống tổ chức Ngày dinh dưỡng cộng đồng Việt Nam lần 4 tại Dinh Độc Lập, TP.HCM.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Cô gái bật khóc bên hành lang viện khi nhận kết quả, 'chỉ nghĩ áp lực công việc' — Hình ảnh cô gái ngồi khóc ở hành lang bệnh viện, trên tay cầm kết quả khám khiến nhiều người xúc động. Nữ bệnh nhân trên vừa tốt nghiệp đại học, mới đi làm đã nhận tin mắc ung thư.",
@@ -385,19 +385,19 @@
   },
   {
     "review": "Bé trai trong vụ BVĐK tỉnh Nam Định bị tố 'nộp đủ tiền mới cấp cứu' xuất viện — Bé trai 4 tuổi trong vụ Bệnh viện Đa khoa tỉnh Nam Định bị tố \"nộp đủ tiền mới cấp cứu\" ra viện sáng nay, mọi chi phí điều trị được BHYT chi trả.",
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
     "review": "Điều kỳ diệu với cô gái bên vực tử thần, người nhà xin về, bác sĩ quyết giữ lại — Cô gái 18 tuổi mắc căn bệnh hiếm gặp được đưa vào viện trong tình trạng nguy kịch, phải mổ cấp cứu ngay trong đêm nhưng sau đó lập tức diễn biến xấu. Gia đình xin về vì không còn hy vọng song bác sĩ quyết tâm giữ lại.",
-    "sentiment": "negative"
+    "sentiment": "positive"
   },
   {
     "review": "Chăm sóc làn da bé bằng ‘những cái chạm mát lành’ — Mùa hè là khoảng thời gian trẻ nhỏ được tự do vui chơi, khám phá thiên nhiên… Tuy nhiên, đi kèm với niềm vui là nỗi lo lắng của nhiều bố mẹ khi thấy làn da của trẻ phải “lên tiếng” vì rôm sảy, mẩn ngứa, hăm da...",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Thắc mắc thường gặp của bố mẹ về vắc xin 6 trong 1 — Vắc xin 6 trong 1 sẽ bảo vệ con khỏi 6 bệnh truyền nhiễm nguy hiểm thường gặp trong những năm đầu đời. Bố mẹ lưu ý bỏ túi những sự thật về loại vắc xin này.",
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "review": "Cô gái 27 tuổi tưởng mình 'chết đi sống lại' sau cơn đột quỵ — Nửa đêm, H. cảm thấy toàn thân lạnh run, tay chân co cứng, tai ù, mắt tối đen cảm giác như cận kề cái chết. Khi vào cấp cứu tại bệnh viện, cô được chẩn đoán vừa trải qua cơn đột quỵ.",
@@ -421,7 +421,7 @@
   },
   {
     "review": "Ông Zelensky tuyên bố xung đột sẽ không kéo dài hàng thập kỷ — Tổng thống Ukraine Volodymyr Zelensky tuyên bố cuộc xung đột giữa nước này với Nga sẽ không kéo dài thêm 10 năm nữa vì điều đó sẽ gây tổn thất lớn cho tất cả các bên.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Ukraine ‘mất liên lạc’ với tiêm kích F-16, Nga bắn hạ hàng chục UAV trong đêm — Không quân Ukraine cho biết, một tiêm kích F-16 trong biên chế lực lượng này đã bị “mất liên lạc” khi thực hiện nhiệm vụ đẩy lui cuộc tấn công trên không của Nga.",
@@ -445,7 +445,7 @@
   },
   {
     "review": "Ông Trump ký loạt thỏa thuận trị giá 200 tỷ USD trong chuyến công du UAE — Tổng thống Mỹ Donald Trump đã ký một loạt thỏa thuận thương mại lớn với Các Tiểu vương quốc Ảrập thống nhất (UAE) trong chuyến công du nước này.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Ấn Độ và Pakistan chỉ trích lẫn nhau về kho vũ khí hạt nhân — Ấn Độ và Pakistan tố cáo nhau không kiểm soát được kho vũ khí hạt nhân của mỗi nước, đồng thời kêu gọi cộng đồng quốc tế giám sát kho vũ khí của quốc gia láng giềng.",
@@ -453,11 +453,11 @@
   },
   {
     "review": "Mỹ muốn nối lại đàm phán an ninh Nga – NATO để chấm dứt xung đột ở Ukraine — Mỹ đã đề xuất nối lại các cuộc đàm phán an ninh bị đình trệ từ lâu theo khuôn khổ Hội đồng NATO - Nga (NRC) nhằm tiến đến một thỏa thuận hòa bình cho cuộc xung đột ở Ukraine.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Nga 'chốt' thời gian hòa đàm với Ukraine, điều kiện để ông Trump gặp ông Putin — Trưởng phái đoàn Nga Vladimir Medinsky tuyên bố sẽ chờ các đối tác Ukraine để bắt đầu đàm phán hòa bình trực tiếp vào lúc 10h (giờ địa phương) tại Istanbul, Thổ Nhĩ Kỳ hôm nay (16/5).",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "8 phút sinh tử: Nhật Bản lập kế hoạch ứng phó sóng thần trong siêu động đất — Kamakura- thành phố du lịch nổi tiếng của Nhật Bản, với những bải biển thu hút du khách từ khắp nơi trên thế giới, có thể bị sóng thần cao 13 mét tấn công chỉ sau khi xảy ra siêu động đất 8 phút.",
@@ -493,7 +493,7 @@
   },
   {
     "review": "Công Phượng mờ nhạt, Bình Phước nhìn Ninh Bình vô địch hạng Nhất — Công Phượng chơi mờ nhạt trong ngày HLV Kim Sang Sik dự khán, Trường Tươi Bình Phước hòa 0-0 trên sân của PVF-CAND ở vòng 19 hạng Nhất quốc gia 2024/25.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Phù Đổng Ninh Bình giành vé thăng hạng V-League sớm — Phù Đổng Ninh Bình đánh bại Trẻ TP.HCM 3-0, cùng với việc Trường Tươi Bình Phước hòa 0-0 trên PVF-CAND, đội bóng Cố đô Hoa Lư chính thức giành vé lên chơi ở V-League mùa tới.",
@@ -513,7 +513,7 @@
   },
   {
     "review": "Hoa khôi bóng chuyền Nga trở lại Việt Nam đấu Bích Tuyền — Hoa khôi bóng chuyền Palshina Elizaveta của CLB Korabelka (Nga) sẽ trở lại Việt Nam vào tháng 6 tới để bảo vệ ngôi vô địch tại VTV Cup 2025.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "HLV Thanh Hóa xin từ chức sau trận thua Hải Phòng — HLV Tomislav Steinbruckner của CLB Thanh Hóa tuyên bố từ chức sau thất bại 1-2 trước chủ nhà Hải Phòng tại vòng 23 V-League 2024/25.",
@@ -537,15 +537,15 @@
   },
   {
     "review": "Son Heung Min tái xuất, Tottenham trắng tay trước chung kết với MU — Aston Villa giành chiến thắng 2-0 trước Tottenham trên sân nhà Villa Park. Kết quả này giúp thầy trò HLV Unai Emery tạm thời vươn lên vị trí thứ 5 trên bảng xếp hạng Ngoại hạng Anh.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Tuyển Việt Nam: HLV Kim Sang Sik chờ gì từ các tân binh? — HLV Kim Sang Sik đang dành nhiều sự kỳ vọng cho các tân binh ở lần tập trung của tuyển Việt Nam chuẩn bị cho trận gặp Malaysia trong khuôn khổ vòng loại Asian Cup 2027.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Kết quả bóng đá hôm nay 17/5: Những cơn mưa bàn thắng — Kết quả bóng đá hôm nay 17/5/2025 - Cập nhật kết quả các trận đấu bóng đá trong nước và quốc tế diễn ra đêm qua và rạng sáng nay.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Chelsea đánh bại MU nhờ phút lóe sáng của Cucurella — Pha lập công duy nhất của Cucurella ở hiệp hai giúp Chelsea hạ MU 1-0, trong trận đấu sớm vòng 37 Ngoại hạng Anh.",
@@ -621,7 +621,7 @@
   },
   {
     "review": "Hà Nội: 5 người mắc kẹt trên đỉnh núi Hàm Lợn — Lực lượng Cảnh sát PCCC&CNCH Hà Nội vừa giải cứu 5 người đi lạc tại đỉnh núi Hàm Lợn (Nam Sơn, Sóc Sơn) trong đêm.",
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
     "review": "Dự báo thời tiết 18/5/2025: Miền Bắc, Thanh Hóa và Nghệ An cao điểm mưa lớn — Dự báo thời tiết 18/5/2025, miền Bắc, Thanh Hóa và Nghệ An cao điểm mưa lớn nhất đợt với lượng mưa có nơi trên 100mm. Từ Trung Bộ trở vào có nơi nắng nóng. Riêng Tây Nguyên, Nam Bộ vẫn mưa rào rải rác vào chiều tối.",
@@ -649,11 +649,11 @@
   },
   {
     "review": "Thẩm định lại hồ sơ vụ tai nạn giao thông 8 năm trước ở Phú Quốc — Do có đơn thư khiếu nại, Cơ quan Cảnh sát điều tra Công an tỉnh Kiên Giang thẩm định lại hồ sơ vụ tai nạn giao thông 8 năm trước ở Phú Quốc.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Hạn chế doanh nhân nợ thuế xuất cảnh, cần một chế tài khác — Cơ quan thuế các cấp phải ban hành 61.492 thông báo cấm xuất cảnh với số tiền thuế nợ là 83.028 tỷ đồng, trong khi số thuế đã thu hồi được chỉ chiếm 4.955 tỷ đồng, hay 1/17 số thuế nợ. Chế tài này không có tác dụng lớn về thu hồi thuế nợ.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Ca sĩ Lệ Hải - vợ nghệ sĩ Vũ Thanh qua đời đột ngột — Ca sĩ Lệ Hải, vợ nghệ sĩ Vũ Thanh trút hơi thở cuối cùng sau hơn 7 tháng phát bạo bệnh, hưởng thọ 78 tuổi.",
@@ -661,7 +661,7 @@
   },
   {
     "review": "Hoa hậu H'hen Niê khóc 12 tiếng liền khi nghe nhạc của ca sĩ Hà Nhi — Hoa hậu H'hen Niê từng nghe \"Vì em chưa bao giờ khóc\" của Hà Nhi suốt 12 tiếng và khóc không ngừng vì đồng cảm với câu từ trong ca khúc.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Ý Nhi cười tươi, tự tin nói tiếng Anh trong ngày thi then chốt ở Miss World 2025 — Trong ngày thi quan trọng tại Miss World 2025, đại diện Việt Nam - Huỳnh Trần Ý Nhi gây ấn tượng với phần trình bày trôi chảy, tự tin, lan tỏa thông điệp tích cực khi giới thiệu về dự án cộng đồng tâm huyết của mình.",
@@ -669,11 +669,11 @@
   },
   {
     "review": "Đồng Lan hát ca khúc cùng 60 nghệ sĩ, có người được giải Grammy — Ca sĩ Đồng Lan góp mặt trong dự án âm nhạc “Could You Lend Me a Smile” do nghệ sĩ Miist khởi xướng quy tụ hơn 60 nghệ sĩ trên toàn cầu, trong đó có nhiều người từng đoạt giải Grammy.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Thanh Lam xem show Lady Gaga với chồng, Thanh Hằng được nhạc trưởng hôn đắm đuối — Ca sĩ Thanh Lam khoe đi xem show Lady Gaga với chồng bác sĩ. Nhạc trưởng Trần Nhật Minh hôn siêu mẫu Thanh Hằng đắm đuối.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Ca sĩ Duy Mạnh xin được nộp phạt vì quảng cáo lừa dối người dùng — Ca sĩ Duy Mạnh thừa nhận quảng cáo thực phẩm chức năng Xtramen cách đây 3 năm là hoàn toàn sai, đã vô tình tiếp tay cho họ lừa dối người tiêu dùng, mong cơ quan pháp luật mời mình lên giải trình và nộp phạt.",
@@ -693,7 +693,7 @@
   },
   {
     "review": "Hai cuốn sách đầu tiên về AI trong y học tại Việt Nam — Hai cuốn sách đầu tiên về trí tuệ nhân tạo (AI) trong y học tại Việt Nam là tài liệu tham khảo hữu ích cho bất kỳ ai quan tâm đến sự tích hợp giữa (AI) và y học.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "DJ Ngân 98 giữa ồn ào — Ngân 98 đang vướng vào ồn ào liên quan đến sản phẩm giảm cân. Sở An toàn thực phẩm TP.HCM vừa vào cuộc để kiểm tra, xác minh",
@@ -709,7 +709,7 @@
   },
   {
     "review": "Hình ảnh không bao giờ thấy trên sân khấu của Đăng Dương, Trọng Tấn, Việt Hoàn — Tam ca nhạc đỏ Đăng Dương, Trọng Tấn, Việt Hoàn khi ở phòng tập luôn vui vẻ bông đùa, khác hẳn hình ảnh nghiêm ngắn của họ khi biểu diễn trên sân khấu.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hà Nội tăng cường quản lý, phục hồi di tích danh lam thắng cảnh — Ngày 20/5, UBND TP. Hà Nội ban hành công văn về việc tăng cường quản lý di tích và bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh trên địa bàn.",
@@ -721,7 +721,7 @@
   },
   {
     "review": "'Cha tôi người ở lại' tập 42: Nguyên và Đại đứng hình khi An gặp chồng tương lai — Trong \"Cha tôi người ở lại\" tập 42, cả Nguyên, Việt và Đại đều đứng ngồi không yên khi An gặp lại anh chàng đẹp trai có ngoại hình hơn đứt cả 3 ông anh.",
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "review": "Hạnh phúc ngọt ngào của hoa hậu H'Hen Niê và chồng nhiếp ảnh gia — Sau đám cưới hồi tháng 3/2025, hoa hậu H'Hen Niê cùng chồng nhiếp ảnh gia Tuấn Khôi đang tận hưởng cuộc sống hôn nhân ngọt ngào.",
@@ -781,7 +781,7 @@
   },
   {
     "review": "OpenAI mua lại startup AI của 'huyền thoại thiết kế' Apple — OpenAI vừa công bố việc mua lại io, một startup AI phần cứng được đồng sáng lập bởi Jony Ive, cựu trưởng nhóm thiết kế \"huyền thoại\" của Apple.",
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "review": "Tăng cường năng lực lãnh đạo chiến lược vì mục tiêu phát triển bền vững — Tại khóa học ngắn hạn “Lãnh đạo chiến lược trong các vấn đề công và quốc tế”, 16 sáng kiến đã được xây dựng bởi 16 cán bộ lãnh đạo của Việt Nam nhằm thúc đẩy đổi mới sáng tạo.",
@@ -789,11 +789,11 @@
   },
   {
     "review": "Từ Đồng Nai đi 2.000km ra Hà Giang học chuyển đổi số, sao không chọn TPHCM? — Phòng GD-ĐT huyện Vĩnh Cửu (Đồng Nai) dự kiến tổ chức cho đoàn cán bộ, giáo viên vượt 2.000km ra Hà Giang học tập kinh nghiệm chuyển đổi số, ứng dụng STEM, trong khi TPHCM - trung tâm giáo dục hàng đầu cả nước, di chuyển rất gần lại bị bỏ qua.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Làm rõ trách nhiệm việc đi Hà Giang học chuyển đổi số 'chệch thành tour du lịch’ — Chủ tịch UBND Đồng Nai yêu cầu tổ chức rút kinh nghiệm, làm rõ trách nhiệm vụ đoàn cán bộ huyện Vĩnh Cửu có kế hoạch đi Hà Giang học tập về chuyển đổi số, ứng dụng STEM nhưng phần lớn thời gian cho nội dung du lịch.",
-    "sentiment": "neutral"
+    "sentiment": "negative"
   },
   {
     "review": "Đại học Bách khoa Hà Nội công bố cách quy đổi điểm chuẩn tương đương — Đại học Bách khoa Hà Nội vừa công bố phương án quy đổi điểm chuẩn tương đương giữa các phương thức tuyển sinh đại học năm 2025.",

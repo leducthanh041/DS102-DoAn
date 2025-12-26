@@ -4,4 +4,7 @@ note-ds102
 DS102
 paper-for-labeling
 Paper
-phobert-ft
+# test-raw.json
+# train-raw.json
+vietnamese-stopwords.txt
+phobert-ft-tuned
