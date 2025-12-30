@@ -1,265 +1,263 @@
-import json
-import numpy as np
-import pickle
 import os
+import random
+import json
+import re
+import unicodedata
+import numpy as np
 import tensorflow as tf
-
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Input, Embedding, GRU, Dense, Dropout, Bidirectional
-from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
-from tensorflow.keras.utils import to_categorical
-
-from sklearn.preprocessing import LabelEncoder
-from sklearn.utils import class_weight
-from sklearn.metrics import classification_report, f1_score, confusion_matrix
-from sklearn.model_selection import train_test_split
-
 import matplotlib.pyplot as plt
 
-# seaborn là optional, nếu không cài thì bỏ qua phần vẽ heatmap
+from sklearn.preprocessing import LabelEncoder, FunctionTransformer
+from sklearn.model_selection import StratifiedKFold, GridSearchCV
+from sklearn.pipeline import Pipeline
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import (
+    accuracy_score,
+    f1_score,
+    classification_report,
+    confusion_matrix,
+    ConfusionMatrixDisplay,
+)
+
+from scikeras.wrappers import KerasClassifier
+
+# =========================
+# 0) Config + Seed
+# =========================
+TRAIN_PATH = "./preprocessed-dataset/train_processed.json"
+VAL_PATH   = "./preprocessed-dataset/dev_processed.json"
+TEST_PATH  = "./preprocessed-dataset/test_processed.json"
+
+SEED = 42
+os.environ["PYTHONHASHSEED"] = str(SEED)
+random.seed(SEED)
+np.random.seed(SEED)
+tf.keras.utils.set_random_seed(SEED)
 try:
-    import seaborn as sns  # Nếu muốn vẽ biểu đồ đẹp (pip install seaborn)
-except ImportError:
-    sns = None
-    print("Cảnh báo: Không tìm thấy seaborn, sẽ bỏ qua phần vẽ heatmap.")
+    tf.config.experimental.enable_op_determinism()
+except Exception:
+    pass
 
-# --- CẤU HÌNH THAM SỐ ---
-CONFIG = {
-    'vocab_size': 20000,       # Số lượng từ tối đa trong vocab
-    'embedding_dim': 200,      # Kích thước vector embedding
-    'max_length': 120,
-    'trunc_type': 'post',
-    'padding_type': 'pre',     # QUAN TRỌNG: 'pre' thường hợp với GRU/LSTM
-    'oov_tok': '<OOV>',
-    'batch_size': 32,
-    'epochs': 10,              # Số epoch tối đa (EarlyStopping sẽ dừng sớm nếu cần)
-    'patience': 10,            # Kiên nhẫn 10 epoch không cải thiện thì dừng
-    'gru_units': 128,          # Số units của GRU
-    'dropout_rate': 0.4,
-    'model_path': 'best_gru_model.h5',
-    'tokenizer_path': 'tokenizer.pickle',
-    'encoder_path': 'label_encoder.pickle',
-    'train_file': 'train-preprocessed.json',
-    'test_file': 'test-preprocessed.json'
-}
+# =========================
+# 1) Load dữ liệu (không dùng pandas)
+# =========================
+def load_json_flexible(path: str):
+    with open(path, "r", encoding="utf-8") as f:
+        raw = f.read().strip()
 
+    if not raw:
+        raise ValueError(f"File rỗng: {path}")
 
-def load_data_from_json(filepath):
-    if not os.path.exists(filepath):
-        print(f"Lỗi: Không tìm thấy file {filepath}")
-        return [], []
+    if raw.lstrip().startswith("["):
+        data = json.loads(raw)
+        if not isinstance(data, list):
+            raise ValueError(f"JSON array không hợp lệ (không phải list): {path}")
+        print(f"Đọc JSON dạng array OK: {path}")
+        return data
 
-    with open(filepath, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    items = []
+    for i, line in enumerate(raw.splitlines(), start=1):
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            items.append(json.loads(line))
+        except json.JSONDecodeError as err:
+            raise ValueError(f"Lỗi JSON Lines tại dòng {i} trong {path}: {err}") from err
 
-    reviews = [item.get('review', '') for item in data]
-    labels = [item.get('sentiment', '') for item in data]
-    return reviews, labels
+    print(f"Đọc JSON dạng lines OK: {path}")
+    return items
 
 
-def create_model(vocab_size, embedding_dim, max_length, num_classes):
-    model = Sequential([
-        # Khai báo kích thước đầu vào rõ ràng
-        Input(shape=(max_length,)),
+def validate_and_extract(records, split_name: str):
+    reviews, sentiments = [], []
+    for idx, r in enumerate(records):
+        if not isinstance(r, dict):
+            raise ValueError(f"{split_name}: phần tử {idx} không phải object JSON")
+        if "review" not in r or "sentiment" not in r:
+            raise ValueError(f"{split_name}: phần tử {idx} thiếu 'review' hoặc 'sentiment'")
+        reviews.append(r["review"])
+        sentiments.append(r["sentiment"])
+    return reviews, sentiments
 
-        Embedding(vocab_size, embedding_dim),
 
-        # Mô hình mạnh hơn với 128 units
-        Bidirectional(GRU(CONFIG['gru_units'], return_sequences=False)),
+train_records = load_json_flexible(TRAIN_PATH)
+val_records   = load_json_flexible(VAL_PATH)
+test_records  = load_json_flexible(TEST_PATH)
 
-        Dropout(CONFIG['dropout_rate']),
+X_train_raw, y_train_raw = validate_and_extract(train_records, "train")
+X_val_raw,   y_val_raw   = validate_and_extract(val_records, "val")
+X_test_raw,  y_test_raw  = validate_and_extract(test_records, "test")
 
-        Dense(64, activation='relu'),  # Lớp trung gian
-        Dropout(0.3),                  # Dropout phụ
+print("Train size:", len(X_train_raw))
+print("Val size:", len(X_val_raw))
+print("Test size:", len(X_test_raw))
 
-        Dense(num_classes, activation='softmax')
+# =========================
+# 2) Preprocessing: giữ như trước + bỏ dấu tiếng Việt
+# =========================
+def clean_review_basic(text):
+    if not isinstance(text, str):
+        return ""
+    text = text.lower()
+    text = re.sub(r"\d+", " ", text)
+    text = re.sub(r"[^\w\s]", " ", text, flags=re.UNICODE)
+    text = text.replace("_", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def remove_vietnamese_accents(text):
+    if not isinstance(text, str):
+        return ""
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    text = unicodedata.normalize("NFC", text)
+    return text
+
+
+def preprocess_review(text):
+    return remove_vietnamese_accents(clean_review_basic(text))
+
+
+X_train = [preprocess_review(t) for t in X_train_raw]
+X_val   = [preprocess_review(t) for t in X_val_raw]
+X_test  = [preprocess_review(t) for t in X_test_raw]
+
+
+def normalize_label(x):
+    return str(x).lower().strip()
+
+
+y_train_norm = [normalize_label(x) for x in y_train_raw]
+y_val_norm   = [normalize_label(x) for x in y_val_raw]
+y_test_norm  = [normalize_label(x) for x in y_test_raw]
+
+# =========================
+# 3) Encode label: fit trên train, transform cho val/test
+# =========================
+le = LabelEncoder()
+le.fit(y_train_norm)
+
+train_labels_set = set(le.classes_)
+val_extra = set(y_val_norm) - train_labels_set
+test_extra = set(y_test_norm) - train_labels_set
+if val_extra or test_extra:
+    raise ValueError(
+        "Val/Test có nhãn không xuất hiện trong Train.\n"
+        f"Val extra labels: {sorted(val_extra)}\n"
+        f"Test extra labels: {sorted(test_extra)}\n"
+        f"Train labels: {list(le.classes_)}"
+    )
+
+y_train = le.transform(y_train_norm)
+y_val   = le.transform(y_val_norm)
+y_test  = le.transform(y_test_norm)
+
+classes_str = [str(c) for c in le.classes_]
+print("Classes:", classes_str)
+
+# =========================
+# 4) TF-IDF + GRU + GridSearchCV
+# =========================
+num_classes = len(classes_str)
+
+def build_gru_model(meta, gru_units=128, lr=1e-3, n_classes=num_classes):
+    input_shape = meta["X_shape_"][1:]  # (timesteps, features)
+    model = tf.keras.Sequential([
+        tf.keras.layers.Input(shape=input_shape),
+        tf.keras.layers.GRU(gru_units),
+        tf.keras.layers.Dense(n_classes, activation="softmax"),
     ])
-
     model.compile(
-        loss='categorical_crossentropy',
-        optimizer=tf.keras.optimizers.Adam(learning_rate=0.001),
-        metrics=['accuracy']
+        optimizer=tf.keras.optimizers.Adam(learning_rate=lr),
+        loss="sparse_categorical_crossentropy",
+        metrics=["accuracy"],
     )
     return model
 
+to_dense = FunctionTransformer(
+    lambda X: X.toarray().astype(np.float32),
+    accept_sparse=True
+)
 
-def main():
-    # 1. LOAD DATA
-    print(">>> 1. Đang tải dữ liệu...")
-    train_reviews, train_labels = load_data_from_json(CONFIG['train_file'])
-    test_reviews, test_labels = load_data_from_json(CONFIG['test_file'])
+to_3d = FunctionTransformer(
+    lambda X: X.reshape((X.shape[0], X.shape[1], 1)),
+    validate=False
+)
 
-    if not train_reviews or not train_labels:
-        print("Lỗi: Dữ liệu train rỗng, dừng chương trình.")
-        return
+pipe = Pipeline(steps=[
+    ("tfidf", TfidfVectorizer(
+        token_pattern=r"(?u)\b\w+\b",
+        lowercase=False,
+    )),
+    ("dense", to_dense),
+    ("to3d", to_3d),
+    ("clf", KerasClassifier(
+        model=build_gru_model,
+        verbose=0,
+        random_state=SEED,
+    )),
+])
 
-    if not test_reviews or not test_labels:
-        print("Lỗi: Dữ liệu test rỗng, dừng chương trình.")
-        return
+param_grid = {
+    "tfidf__max_features": [11400],
+    "tfidf__ngram_range": [(1, 2)],
+    "tfidf__min_df": [1],
+    "tfidf__max_df": [0.2],
+    "tfidf__sublinear_tf": [True],
+    "tfidf__norm": ["l2"],
 
-    # 2. XỬ LÝ NHÃN & TÍNH TRỌNG SỐ (CLASS WEIGHTS)
-    print(">>> 2. Đang xử lý nhãn và tính toán trọng số...")
-    label_encoder = LabelEncoder()
-    y_train_enc = label_encoder.fit_transform(train_labels)
-    y_test_enc = label_encoder.transform(test_labels)
+    "clf__model__gru_units": [128],
+    "clf__model__lr": [1e-3],
+    "clf__batch_size": [64],
+    "clf__epochs": [10],
+}
 
-    # Tính class weights để cân bằng dữ liệu
-    classes = np.unique(y_train_enc)
-    class_weights_array = class_weight.compute_class_weight(
-        class_weight='balanced',
-        classes=classes,
-        y=y_train_enc
-    )
-    # Mapping từ "chỉ số lớp" -> "trọng số"
-    class_weights_dict = {cls: w for cls, w in zip(classes, class_weights_array)}
-    print(f"   Trọng số các lớp (Class Weights): {class_weights_dict}")
+cv = StratifiedKFold(n_splits=3, shuffle=True, random_state=SEED)
 
-    # Chuyển sang One-hot
-    num_classes = len(classes)
-    y_train_onehot = to_categorical(y_train_enc, num_classes)
-    y_test = to_categorical(y_test_enc, num_classes)
+grid = GridSearchCV(
+    estimator=pipe,
+    param_grid=param_grid,
+    scoring="f1_macro",
+    cv=cv,
+    n_jobs=1,
+    verbose=2,
+    refit=True,
+)
 
-    # 2.5. LƯU LABEL ENCODER
-    with open(CONFIG['encoder_path'], 'wb') as handle:
-        pickle.dump(label_encoder, handle, protocol=pickle.HIGHEST_PROTOCOL)
+grid.fit(X_train, y_train)
 
-    # 3. TOKENIZER & PADDING
-    print(">>> 3. Đang mã hóa văn bản...")
-    tokenizer = Tokenizer(num_words=CONFIG['vocab_size'], oov_token=CONFIG['oov_tok'])
-    tokenizer.fit_on_texts(train_reviews)
+print("\nBest CV F1-macro:", grid.best_score_)
+print("Best params:", grid.best_params_)
 
-    X_train_all = pad_sequences(
-        tokenizer.texts_to_sequences(train_reviews),
-        maxlen=CONFIG['max_length'],
-        padding=CONFIG['padding_type'],
-        truncating=CONFIG['trunc_type']
-    )
+# =========================
+# 5) Train final: fit best params trên TRAIN + VAL
+# =========================
+X_trainval = X_train + X_val
+y_trainval = np.concatenate([y_train, y_val], axis=0)
 
-    X_test = pad_sequences(
-        tokenizer.texts_to_sequences(test_reviews),
-        maxlen=CONFIG['max_length'],
-        padding=CONFIG['padding_type'],
-        truncating=CONFIG['trunc_type']
-    )
+final_model = grid.best_estimator_
+final_model.fit(X_trainval, y_trainval)
 
-    # Lưu Tokenizer
-    with open(CONFIG['tokenizer_path'], 'wb') as handle:
-        pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
+# =========================
+# 6) Evaluate TEST
+# =========================
+y_test_pred = final_model.predict(X_test)
 
-    # TÁCH TRAIN / VALIDATION TỪ TRAIN SET
-    print(">>> 3.1. Đang tách train/validation...")
-    X_train, X_val, y_train, y_val = train_test_split(
-        X_train_all,
-        y_train_onehot,
-        test_size=0.1,
-        random_state=42,
-        stratify=y_train_enc  # đảm bảo tỷ lệ nhãn giống nhau
-    )
+test_acc = accuracy_score(y_test, y_test_pred)
+test_f1m = f1_score(y_test, y_test_pred, average="macro")
 
-    # 4. BUILD MODEL
-    print(">>> 4. Khởi tạo mô hình...")
-    model = create_model(
-        CONFIG['vocab_size'],
-        CONFIG['embedding_dim'],
-        CONFIG['max_length'],
-        num_classes
-    )
-    model.summary()
+print("\nTEST Accuracy:", test_acc)
+print("TEST F1-macro:", test_f1m)
+print("\nClassification report (TEST):")
+print(classification_report(y_test, y_test_pred, target_names=classes_str))
 
-    # 5. TRAINING
-    print(f">>> 5. Bắt đầu train (Max Epochs: {CONFIG['epochs']})...")
+cm = confusion_matrix(y_test, y_test_pred)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=classes_str)
 
-    # Callback
-    early_stop = EarlyStopping(
-        monitor='val_loss',
-        patience=CONFIG['patience'],
-        restore_best_weights=True
-    )
-    checkpoint = ModelCheckpoint(
-        CONFIG['model_path'],
-        monitor='val_loss',   # thống nhất tiêu chí với EarlyStopping
-        save_best_only=True,
-        verbose=1
-    )
-
-    history = model.fit(
-        X_train, y_train,
-        epochs=CONFIG['epochs'],
-        batch_size=CONFIG['batch_size'],
-        validation_data=(X_val, y_val),
-        callbacks=[early_stop, checkpoint],
-        class_weight=class_weights_dict,  # Áp dụng trọng số lớp
-        verbose=1
-    )
-
-    # --- BƯỚC 6: ĐÁNH GIÁ CHI TIẾT (ACCURACY & F1-SCORE) ---
-    print("\n>>> 6. Đánh giá chi tiết mô hình (trên tập TEST):")
-
-    # 1. Dự đoán trên tập test
-    y_pred_probs = model.predict(X_test)
-    y_pred_classes = np.argmax(y_pred_probs, axis=1)  # Chuyển xác suất thành nhãn (0, 1, 2, ...)
-    y_true_classes = np.argmax(y_test, axis=1)        # Chuyển one-hot ground truth thành nhãn
-
-    # 2. Lấy tên các lớp (Positive, Negative, Neutral, ...)
-    class_names = label_encoder.classes_
-
-    # 3. Tính toán và in báo cáo (Classification Report)
-    print("\nBẢNG BÁO CÁO CHI TIẾT:")
-    report = classification_report(y_true_classes, y_pred_classes, target_names=class_names)
-    print(report)
-
-    # 4. Tính F1-Score tổng thể
-    f1_macro = f1_score(y_true_classes, y_pred_classes, average='macro')
-    f1_weighted = f1_score(y_true_classes, y_pred_classes, average='weighted')
-
-    print(f"Macro F1-Score: {f1_macro:.4f} (Trung bình cộng các lớp)")
-    print(f"Weighted F1-Score: {f1_weighted:.4f} (Trung bình có trọng số theo số lượng mẫu)")
-
-    # 5. Vẽ Ma trận nhầm lẫn (Confusion Matrix) nếu có seaborn
-    if sns is not None:
-        try:
-            cm = confusion_matrix(y_true_classes, y_pred_classes)
-            plt.figure(figsize=(8, 6))
-            sns.heatmap(
-                cm,
-                annot=True,
-                fmt='d',
-                cmap='Blues',
-                xticklabels=class_names,
-                yticklabels=class_names
-            )
-            plt.xlabel('Dự đoán (Predicted)')
-            plt.ylabel('Thực tế (Actual)')
-            plt.title('Confusion Matrix')
-            plt.tight_layout()
-            plt.show()
-        except Exception as e:
-            print("Không thể vẽ Confusion Matrix:", e)
-    else:
-        print("Bỏ qua vẽ Confusion Matrix vì thiếu seaborn.")
-
-    # 7. DEMO
-    print("\n>>> 7. Demo dự đoán:")
-    demo_sentences = [
-        "phim noi dung qua chan xem phi thoi gian",
-        "dich vu tuyet voi nhan vien nhiet tinh",
-        "hang tam on khong co gi dac sac"
-    ]
-
-    for text in demo_sentences:
-        seq = tokenizer.texts_to_sequences([text])
-        padded = pad_sequences(
-            seq,
-            maxlen=CONFIG['max_length'],
-            padding=CONFIG['padding_type'],
-            truncating=CONFIG['trunc_type']
-        )
-        pred = model.predict(padded)
-        label = label_encoder.inverse_transform([np.argmax(pred)])[0]
-        print(f"   '{text}' -> {label} ({np.max(pred) * 100:.1f}%)")
-
-
-if __name__ == '__main__':
-    main()
+fig, ax = plt.subplots(figsize=(8, 6))
+disp.plot(ax=ax, cmap=plt.cm.Blues, values_format="d", colorbar=True)
+ax.set_title("Confusion Matrix - TF-IDF + GRU (TEST)")
+plt.tight_layout()
+plt.show()
