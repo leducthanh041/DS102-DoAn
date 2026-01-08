@@ -159,13 +159,13 @@ def main():
     set_seed(42)
     
     # --- CẤU HÌNH ĐƯỜNG DẪN ---
-    train_path = r"preprocessed-dataset\train_processed.json"
-    dev_path   = r"preprocessed-dataset\dev_processed.json"
-    test_path  = r"preprocessed-dataset\test_processed.json"
-    
+    train_path = "/datastore/uittogether2/LuuTru/Thanhhn/datasets/preprocessed-dataset/train_processed.json"
+    dev_path   = "/datastore/uittogether2/LuuTru/Thanhhn/datasets/preprocessed-dataset/dev_processed.json"
+    test_path  = "/datastore/uittogether2/LuuTru/Thanhhn/datasets/preprocessed-dataset/test_processed.json"
+
     output_dir = "./bert-finetuned-model"
     # Lưu Confusion Matrix vào thư mục riêng cho BERT
-    cm_save_dir = "Confusion-Matrix/BERT" 
+    cm_save_dir = "./Confusion-Matrix/BERT" 
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"[Device] {device}")
